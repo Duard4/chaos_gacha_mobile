@@ -1,0 +1,226 @@
+// styles.ts
+import { StyleSheet } from "react-native";
+
+export const styles = StyleSheet.create({
+  headerContent: {
+    flex: 1,
+    justifyContent: "center",
+    alignItems: "center",
+    position: "relative",
+  },
+  headerImage: {
+    width: "100%",
+    height: "100%",
+    position: "absolute",
+  },
+  titleOverlay: {
+    position: "absolute",
+    color: "#fdf7fdff",
+    fontSize: 48,
+    fontWeight: "bold",
+    textAlign: "center",
+    textShadowColor: "rgba(0, 0, 0, 0.75)",
+    textShadowOffset: { width: -1, height: 1 },
+    textShadowRadius: 10,
+    zIndex: 2,
+  },
+
+  // Item Display Styles
+  itemContainer: {
+    padding: 20,
+    margin: 10,
+    borderRadius: 15,
+    backgroundColor: "rgba(255, 255, 255, 0.05)",
+    borderWidth: 1,
+    borderColor: "rgba(255, 255, 255, 0.1)",
+  },
+  itemTitle: {
+    fontSize: 24,
+    lineHeight: 30,
+    fontWeight: "bold",
+    textAlign: "center",
+    marginBottom: 8,
+    textShadowColor: "rgba(0, 0, 0, 0.5)",
+    textShadowOffset: { width: 1, height: 1 },
+    textShadowRadius: 3,
+  },
+  itemRarity: {
+    fontSize: 16,
+    textAlign: "center",
+    marginBottom: 12,
+    fontWeight: "600",
+  },
+  itemDescription: {
+    fontSize: 14,
+    textAlign: "center",
+    marginBottom: 20,
+    lineHeight: 20,
+    opacity: 0.9,
+  },
+  buttonRow: {
+    flexDirection: "row",
+    justifyContent: "space-around",
+    gap: 10,
+  },
+  rollButton: {
+    backgroundColor: "#4CAF50",
+    paddingVertical: 12,
+    paddingHorizontal: 24,
+    borderRadius: 25,
+    flex: 1,
+    alignItems: "center",
+    elevation: 3,
+    shadowColor: "#000",
+    shadowOffset: { width: 0, height: 2 },
+    shadowOpacity: 0.25,
+    shadowRadius: 3.84,
+  },
+  copyButton: {
+    backgroundColor: "#2196F3",
+    paddingVertical: 12,
+    paddingHorizontal: 24,
+    borderRadius: 25,
+    flex: 1,
+    alignItems: "center",
+    elevation: 3,
+    shadowColor: "#000",
+    shadowOffset: { width: 0, height: 2 },
+    shadowOpacity: 0.25,
+    shadowRadius: 3.84,
+  },
+  buttonText: {
+    color: "#fff",
+    fontWeight: "bold",
+    fontSize: 16,
+  },
+
+  // Levels Styles
+  levelsContainer: {
+    padding: 20,
+    margin: 10,
+    borderRadius: 15,
+    backgroundColor: "rgba(255, 255, 255, 0.05)",
+    borderWidth: 1,
+    borderColor: "rgba(255, 255, 255, 0.1)",
+  },
+  sectionTitle: {
+    fontSize: 18,
+    fontWeight: "bold",
+    marginBottom: 15,
+    textAlign: "center",
+  },
+  levelsGrid: {
+    flexDirection: "row",
+    justifyContent: "space-between",
+    gap: 10,
+  },
+  levelInput: {
+    flex: 1,
+    alignItems: "center",
+  },
+  levelLabel: {
+    fontSize: 12,
+    marginBottom: 5,
+    fontWeight: "600",
+  },
+  input: {
+    borderWidth: 1,
+    borderColor: "#666",
+    padding: 10,
+    borderRadius: 8,
+    color: "#fff",
+    backgroundColor: "rgba(255, 255, 255, 0.1)",
+    textAlign: "center",
+    width: "100%",
+    fontSize: 14,
+  },
+
+  // Categories Styles
+  // Categories Styles
+  categoriesContainer: {
+    padding: 16,
+    margin: 8,
+    borderRadius: 12,
+    backgroundColor: "rgba(255, 255, 255, 0.05)",
+    borderWidth: 1,
+    borderColor: "rgba(255, 255, 255, 0.1)",
+  },
+  categoryGrid: {
+    flexDirection: "row",
+    flexWrap: "wrap",
+    justifyContent: "space-between",
+    alignContent: "center",
+    gap: 12,
+  },
+  categoryButton: {
+    backgroundColor: "rgba(255, 255, 255, 0.1)",
+    paddingVertical: 10,
+    paddingHorizontal: 8,
+    borderRadius: 20,
+    width: "100%",
+    borderWidth: 1,
+    borderColor: "rgba(255, 255, 255, 0.3)",
+    alignItems: "center",
+    justifyContent: "center",
+  },
+  selectedCategoryButton: {
+    backgroundColor: "#4CAF50",
+    borderColor: "#4CAF50",
+  },
+  categoryButtonText: {
+    fontSize: 14,
+    fontWeight: "600",
+  },
+  selectedCategoryButtonText: {
+    color: "#fff",
+  },
+
+  // Tickets Styles
+  ticketsContainer: {
+    padding: 20,
+    margin: 10,
+    borderRadius: 15,
+    backgroundColor: "rgba(255, 255, 255, 0.05)",
+    borderWidth: 1,
+    borderColor: "rgba(255, 255, 255, 0.1)",
+    marginBottom: 20,
+  },
+  ticketGrid: {
+    flexDirection: "row",
+    flexWrap: "wrap",
+    justifyContent: "space-between",
+    gap: 8,
+  },
+  ticketButton: {
+    paddingVertical: 12,
+    paddingHorizontal: 16,
+    borderRadius: 15,
+    borderWidth: 2,
+    minWidth: "48%",
+    alignItems: "center",
+    marginBottom: 8,
+  },
+  selectedTicketButton: {
+    borderWidth: 3,
+    elevation: 5,
+    shadowColor: "#000",
+    shadowOffset: { width: 0, height: 2 },
+    shadowOpacity: 0.25,
+    shadowRadius: 3.84,
+  },
+  ticketButtonText: {
+    fontSize: 14,
+    fontWeight: "bold",
+    marginBottom: 2,
+  },
+  selectedTicketButtonText: {
+    textShadowColor: "rgba(0, 0, 0, 0.5)",
+    textShadowOffset: { width: 1, height: 1 },
+    textShadowRadius: 2,
+  },
+  ticketLevels: {
+    fontSize: 10,
+    opacity: 0.8,
+    fontWeight: "500",
+  },
+});

@@ -1,0 +1,3874 @@
+[
+    {
+        "id": 1,
+        "title": "Gae Bolg",
+        "rarity": 5.3,
+        "description": "#Fate Cu Chulainn - A cursed demonic spear crafted from the skull of a great beast owned by the legendary hero Cu Chulainn, the wounds inflicted with this spear are cursed to never heal. This effect can only be bypassed with Legendary rank healing. With Master rank Polearm mastery and practice you can access the noble phantasms of this weapon.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 2,
+        "title": "Excalibur the Sword of Promised Victory",
+        "rarity": 7.0,
+        "description": "#Fate Artoria - The Sword of Promised Victory that was crafted by the fae as the ultimate hope of humanity, one of the strongest weapons bound by 12 restraints unable to show its true power.",
+        "tier": "Mythical",
+        "color": "#fc61ff"
+    },
+    {
+        "id": 3,
+        "title": "Laevatein",
+        "rarity": 7.8,
+        "description": "#Fate Surtr - The Sun-Like Sword that Becomes a Calamity owned by Surtr capable of wiping out all life on the planet as it incinerates all things, prioritizing life above all else, even a god would be reduced to ashes.",
+        "tier": "Mythical",
+        "color": "#fc61ff"
+    },
+    {
+        "id": 4,
+        "title": "Deep Sea Knight Anchor",
+        "rarity": 4.8,
+        "description": "#Black Souls - The Anchor wielded by the Knight of the Deep Seas blessed by the blessing of the Secret Princess. Wielding this anchor doubles your strength and boosts the power of all water-based abilities.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 5,
+        "title": "Vorpal Blade",
+        "rarity": 4.0,
+        "description": "#Blacksouls - The sword of the Evil Dragon Slaying Rabbit, when wielded against a Dragon it gives the user enhanced physical stats and ignores a portion of the dragon's durability.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 6,
+        "title": "Demon Catalyst",
+        "rarity": 4.8,
+        "description": "#BlackSouls A staff carved from the bones and soul of a great demon, amplifies the power of all spells cast with it by 2x but also increases their mana consumption by 2x",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 7,
+        "title": "Astral Injection",
+        "rarity": 3.5,
+        "description": "#Calamity Mod - An injection made from the essence of the starborn astral blight, MASSIVELY increases energy regeneration for 10 minutes but while the effect is active your insides will start tearing up and rotting from the influx of astral energy. Restock time: 120 hours",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 8,
+        "title": "Yharim Stimulants",
+        "rarity": 4.1,
+        "description": "#Calamity Mod - An injection made by Dreadon to give its user immense might for a short time, upon injecting these stimulants you will receive a large boost in physical ability and a large boost in regenerative capabilities for 30 minutes. After duration passes you will be inflicted with weakness and exhaustion. Restock time: 120 Hours",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 9,
+        "title": "Cloak of Invisibility",
+        "rarity": 3.0,
+        "description": "#A cloak that bends light around it to obscure its wearer",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 10,
+        "title": "Master Key",
+        "rarity": 5.2,
+        "description": "#Allows you to open any physical lock and even barriers and wards by inserting the key and twisting it.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 11,
+        "title": "Spear of Longinus X",
+        "rarity": 5.5,
+        "description": "#Evangelion - A large red spear that adjusts size according to its user and changes its shape according to their needs, this spear can tear through even the strongest of barriers.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 12,
+        "title": "Invisible Air",
+        "rarity": 4.0,
+        "description": "#Fate Artoria - Barrier of the wind king is a barrier made of several layers of extremely compressed air that the user can control at will",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 13,
+        "title": "Gae Buidhe",
+        "rarity": 4.2,
+        "description": "#Fate Diarmuid - A legendary spear carried by the hero Diarmuid. This spear is cursed to make its opponents never close whether it is by traditional healing or through magic, wounds inflicted by this spear cannot be healed by any healing below Legendary Level. The curse is also dispelled when the owner dies or the spear is broken. The spear can mend itself back together after being broken as it is a phantasmal object.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 14,
+        "title": "Gae Dearg",
+        "rarity": 4.8,
+        "description": "#Fate Diarmuid - A legendary spear carried by the hero Diarmuid. This spear is capable of severing and nullifying magic, making all forms of magical protection almost useless against it. This effect is not useful for dispelling spells but for bypassing them.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 15,
+        "title": "Gram",
+        "rarity": 6.0,
+        "description": "#DxD - The Strongest Demonic Sword on par with even Durandal. This sword is nigh unbreakable and the user is able to emit a destructive aura by expending their own energy, in addition, this sword is incredibly",
+        "tier": "Legendary",
+        "color": "#f7d40a"
+    },
+    {
+        "id": 16,
+        "title": "Durandal",
+        "rarity": 5.3,
+        "description": "#DxD - One of the strongest Holy Swords. The legendary Durandal is said to be unbreakable and capable of severing anything, in addition, the Durandal can release a destructive aura in accordance to its user's wishes by expending their energy. This sword is extremely difficult to use for an inexperienced user.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 17,
+        "title": "Sword Birth",
+        "rarity": 5.0,
+        "description": "#DxD - A sacred gear created by god. It allows the user to conjure constructs of demonic swords with varying properties depending on the user's capabilities and skill. Swords that absorb flame or ones that are exceptionally sharp are just a few of the many examples. The user cannot create a sword that does something they themselves cannot do.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 18,
+        "title": "A skeleton",
+        "rarity": 0.3,
+        "description": "#An ordinary human skeleton from a completely ordinary person",
+        "tier": "Trash",
+        "color": "#a39589"
+    },
+    {
+        "id": 19,
+        "title": "Auric Tesla Armor",
+        "rarity": 7.0,
+        "description": "#(Tech)Calamity Mod - A power armor modeled after the one worn by the God Slaying Tyrant Yharim, wearing this armor grants an extreme boost to physical abilities, rare rank regeneration, hovering, and an extremely fast dash that can be activated every 10 seconds. This armor is managed by a virtual intelligence that controls its systems",
+        "tier": "Mythical",
+        "color": "#fc61ff"
+    },
+    {
+        "id": 20,
+        "title": "Enuma Elish",
+        "rarity": 8.7,
+        "description": "#Fate Gilgamesh - The Sword of Rupture, Ea. Granted by the gods to King Gilgamesh, this sword was forged before the concept of swords was created. The sword is capable of releasing red winds capable of dislocating and shredding spacetime without expending the user's energy, in addition, it can act as a mortar when its full power is unleashed, allowing the user to unleash a beam that removes the texture of the world, essentially annihilating everything in its path.",
+        "tier": "Divine",
+        "color": "#ff8c00"
+    },
+    {
+        "id": 21,
+        "title": "Pokeball Set",
+        "rarity": 3.3,
+        "description": "#Pokemon - A set of Pokeballs that can capture creatures and house them for convenient storage, creatures caught by Pokeballs are registered as familiars by the system. Restock timer: 24 hours",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 22,
+        "title": "Inverted Spear of Heaven",
+        "rarity": 5.3,
+        "description": "#JJK - The inverted spear of heaven is capable of dispelling any active ability effect it comes into contact with such as a fireball or a barrier, but does not work on basic energy applications and magic.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 23,
+        "title": "Cornucopia",
+        "rarity": 5.4,
+        "description": "#A horn that contains an unlimited amount of delicious and fresh ingredients that can be taken out at any time.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 24,
+        "title": "Tome of the Erdtree",
+        "rarity": 4.7,
+        "description": "#Elden Ring - Allows you to learn the incantations of the Erdtree such as healing and blessings. https://eldenring.wiki.fextralife.com/Erdtree+Incantations",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 25,
+        "title": "Tome of the Grand Rizzard",
+        "rarity": 4.0,
+        "description": "#A tome containing vast knowledge in erotic magical arts allowing you to learn Eromancy.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 26,
+        "title": "Tricksters Book of Illusions",
+        "rarity": 4.3,
+        "description": "#A tome containing a variety of spells about illusions and tricks allowing you to learn DnD illusion spells from it. https://dnd5e.wikidot.com/spells:illusion",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 27,
+        "title": "Dragon Ball",
+        "rarity": 2.3,
+        "description": "#Dragon Ball - A singular Dragon ball, if you gather all 7 you can summon Shenron to grant you a wish that is within his power or give yourself any ability below a 6.9 rating.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 28,
+        "title": "Stone Mask",
+        "rarity": 4.7,
+        "description": "#JoJo - A stone mask crafted by the Pillar Men that transforms any who wears it and drips blood on it to become a vampire.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 29,
+        "title": "Stone of Aja",
+        "rarity": 4.2,
+        "description": "#JoJo - A legendary jewel that has the ability to amplify hamon and light to extreme levels, wearing this pendant makes light abilities stronger, and using it with the stone mask one can turn themselves into a perfect lifeform.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 30,
+        "title": "Grimoire of the Twice Dead Death Mage",
+        "rarity": 5.7,
+        "description": "#Death Mage - A grimoire belonging to a magician of death who has died twice. Allows you to learn death attribute magic belonging to Vandalieu https://death-mage.fandom.com/wiki/Death-attribute_magic",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 31,
+        "title": "Grimoire of the White Mage",
+        "rarity": 4.1,
+        "description": "#A tome containing a variety of spells about White Magic allowing the reader to learn White Magic spells such as healing, curing, buffs, and warding from it.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 32,
+        "title": "Grimoire of the Pyromancer",
+        "rarity": 4.3,
+        "description": "#A tome containing a variety of spells about fire and flame allowing the reader to learn Fire Magic from it.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 33,
+        "title": "Grimoire of the Cryomancer",
+        "rarity": 4.2,
+        "description": "#A tome containing a variety of spells about ice and cold allowing the reader to learn Ice Magic from it.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 34,
+        "title": "Grimoire of the Aeromancer",
+        "rarity": 4.4,
+        "description": "#A tome containing a variety of spells about Wind and Lightning allowing the reader to learn Air Magic from it.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 35,
+        "title": "Alchemilia",
+        "rarity": 3.6,
+        "description": "#A tome containing guides on how to make a lot of minor yet useful potions such as healing, energy recovery, etc. from mundane or ordinary ingredients. Those who haven't read Alchemilia physically cannot craft the potions it gives knowledge about.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 36,
+        "title": "Midas' Bag of Holding",
+        "rarity": 3.3,
+        "description": "#A small pouch the size of a human hand that contains a 1km x 1km square of space inside of it, whoever puts their hand inside can pull out what they are looking for no problem, the weight of the pouch does not change.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 37,
+        "title": "Bar of Vibranium",
+        "rarity": 5.1,
+        "description": "#Marvel - A bar of pure and refined Wakandan Vibranium ready to be processed, Vibranium has the special property of being able to absorb kinetic energy and vibrations, making it nigh unbreakable by conventional means",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 38,
+        "title": "Angel Ring",
+        "rarity": 4.7,
+        "description": "#Modded Minecraft - An ornate gold ring that allows the user to freely move through the air at the same speed they can run at.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 39,
+        "title": "Black Barrel",
+        "rarity": 7.4,
+        "description": "#Fate - A gun that imposes the concept of limited life on any entity it hits, even absolute immortals will be rendered mortal by this weapon.",
+        "tier": "Mythical",
+        "color": "#fc61ff"
+    },
+    {
+        "id": 40,
+        "title": "Black Key Rites",
+        "rarity": 4.2,
+        "description": "#Fate - A holy rite that allows the user to create black keys themselves using energy",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 41,
+        "title": "Shroud of Martin",
+        "rarity": 4.5,
+        "description": "#Fate - A holy shroud once worn by a saint, when wrapped around an object, the shroud suppresses the object's state, making it stay \"normal\".",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 42,
+        "title": "Enkidu",
+        "rarity": 8.4,
+        "description": "#Fate - The Chains of Heaven that can suppress the very gods, the chains can be manifested at any time and be controlled with your mind, the more holy or divine a target is, the stronger Enkidu is.",
+        "tier": "Divine",
+        "color": "#ff8c00"
+    },
+    {
+        "id": 43,
+        "title": "A pair of very comfortable socks",
+        "rarity": 0.1,
+        "description": "#Very comfortable, if you managed to roll this out of every treasure of the multiverse inside of the gacha you deserve pity.",
+        "tier": "Trash",
+        "color": "#a39589"
+    },
+    {
+        "id": 44,
+        "title": "Character Card Destinys Child",
+        "rarity": 5.6,
+        "description": "#Legendary Mechanic - Predict an 'opportunity' in the future. Can indicate a mission, an item, an action of a certain person… etc. The vision is accurate and detailed. This item has 5 uses and after 5 uses it will fade away.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 45,
+        "title": "HF Murasama",
+        "rarity": 4.7,
+        "description": "#(Tech)Metal Gear Rising Revengence - A crimson mechanical blade that vibrates at unreal frequencies, making it capable of slicing through almost anything.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 46,
+        "title": "Playful Cloud",
+        "rarity": 4.1,
+        "description": "#JJK - A cursed three-sectioned staff that amplifies in destructive power the higher the strength of its user.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 47,
+        "title": "Pokedex",
+        "rarity": 4.3,
+        "description": "#(Tech)Pokemon - A smart handheld device that can scan, identify, categorize, and analyze any race or species of creature in less than 10 seconds.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 48,
+        "title": "The Infinite Magazine",
+        "rarity": 4.0,
+        "description": "#A magazine that can morph into the magazine of any projectile shooting weapon and will supply it with infinite amounts of the ammo it uses as long as it stays attached.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 49,
+        "title": "Ticket to Belethor's General Goods",
+        "rarity": 4.2,
+        "description": "#Skyrim - Once you use this item, you are teleported to Belethors General Goods in Tamriel, Skyrim for 1 hour. You cannot leave a 10-meter circle from where you first appeared, allowing you to buy goods native to the world of Skyrim and Tamriel such as Soul Gems, Magic Books, etc. Cooldown: 720 hours",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 50,
+        "title": "Hito Hito no Mi",
+        "rarity": 4.0,
+        "description": "#One Piece - A devil fruit that is capable of making an object or an animal capable of taking on a human or a hybrid form on the downside of making them unable to swim.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 51,
+        "title": "Triactis True Paladinian Mage-Hammer of Might",
+        "rarity": 7.1,
+        "description": "#Calamity Mod - A hammer once wielded by the greatest Paladin. Using this hammer amplifies the user's magical and physical abilities considerably as well as augmenting all spells that use the hammer as a focus. This hammer possesses tremendous might capable of flattening mountains, and when thrown, this hammer will find its way back to its user like the Mjolnir.",
+        "tier": "Mythical",
+        "color": "#fc61ff"
+    },
+    {
+        "id": 52,
+        "title": "Ticket to the ITOPOD",
+        "rarity": 3.0,
+        "description": "#When used it sends you to the ITOPOD otherwise known as the Infinite Tower of Pissed Off Dudes. Every floor contains an enemy with an ability as strong as the corresponding floor. According to the floor you manage to finish your climb at, you will get an item of equal level.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 53,
+        "title": "Tome of Hands",
+        "rarity": 3.7,
+        "description": "#Love Advice From the Great Duke of hell - While holding this tome you are capable of transforming and creating hands out of any surface that you can control like your own limbs, with practice and study you can learn to do it without relying on the tome.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 54,
+        "title": "Furniture Catalog",
+        "rarity": 3.5,
+        "description": "#Allows you to instantly buy and get delivered any mundane furniture in your current world to your location via teleportation, all pieces of furniture cost their manufacturing cost. Cannot be accessed while in combat or in hostile territory.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 55,
+        "title": "Abyssal Diving Suit",
+        "rarity": 4.2,
+        "description": "#(Tech)Calamity Mod - An extremely tough power armor suit designed for deep sea exploration, and deep sea as in 3,000km under the sea deep, this suit is capable of easily adapting to any underwater condition whether its poison, corrosion, sea pressure, this suit will perform perfectly, allowing you to move and live in any underwater condition with ease.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 56,
+        "title": "Grand Gelatin",
+        "rarity": 4.8,
+        "description": "#Calamity Mod - A rainbow-colored gel in an ornate glass bottle, if you consume the grand gelatin you gain Advanced Poison Resistance, as well as a sizeable boost to your vitality and agility.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 57,
+        "title": "Ring of Swiftness",
+        "rarity": 2.1,
+        "description": "#A magical silver ornate ring that improves your agility, reflexes, and balance.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 58,
+        "title": "Sand Cloak",
+        "rarity": 2.8,
+        "description": "#A dusty brown cloak that helps hide your presence, and once every 8 hours you can cover yourself in a violent localized sandstorm to retreat or hide yourself.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 59,
+        "title": "Ambrosial Ampule",
+        "rarity": 5.8,
+        "description": "#Calamity Mod - Ambrosia of the gods, upon drinking it massively increases the drinker's vitality to the point it almost seems like they have regeneration, in addition, the drinker is cured of all illnesses and ailments.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 60,
+        "title": "Bloom Stone",
+        "rarity": 3.2,
+        "description": "#Calamity Mod - An ancient relic made out of a special green gem fitted into a necklace, under sunlight it gives its user regeneration depending on the time of day, at morning its Uncommon Regeneration, at Noon it is Rare Regeneration, afternoon Uncommon and at evening its Common, it gives no benefits at night.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 61,
+        "title": "Butchers Bag of Infinite Meat",
+        "rarity": 1.7,
+        "description": "#A bag containing a limitless amount of fresh meat inside of itself, you can only take 100kg of meat out of it every 24 hours, it contains meat from all mundane animals from earth in all cuts, all of it clean, not ethically sourced. Just plunge your hand into the bag of meat think of what you want and ignore the implication of infinite meat and its source.",
+        "tier": "Common",
+        "color": "#9c7e5a"
+    },
+    {
+        "id": 62,
+        "title": "Living Dew",
+        "rarity": 5.2,
+        "description": "#Calamity Mod - A living dew from the deepest depths of the ancient jungle was said to be capable of granting its owner longevity and vitality, and they were right. When you consume the living dew your vitality and lifespan are significantly increased, making you very resistant to all ailments and heal faster, in addition, these effects are amplified when you are in a jungle or forest.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 63,
+        "title": "Permafrosts Concoction",
+        "rarity": 6.2,
+        "description": "#Calamity Mod - The culmination of the Archamge Permafrost's work. Upon drinking this elixir, your energy/mana reserves and regeneration are greatly increased and all of your frost-related abilities gain massive buffs in addition to taking less energy/mana to cast. You are also greatly resistant to both cold and flame.",
+        "tier": "Legendary",
+        "color": "#f7d40a"
+    },
+    {
+        "id": 64,
+        "title": "THE Stop Sign",
+        "rarity": 4.5,
+        "description": "#An indestructible stop sign, whenever the head of this stop sign makes contact with something it kills all of its momentum instantly.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 65,
+        "title": "Trinket of Chi",
+        "rarity": 2.3,
+        "description": "#Calamity Mod - A trinket held a devout monk who stood still until they became a statue. When standing still for more than 3 seconds you recover your energy/mana and health faster.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 66,
+        "title": "Evasion Scarf",
+        "rarity": 3.7,
+        "description": "#Calamity Mod - A scarf held by an evasive rogue swift as a shadow. When worn you can activate the effect of the scarf to gain a large speed boost and become intangible as you move in a straight line for 1 second, allowing you to move through your enemy's attack or slip through a wall when you need to dodge. 30 second cooldown.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 67,
+        "title": "Grimoire of Hemomancy",
+        "rarity": 4.6,
+        "description": "#Black Clover - A book containing the secrets of Blood Magic from the Clover Kingdom, allowing its users to learn and utilize Hemomancy. Spell List: https://blackclover.fandom.com/wiki/Blood_Magic",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 68,
+        "title": "Grimoire of Pyromancy",
+        "rarity": 4.8,
+        "description": "#Black Cover - A book containing the secrets of Fire Magic from the Clover Kingdom, allowing its users to learn and utilize Pyromancy. Spell List: https://blackclover.fandom.com/wiki/Fire_Magic",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 69,
+        "title": "Tome of Vector Magic",
+        "rarity": 3.6,
+        "description": "#Soul Eater - A tome belonging to one Medusa Gorgon, this book allows its user to learn and utilize her signature Vector Magic. Spell List: https://souleater.fandom.com/wiki/Vector_Magic",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 70,
+        "title": "Boar Vessel 600-500 BC Etruscan ceramic",
+        "rarity": 0.1,
+        "description": "#It is a Boar Vessel 600-500 BC Etruscan ceramic, no further explanation needed.",
+        "tier": "Trash",
+        "color": "#a39589"
+    },
+    {
+        "id": 71,
+        "title": "Shitty Copper",
+        "rarity": 1.6,
+        "description": "#A bag of infinite shitty copper sourced from EA Nasir. Only contains 1000 tons of copper at a time and replenishes every 24 hours.",
+        "tier": "Common",
+        "color": "#9c7e5a"
+    },
+    {
+        "id": 72,
+        "title": "Belt of Giant Strength",
+        "rarity": 3.7,
+        "description": "#DnD - A large and crude brown belt that raises your physical strength to the level of a giant! (Which in effect acts like a Rare rank strength) But this only works if you are weaker than the strength of a giant",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 73,
+        "title": "Blackrazor",
+        "rarity": 5.5,
+        "description": "#DnD - A legendary sentient greatsword sword capable of devouring souls, the souls Blackrazor devours are added to you as health and invigoration that fades over the span of 24 hours or can be stored inside of the blade. In addition, when wielding Blackrazor you can sense all souls in a 100-meter radius. But not letting the sword devour souls for a long span of time may make it grow restless.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 74,
+        "title": "Verminshroud",
+        "rarity": 4.2,
+        "description": "#DnD - A filthy patchwork cloak made of the hide of vermin such as rats and mice, no amount of cleaning will make this thing even remotely clean. While wearing this cloak you are able to transform yourself into a mundane vermin at will, in addition, you can control any vermin you can sense and gain Elite rank resistance to illness and poison while wearing it.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 75,
+        "title": "Topaz Annihilator",
+        "rarity": 4.7,
+        "description": "#DnD - This magic ranged weapon resembles a musket, but in lieu of any ammunition, it holds a glowing yellow scale from a topaz dragon in its heart, just like the founding fathers intended. Shots released from this gun are capable of rotting living creatures and disintegrating physical objects alongside the physical impact.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 76,
+        "title": "Hypnos' Mask",
+        "rarity": 3.5,
+        "description": "#A sleeping mask blessed by Hypnos, the god of sleep, when wearing this mask, your nights are perfectly restful and all of your energy recovers after 8 hours of uninterrupted sleep.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 77,
+        "title": "Blade Smith",
+        "rarity": 5.1,
+        "description": "#DxD - A Sacred Gear created by God that allows its user to create constructs of holy blades at will. The user can create holy swords that possess different attributes depending on the user's ability and skill. Examples like a sword that absorbs flames or a sword that poisons.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 78,
+        "title": "Dimension Lost",
+        "rarity": 8.2,
+        "description": "#DxD - A Longinus Created by God, capable of destroying the world with a good enough user - Dimension Lost is capable of creating a mist that can act as inviolable barriers or portals that transport targets to pocket dimensions it creates, allowing the user to teleport themselves and others freely as well as create their own pocket dimensions.",
+        "tier": "Divine",
+        "color": "#ff8c00"
+    },
+    {
+        "id": 79,
+        "title": "Sepiroth Graal",
+        "rarity": 7.4,
+        "description": "#DxD - A Longinus Created by God, once someone gets in possession of the Sepiroth Graal, they are granted knowledge of Soul, Death, and Life of the highest order on the level of a god, allowing its user to manipulate souls and life as long as they can withstand the mind-crushing levels of information that come from possessing it.",
+        "tier": "Mythical",
+        "color": "#fc61ff"
+    },
+    {
+        "id": 80,
+        "title": "Alchemists Cauldron",
+        "rarity": 3.6,
+        "description": "#A large cauldron that can fill itself with a chosen potion once a day. As a basic cauldron, it is capable of filling itself with basic potions: Enhanced Strength, Enhanced Agility, Waterbreathing, Healing, Minor Regeneration, Stone Skin, etc.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 81,
+        "title": "Dragon Vessel Intermediate",
+        "rarity": 4.2,
+        "description": "#A large cauldron that can fill itself with a chosen potion once a day. As an intermediate cauldron, it is capable of filling itself with more advanced potions: Strength, Agility, Waterbreathing, Healing, Regeneration, Iron Skin, energy recovery, fertility, vitality, etc.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 82,
+        "title": "Dragon Vessel Major",
+        "rarity": 5.3,
+        "description": "#A large cauldron that can fill itself with a chosen potion once a day. As a major cauldron, it is capable of filling itself with major potions: Enhanced Strength, Enhanced Agility, Waterbreathing, greater Healing, greater Regeneration, Iron Skin, dragon breath, etc. as long as the user knows what the potion is and it is below Legendary rank it can be brewed.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 83,
+        "title": "Absorption Line",
+        "rarity": 4.7,
+        "description": "#DxD - A sacred gear created by god, allows the user to conjure energy lines that they can attach to targets to siphon their energy and restore their own. The lines can also be used to bind opponents or swing around like Spiderman.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 84,
+        "title": "Dreadons Gaming Chair",
+        "rarity": 4.9,
+        "description": "#(Tech)Calamity Mod - An incredibly powerful floating chair that is a marvel of technology, it has more calculation power than even the strongest supercomputers, can fly at supersonic speeds, and has powerful forcefields to guard whoever is sitting on it, the ultimate gaming chair.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 85,
+        "title": "Returner's Clock",
+        "rarity": 4.9,
+        "description": "#An ornate antique hand clock, this clock has 3 charges that cannot be refilled. You can use this watch to return to the morning of the current day by spending a charge. Once all 3 charges are spent, this clock will turn into dust.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 86,
+        "title": "Havels Greatshield",
+        "rarity": 2.2,
+        "description": "#Dark Souls - A shield of magical stone wielded by Havel the Rock. Wielding this shield grants enhanced durability and the user can expend energy to cover their body in stone to further reinforce their body.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 87,
+        "title": "Sanctus - Dark souls",
+        "rarity": 2.9,
+        "description": "#Dark Souls - A legendary weapon of the Way of White, granted to an Undead paladin long ago. Once blessed with the protection of a white flame, but its power has all but faded, so now all that remains of it is providing its wielder slight regeneration.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 89,
+        "title": "Ring of Favor and Protection",
+        "rarity": 3.6,
+        "description": "#Dark Souls - A ring symbolizing the favor and protection of the goddess Fina, known in legend to possess \"fateful beauty\". This ring boosts its wearer's Health, Stamina, and Endurane, but breaks if ever removed.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 90,
+        "title": "Covetous Gold Serpent Ring",
+        "rarity": 4.5,
+        "description": "#Dark Souls - The serpent is an imperfect dragon and a symbol of the Undead. Its habit of devouring prey even larger than itself has led to an association with gluttony. This gold ring, engraved with the serpent, boosts its wearer's luck so that more items can be amassed.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 91,
+        "title": "Ring of the Sun Princess",
+        "rarity": 4.2,
+        "description": "#Dark Souls - Ring associated with Gwynevere, princess of sunlight and eldest daughter of Gwyn, the First Lord. The ring is vaguely warm, like a beam of sunlight, and grants the user regeneration and restoration, this effect is further amplified by sunlight.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 92,
+        "title": "Slumbering Dragoncrest Ring",
+        "rarity": 2.9,
+        "description": "#Dark Souls -  his ring was secretly worn by a certain surreptitious sorcerer at Vinheim Dragon School. The ring is engraved with an everlasting dragon in silent slumber, and masks all sound emitting from its wearer.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 93,
+        "title": "Cloranthy Ring",
+        "rarity": 2.4,
+        "description": "#Dark Souls - This ancient ring, engraved with a large green flower, is of unknown origin. Hastens the regeneration of stamina and recovery from exhaustion.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 94,
+        "title": "Ring of fire resistance",
+        "rarity": 2.5,
+        "description": "#Dark Souls - Stoneplates, the symbol of a true knight, grant the strength to face various hardships. The red stoneplate symbolizes fire and boosts defense against flame and heat.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 95,
+        "title": "Blue Stoneplate Ring",
+        "rarity": 2.4,
+        "description": "#Dark Souls - Stoneplates, the symbol of a true knight, grant the strength to face various hardships. The cyan stoneplate symbolizes ice and boosts defense against ice and cold.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 96,
+        "title": "Yellow Stoneplate Ring",
+        "rarity": 2.8,
+        "description": "#Dark Souls - Stoneplates, the symbol of a true knight, grant the strength to face various hardships. The yellow stoneplate symbolizes lightning and storms and boosts defense against lightning and wind.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 97,
+        "title": "Speckled Stoneplate Ring",
+        "rarity": 3.2,
+        "description": "#Dark Souls - Stoneplates, the symbol of a true knight, grant the strength to face various hardships. The precious rare speckled stoneplate grants a small boost to defense against all elemental effects.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 98,
+        "title": "Ring of Steel Protection",
+        "rarity": 2.8,
+        "description": "#Dark Souls - This ring belonged to the Knight King Rendal. It grants its wearer protection by boosting defense against physical attacks.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 99,
+        "title": "Energy Drink",
+        "rarity": 2.6,
+        "description": "#A can of drink that contains 330ml of green juice inside, drinking all of the liquid recovers your energy/mana by 30%, drinking more than 3 cans a day will instantly cause a stroke and a heart attack. Restock Timer: 24 Hours",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 100,
+        "title": "Cloak of Bellowing",
+        "rarity": 0.8,
+        "description": "#DnD - A fancy embroidered red cloak that can bellow majestically even in the absence of wind.",
+        "tier": "Trash",
+        "color": "#a39589"
+    },
+    {
+        "id": 101,
+        "title": "Wardrobe of Mending",
+        "rarity": 1.8,
+        "description": "#A wardrobe of fancy clothes that suit your tastes, when not worn for more than 24 hours these clothes instantly mend themselves into mind condition.",
+        "tier": "Common",
+        "color": "#9c7e5a"
+    },
+    {
+        "id": 102,
+        "title": "Sakuya Fumo",
+        "rarity": 2.5,
+        "description": "#A Fumo of one of the greatest maids, it is said that whatever house this plushie is placed in is maintained as if 10 maids are cleaning and organizing it 24/7.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 103,
+        "title": "Dread Helm",
+        "rarity": 0.7,
+        "description": "#DnD - A black metal helmet that is fairly durable, the eye holes in the visor can also glow an intimidating red.",
+        "tier": "Trash",
+        "color": "#a39589"
+    },
+    {
+        "id": 104,
+        "title": "Cleaning Stone",
+        "rarity": 1.2,
+        "description": "#DnD - A small blue bead that slowly cleans and removes filth from everything within a 10-meter radius of it.",
+        "tier": "Common",
+        "color": "#9c7e5a"
+    },
+    {
+        "id": 105,
+        "title": "All-purpose tool",
+        "rarity": 0.9,
+        "description": "#DnD - A screwdriver that shapes itself into any mundane tool such as hammers, knives, chisels, etc.",
+        "tier": "Trash",
+        "color": "#a39589"
+    },
+    {
+        "id": 106,
+        "title": "Amulet of Health",
+        "rarity": 1.5,
+        "description": "#A gold amulet with a red gem that slightly increases the vitality of its wearer.",
+        "tier": "Common",
+        "color": "#9c7e5a"
+    },
+    {
+        "id": 107,
+        "title": "Magical Beans",
+        "rarity": 3.5,
+        "description": "#A pouch containing a bunch of magical bean seeds that when planted grow over the course of 24 hours to create a steam that is 50 meters thick and extends into space.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 108,
+        "title": "Special Tattoo Kit",
+        "rarity": 3.5,
+        "description": "#A tattoo kit that allows the user to create and inscribe special magical tattoos onto people and imbue them with a variety of effects according to their abilities.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 109,
+        "title": "The Collar of Obedience",
+        "rarity": 2.7,
+        "description": "#A collar that when placed around someone's neck, compels them to obey the owner of the collar, cannot be placed around the neck of someone capable of resisting.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 110,
+        "title": "Unbreakable Shield",
+        "rarity": 4.1,
+        "description": "#A shield that is completely unbreakable, it is the shape of a heater shield slightly larger than one torso, this shield still transfers energy as the energy transferred to the shield still has to go somewhere but hey, the shield still unbroken.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 111,
+        "title": "Mystery of the Night Sky",
+        "rarity": 5.3,
+        "description": "#Blacksouls - A pair of panties belonging to the Outer One beyond the stars who exist everywhere at once, when in your possession these panties help recover your energy and health faster as well as decrease the cooldown of abilities by 33%.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 112,
+        "title": "Can of Febreeze",
+        "rarity": 0.1,
+        "description": "#A can of Febreze that can spray infinitely. From Walmart.",
+        "tier": "Trash",
+        "color": "#a39589"
+    },
+    {
+        "id": 113,
+        "title": "Meeseeks Box",
+        "rarity": 4.5,
+        "description": "#Rick and Morty - A box with a button that when pressed summons a very competent humanoid called Mr. Meeseeks that will obey your order to the best of their capabilities and disappear afterward. Warning, giving Meeseeks a mission they cannot complete or will take more than 7 days to complete will cause them to get hostile and violent.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 114,
+        "title": "The Monster Girl Encyclopedia",
+        "rarity": 3.3,
+        "description": "#A book about monster girls, but its real use is to turn any monster it touches into female versions that the user would find attractive, the strength and abilities of the target are not altered in any way and the target views this change as natural and will not question it.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 115,
+        "title": "Magic Scroll Blizzard",
+        "rarity": 1.7,
+        "description": "#A magical scroll that when invoked calls on a fierce 1km wide blizzard centered on the user that does not affect them that lasts for 30 minutes. Restock Timer: 8 hours",
+        "tier": "Common",
+        "color": "#9c7e5a"
+    },
+    {
+        "id": 116,
+        "title": "Exorcists Gloves",
+        "rarity": 1.1,
+        "description": "#A pair of magical white gloves that allows you to interact with spiritual beings like they are solid.",
+        "tier": "Common",
+        "color": "#9c7e5a"
+    },
+    {
+        "id": 117,
+        "title": "Tome of Rennala",
+        "rarity": 4.0,
+        "description": "#Elden Ring - A tome containing the research and magic of the Carian Royal family, allowing those who study it to learn and wield the Carian Sorceries. Spell List: https://eldenring.wiki.fextralife.com/Carian+Sorceries",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 118,
+        "title": "Tome of Deathblight",
+        "rarity": 4.1,
+        "description": "#Elden Ring - A tome contains the research and records of Those Who Live in Death that worship Godwyn, the Prince of Death, allowing those who study it to learn and wield the Death Sorceries. Spell List: https://eldenring.wiki.fextralife.com/Death+Sorceries",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 119,
+        "title": "Perfect Decoy",
+        "rarity": 1.6,
+        "description": "#An exact replica of your body down to the most minute detail but damaging it reveals that even though it looks like you, it has no DNA or genetics, more like a flesh puppet made to look like you.",
+        "tier": "Common",
+        "color": "#9c7e5a"
+    },
+    {
+        "id": 120,
+        "title": "Tome of Raya Lucaria",
+        "rarity": 3.8,
+        "description": "#Elden Ring - A magical tome containing the teachings of the Raya Lucaria Academy, allowing its reader to learn and harness Glintstone magic. Spell List: https://eldenring.wiki.fextralife.com/Glintstone+Sorceries",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 121,
+        "title": "Tome of the Starscourge",
+        "rarity": 4.7,
+        "description": "#Elden Ring - A magical tome containing the studies and records of Radahn the Starscourge, allowing its reader to study it to learn and harness his gravity magic. Spell List: https://eldenring.wiki.fextralife.com/Gravity+Sorceries",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 122,
+        "title": "Cruise Ship",
+        "rarity": 3.0,
+        "description": "#(Tech)A large luxury cruise ship that is 350 meters long and 80 meters wide, the cruise ship is manned by automatons that cannot perform any duty other than the ones they are assigned to in the ship. In addition, this ship has infinite fuel in its engine.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 123,
+        "title": "Tank",
+        "rarity": 1.2,
+        "description": "#(Tech)A large indistinct military tank with infinite fuel and tank shells inside of it. Fuel and shells cannot be taken out of the vehicle.",
+        "tier": "Common",
+        "color": "#9c7e5a"
+    },
+    {
+        "id": 124,
+        "title": "Pocket Armory",
+        "rarity": 2.2,
+        "description": "#A large grey duffel bag containing a copy of every cold weapon made from high-quality steel, you can take any one weapon out at a time from this bag, if you put the weapon back, the next time you take it out, it will be back in perfect condition.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 125,
+        "title": "Servant Voucher",
+        "rarity": 5.3,
+        "description": "#A coupon that allows you to summon your own Heroic Spirit for free, the summoned heroic spirit depends on you as a person. The servant is bound to you in standard Grail War style, with them receiving mana through you via coitus and you possessing 3 command seals to give absolute commands to them. Cannot summon Divine Servants(Divinity above C or Explicitly a god) or Servants that qualify for a Grand position.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 126,
+        "title": "Stimpack",
+        "rarity": 2.3,
+        "description": "#(Tech)Fallout - A potent medical tool from a post-apocalypse world. A stim pack is a syringe pack filled with modified stem cells and healing agents that boost the human body's natural regenerative properties into overdrive. WARNING: Usage of the stimpack without enough nutrients or minerals in the body can cause more harm than good. Restock Timer: 24 hours",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 127,
+        "title": "Staff of the Pheonix",
+        "rarity": 5.9,
+        "description": "#An ornate staff carved out of pure ruby with gold engravings, using this staff as a focus for using fire abilities and spells increases their power and reduces their cost.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 128,
+        "title": "Moonlight Greatsword",
+        "rarity": 3.1,
+        "description": "#Dark Souls - A sword mage of moonlight crafted from the severed tail of Seath the Scaleless. Wielding this sword makes your spells stronger and you can unleash blasts of magical power from its blade.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 129,
+        "title": "Super Crown - Mario",
+        "rarity": 2.3,
+        "description": "#A magical crown that turns whoever wears it into a pretty girl.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 130,
+        "title": "Crate of Explosives",
+        "rarity": 1.9,
+        "description": "#A crate full of 64 sticks of dynamite that restocks itself every 24 hours.",
+        "tier": "Common",
+        "color": "#9c7e5a"
+    },
+    {
+        "id": 131,
+        "title": "Gold Apple",
+        "rarity": 2.4,
+        "description": "#Minecraft - A magical apple with skin resembling gold, eating it gives the eater uncommon level regeneration for one hour. Restock Timer: 120 Hours",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 132,
+        "title": "Enchanted Golden Apple",
+        "rarity": 3.4,
+        "description": "#Minecraft - A magical apple with skin resembling gold that has been enchanted with magic, eating it gives the eater rare level regeneration for one hour and also bolsters their vitality. Restock Timer: 210 Hours",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 133,
+        "title": "Grimoire of Wind Magic",
+        "rarity": 4.7,
+        "description": "#Black Cover - A book containing the secrets of Wind Magic from the Clover Kingdom, allowing its users to learn and utilize Aeromancy. Spell List: https://blackclover.fandom.com/wiki/Wind_Magic",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 134,
+        "title": "Lightsaber",
+        "rarity": 3.1,
+        "description": "#Star Wars - A classic textbook lightsaber made from a Kyber Crystal that projects a blade of energy, no, you do not need force powers to use this one.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 135,
+        "title": "Wand of the Ice Fairy",
+        "rarity": 4.7,
+        "description": "#A wand made of blue ice crystals that is somehow not cold to the touch but pleasantly cool instead, using this wand as a focus for cold and ice abilities and spells increases their potency and reduces their cost.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 136,
+        "title": "Divine Shotgun",
+        "rarity": 3.5,
+        "description": "#\"Faith in the form of bullets.\" An unremarkable-looking two-barrel shotgun that consumes your energy/mana and condenses holy light bullets with each trigger. These bullets are lethal to all unholy beings and they are unable to heal from the wounds inflicted by the shotgun.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 137,
+        "title": "Druids Living Wand",
+        "rarity": 3.8,
+        "description": "#A wand crafted out of still living wood, focusing nature and healing abilities and spells from this wand increases their power and reduces their cost.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 138,
+        "title": "Movement Ring",
+        "rarity": 3.9,
+        "description": "#Very useful when you really need some mobility. This ring has 3 total charges and recovers a charge every hour. You can use a charge for three things, a 10-meter range blink, 10 seconds of flight, or 10 seconds of Haste.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 139,
+        "title": "Pitcher of Eternal water",
+        "rarity": 1.8,
+        "description": "#Hunter x Hunter - A water pitcher that can pour endless amounts of refreshing clean water when tipped.",
+        "tier": "Common",
+        "color": "#9c7e5a"
+    },
+    {
+        "id": 140,
+        "title": "Skin Care Hot Springs",
+        "rarity": 3.4,
+        "description": "#Grants you ownership of your own hot spring onsen, the onsen is fully functional and magically maintains itself without your input, when taken out of storage the onsen places itself in an appropriate position in your current city with proper paperwork and its own history in the world, people will not find the existence of the hot spring popping into existence strange.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 141,
+        "title": "Apartment in Between",
+        "rarity": 3.7,
+        "description": "#You are now the proud owner of an apartment floating in stasis between all of eternity and infinity, it is a modern one-bedroom apartment with working electricity, heating, wifi, and gas.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 142,
+        "title": "Liquor Spring",
+        "rarity": 1.7,
+        "description": "#Hunter x Hunter - An ornate spring fountain that flows with water perpetually, any water taken out of the spring turns into a high-quality alcoholic drink of the user's choice. The water will only transform if it has been taken out of the spring for an hour. Returning the transformed alcohol to the spring will return it back to its water state.",
+        "tier": "Common",
+        "color": "#9c7e5a"
+    },
+    {
+        "id": 143,
+        "title": "Mystery Pond",
+        "rarity": 3.2,
+        "description": "#Hunter x Hunter - A large mysterious pond. If you release one fish into it, the next day you will have another of that same type. This pond allows for all different kinds of fish to live within it together, regardless of whether they are freshwater or saltwater fish.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 144,
+        "title": "Golden Scales",
+        "rarity": 6.9,
+        "description": "#Hunter x Hunter - When faced with two different choices, these scales will tell the user which of the choices will be better for the future. These scales can be extremely useful in tough situations. One example could be whether to run or fight. Another could be whether you should take up a job offer or when you first meet someone.",
+        "tier": "Legendary",
+        "color": "#f7d40a"
+    },
+    {
+        "id": 145,
+        "title": "Angels Breath",
+        "rarity": 4.8,
+        "description": "#Hunter x Hunter - A golden card that can someone all of all injuries and illnesses below Mythical rank. Can only be used once.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 146,
+        "title": "Poltergeists Pillow",
+        "rarity": 2.5,
+        "description": "#Hunter x Hunter - This card allows the user's spirit to explore the world at your own will, providing that you sleep on it first. This card can be useful for spying on other people or just plain exploring the world in a different way. Whilst in your astral form, you are able to pass through solid objects and you can't be seen by other creatures. You will turn into a real ghost though if you don't return to your body within 24 hours.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 147,
+        "title": "X-ray Goggles",
+        "rarity": 1.9,
+        "description": "#Hunter x Hunter - a pair of X-ray goggles that can be used to see through any wall or object. A dial is available to adjust the vision depth.",
+        "tier": "Common",
+        "color": "#9c7e5a"
+    },
+    {
+        "id": 148,
+        "title": "Book of VIP Passes",
+        "rarity": 3.5,
+        "description": "#Hunter x Hunter - A book which contains 1000 V.I.P Passes. You are able to use each pass to act as a 'Very Important Person'. As such, you are able to go anywhere and access any area for the price of a single pass. Each pass transforms to match the required specifications for an event. The pass is destroyed after use. The book is destroyed when no more V.I.P. passes are left.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 149,
+        "title": "Hormone Cookies",
+        "rarity": 1.6,
+        "description": "#Hunter x Hunter - These cookies when ingested, temporarily change the user's gender to the opposite sex. These effects last for 24 hours. The card gives you 10 boxes, with each box containing 20 cookies. Eating 20 in one day makes the change permanent.",
+        "tier": "Common",
+        "color": "#9c7e5a"
+    },
+    {
+        "id": 150,
+        "title": "Recycling Can",
+        "rarity": 4.5,
+        "description": "#A large metal can the size of a person, whatever item you put inside of it will be perfectly broken down to its basic physical materials.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 151,
+        "title": "Hideout Realtor",
+        "rarity": 2.1,
+        "description": "#Hunter x Hunter - Create a secret hideout in a location of your choosing, the hideout will be stocked with the essentials and the only way to access it will be through the door you have created.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 152,
+        "title": "Long Lost Delivery",
+        "rarity": 1.9,
+        "description": "#Hunter x Hunter - A cell phone with a single number inside of it, call the number and describe the item or object you have lost and it will be returned and delivered back to you in less than a week. Cooldown: 168 Hours",
+        "tier": "Common",
+        "color": "#9c7e5a"
+    },
+    {
+        "id": 153,
+        "title": "Witch's Rejuvenation Potion",
+        "rarity": 2.9,
+        "description": "#Hunter x Hunter - A bottle containing 100 pills that each make you physically one year younger when consumed. Restock Timer: 168 Hours",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 154,
+        "title": "Doyens Growth Pills",
+        "rarity": 1.1,
+        "description": "#Hunter x Hunter - A vial of 100 pills that make you grow by 1cm each time you take a pill, it is not advised to be used by people under 20 years of age. Restock Timer: 168 Hours",
+        "tier": "Common",
+        "color": "#9c7e5a"
+    },
+    {
+        "id": 155,
+        "title": "Doyens Virility Pills",
+        "rarity": 1.4,
+        "description": "#Hunter x Hunter - A vial of 100 pills that give you endurance and fertility in bed, taking more than one at a time may have unintended effects. Restock Timer: 168 Hours",
+        "tier": "Common",
+        "color": "#9c7e5a"
+    },
+    {
+        "id": 156,
+        "title": "Doyens Hair Cream",
+        "rarity": 1.0,
+        "description": "#Hunter x Hunter - A tub of cream that permanently grows luxurious and quality hair wherever it is applied, it is advised to use gloves when handling. Restock Timer: 168 Hours",
+        "tier": "Common",
+        "color": "#9c7e5a"
+    },
+    {
+        "id": 157,
+        "title": "Mad Scientists Steroids",
+        "rarity": 3.7,
+        "description": "#Hunter x Hunter - A box of 7 1 liter vials of special medicine that makes your body more powerful when you ingest them, you have to ingest 1 liter of this every day throughout an entire week for them to take effect, afterwards, you gain the Uncommon Trait Enhanced Strength. Restock Timer: 168 Hours",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 158,
+        "title": "Levitation Necklace",
+        "rarity": 2.4,
+        "description": "#A necklace that when worn, allows the user to slowly fly at 10 km/h.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 159,
+        "title": "Heros Bandages",
+        "rarity": 2.1,
+        "description": "#A set of sentient bandages that automatically wrap around your wounds and injuries, the bandages are really good at stopping bleeding and stabilizing broken bones. With training, you can manipulate the bandages yourself too.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 160,
+        "title": "Fairy Powder",
+        "rarity": 1.8,
+        "description": "#Blacksouls - A bag of fairy powder from the Lost Empire, inhaling causes people to fall into a deep sleep instantly but any injury will cause them to wake up instantly. Does not work on people over a tier stronger than you. Restock Timer: 48 Hours",
+        "tier": "Common",
+        "color": "#9c7e5a"
+    },
+    {
+        "id": 161,
+        "title": "Scrap Iron Candy",
+        "rarity": 1.4,
+        "description": "#Blacksouls -\"Tastes like its name\" When consumed, bolsters the user's defence for 30 minutes. Restock Timer: 8 Hours",
+        "tier": "Common",
+        "color": "#9c7e5a"
+    },
+    {
+        "id": 162,
+        "title": "Hlanith Wine",
+        "rarity": 3.7,
+        "description": "#Blacksouls - A wine favored by the ones beyond the stars, its taste is indescribable, and drinking it, while making the drinker tips, also grants mental clarity and insight. Restock Timer: 24 Hours",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 163,
+        "title": "Star Fluid",
+        "rarity": 5.3,
+        "description": "#Blacksouls - A drug created by harvesting it from star pests from beyond the unfathomable cosmos, drinking this fluid causes one to become an immortal ghoul but lose all sanity and still continue decomposing. This more refined version only grants a brief immortality for 30 seconds, allowing the drinker to avoid death for the duration. But taking more than 2 in a week will result in one becoming a Ghould. Restock Timer: 480 Hours",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 164,
+        "title": "Phantom Thief's Mantle",
+        "rarity": 3.2,
+        "description": "#Blacksouls - A crimson worn by a famous thief death-defying thief who tempted fate one too many times and got executed by the tyrant. Wearing this mantle grants you basic danger sense and enhanced reflexes.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 165,
+        "title": "Evil Eye Ring",
+        "rarity": 2.2,
+        "description": "#Blacksouls - \"Did the eye just move?\" A gold ring topped with a ruby in the shape of an eye, wearing this ring grants the user minor regeneration.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 166,
+        "title": "Hydrogen Bomb",
+        "rarity": 3.8,
+        "description": "#(Tech)A Hydrogen Bomb and a remote detonator for it, simple as. Try not to end up in the blast zone.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 167,
+        "title": "Cheshire Cats ring",
+        "rarity": 2.1,
+        "description": "#Blacksouls - A gold ring with the engraving of a cat that looks suspiciously smug. When wearing this ring, you are immune to falling damage even if you drop from 100,000 kilometers.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 168,
+        "title": "Wind Gods Ring",
+        "rarity": 3.3,
+        "description": "#Blacksouls - An ornate silver ring from Wonderland, blessed by an unnamed god of wind, wearing it boosts the agility and reflexes of the wearer to superhuman levels.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 169,
+        "title": "Thief's Ring",
+        "rarity": 3.6,
+        "description": "#A magical ring worn by a famous thief known for their whimsy and mischief. This can carry 3 charges at a time and recovers a charge every hour. You can use a charge to use the ability steal to steal an item on a person and bring it to your hands, the better the item the lesser the success rate. You can also spend a charge to muffle all noises you make for a minute or increase your dexterity and agility for a minute",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 170,
+        "title": "Windless Wrap",
+        "rarity": 4.8,
+        "description": "#Blacksouls - A blue cloak that makes the user not disturb even the wind, while wearing this cloak you gain enhanced agility and reflexes, in addition, all sounds you make are muffled and you don't disturb the air around you as you move.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 171,
+        "title": "0 - The Fool",
+        "rarity": 3.5,
+        "description": "#Tarot Card - Temporarily gives you a skill or minor ability that is best suited for the situation, said abilities rating cannot be higher than the Fool. 168-hour cooldown",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 172,
+        "title": "I - The Magician",
+        "rarity": 4.5,
+        "description": "#Tarot Card - Increase the rarity of an ability temporarily for one hour. 240 hour cooldown",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 173,
+        "title": "II - The High Priestess",
+        "rarity": 3.6,
+        "description": "#Tarot Card -  Temporarily speeds up perception, emulating a bullet time effect and gives Precognition for 30 minutes. 120 Hour Cooldown",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 174,
+        "title": "III - The Empress",
+        "rarity": 4.1,
+        "description": "#Tarot Card - Creates an aura that increases defense and recovery centered on the user for 30 minutes. 120 Hour Cooldown",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 175,
+        "title": "IV - The Emperor",
+        "rarity": 4.2,
+        "description": "#Tarot Card - Creates immense mental pressure that can dominate a target or crush their minds. 72 Hour Cooldown",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 176,
+        "title": "V - The Hierophant",
+        "rarity": 3.4,
+        "description": "#Tarot Card - Allows you to dispel any illusions in your line of sight. 72 Hour Cooldown.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 177,
+        "title": "VI - The Lovers",
+        "rarity": 5.1,
+        "description": "#Tarot Card - Allows you to select an ability from anyone in a 100-meter range and copy their ability into your ability slot for 1 hour. 120 Hour Cooldown",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 178,
+        "title": "VII - The Chariot",
+        "rarity": 3.7,
+        "description": "#Tarot Card - Allows you to teleport to any location within your range of perception or even through a camera. 120 Hour Cooldown",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 179,
+        "title": "VIII - Strength",
+        "rarity": 3.6,
+        "description": "#Tarot Card - Increases all of your physical abilities and dulls your sense of pain for 30 minutes. 120 Hour Cooldown",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 180,
+        "title": "IX - The Hermit",
+        "rarity": 2.7,
+        "description": "#Tarot Card - Allows you to read the minds and thoughts for 1 hour. 120 Hour Cooldown",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 181,
+        "title": "X - Wheel of Fortune",
+        "rarity": 2.5,
+        "description": "#Tarot Card - Temporarily swaps all active powers with random powers of the same rarity for 1 hour, (For writing: done by rolling the gacha that corresponds with said rarity). 120 Hour Cooldown",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 182,
+        "title": "XI - Justice",
+        "rarity": 3.0,
+        "description": "#Tarot Card - Clears all abnormal status effects such as disease, poison, curses and charms Epic rank and below in a 10-meter radius. Cooldown: 120 hours.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 183,
+        "title": "XII - The Hanged Man",
+        "rarity": 1.5,
+        "description": "#Tarot Card - Allows you to absorb all of the wounds and ailments of a target while lessening their intensity by 20%. 120 Hour Cooldown",
+        "tier": "Common",
+        "color": "#9c7e5a"
+    },
+    {
+        "id": 184,
+        "title": "XIII - Death",
+        "rarity": 5.4,
+        "description": "#Tarot Card - In contact, allows you to destroy any active effect, whether that is the speed of an object, a mythical ritual, or a spell keeping an undead animated. 240-hour Cooldown.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 185,
+        "title": "XIV - Temperance",
+        "rarity": 1.9,
+        "description": "#Tarot Card - Allows you to attain complete mental clarity and focus, dispelling all negative mental conditions. 48 Hour Cooldown.",
+        "tier": "Common",
+        "color": "#9c7e5a"
+    },
+    {
+        "id": 186,
+        "title": "XV - The Devil",
+        "rarity": 3.5,
+        "description": "#Tarot Card - Summons Infernal chains that restrain a target and weaken them, strong enough targets can break out the chains. 48 Hour Cooldown.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 187,
+        "title": "XVI - The Tower",
+        "rarity": 4.3,
+        "description": "#Tarot Card - Releases a wave of uncontrollable ruinous energy that can destroy entire city blocks partially ignores durability and disorientates enemies. 120 Hour Cooldown",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 188,
+        "title": "XVII - The Star",
+        "rarity": 4.3,
+        "description": "#Tarot Card - Restores all energy and stamina upon use as well as resetting all Ability Cooldowns. 240 Hour Cooldown",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 189,
+        "title": "XVIII - The Moon",
+        "rarity": 3.8,
+        "description": "#Tarot Card - Upon use construct a very convincing illusionary world of your choosing that fools all 5 senses for 1 hour. 120 Hour Cooldown",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 190,
+        "title": "XIX - The Sun",
+        "rarity": 4.0,
+        "description": "#Tarot Card - Upon use recovers all of your health instantly and resets all Item Cooldowns. 240 Hour Cooldown",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 191,
+        "title": "XX - Judgement",
+        "rarity": 1.9,
+        "description": "#Tarot Card - Allows you to compel someone to tell what they think is the truth without being able to intend to trick you. 120 Hour Cooldown",
+        "tier": "Common",
+        "color": "#9c7e5a"
+    },
+    {
+        "id": 192,
+        "title": "XXI - The World",
+        "rarity": 5.0,
+        "description": "#Tarot Card - Allows you to permanently fuse two abilities of the same rank to receive an ability of a higher rank. 240 Hour Cooldown",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 193,
+        "title": "Volcano",
+        "rarity": 2.8,
+        "description": "#Terraria - A sword of flame forged with ore from the depths of hell itself, amplifies the power of Fire based abilities when using Volcano as a focus.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 194,
+        "title": "Starlight",
+        "rarity": 3.6,
+        "description": "#Terraria - A fancy rapier of light forged from the wing of the empress of light, deals light damage and amplifies the power of Light based abilities when using Starlight as a focus.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 195,
+        "title": "Ghastly Glaive",
+        "rarity": 3.8,
+        "description": "#Terraria - A glaive from a foreign world that can summon projections of wraiths using the wielder's life energy and amplifies the power of Soul-based abilities when using Ghastly Glaive as a focus.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 196,
+        "title": "North Pole",
+        "rarity": 4.1,
+        "description": "#Terraria - A crystalline spear forged from what remained of the shattered ice queen. Allows the wielder to produce blasts of frigid from their own energy by using the North Pole as a catalyst. Amplifies the power of Ice-based abilities when using the North Pole as a focus.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 197,
+        "title": "Daybreak",
+        "rarity": 4.7,
+        "description": "#Terraria - A spear of pure energy formed from the shards of a fallen star. Allows the user to summon copy projections of Daybreak to use as projectiles by hurling them like Javelins. Amplifies the power of Fire and light-based abilities when using Daybreak as a focus",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 198,
+        "title": "Sunfury",
+        "rarity": 3.2,
+        "description": "#Terraria - A flail of flame retrieved from the depths of the underworld. Whenever this flail impacts something it will create an explosion on contact.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 199,
+        "title": "Blue Moon",
+        "rarity": 1.7,
+        "description": "#Terraria - A flail retrieved from the cursed dungeon. It is made out of incredibly durable material and the chain can stretch up to 50 meters long.",
+        "tier": "Common",
+        "color": "#9c7e5a"
+    },
+    {
+        "id": 200,
+        "title": "Ice Blade",
+        "rarity": 2.8,
+        "description": "#Terraria - A saber crafted from solid ice enchanted with magic so that it holds its sharpness. You can release frigid energy from this blade using your own energy and using this blade as a focus for ice abilities increases their potency.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 201,
+        "title": "Space Dolphin Machine Gun",
+        "rarity": 3.8,
+        "description": "#(Tech)Terraria - A dolphin from space that has been expertly crafted into a futuristic sci-fi machine gun that can shred through any mundane material but its speed will make it rather difficult to keep up with its ammo consumption.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 202,
+        "title": "Onyx Blaster",
+        "rarity": 2.9,
+        "description": "#Terraria - A shotgun crafted from shards of pure darkness. This gun does not consume bullets but instead converts energy/mana into shards of dark onyx bullets that deal unholy damage.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 203,
+        "title": "Death's Sickle",
+        "rarity": 4.2,
+        "description": "#Terraria - A sickle taken from the cold dead hands of the reaper. You can release necrotic energy projection from the blade using your own energy and using this scythe as a focus for Dark and Necrotic abilities increases their potency.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 204,
+        "title": "Inferno Fork",
+        "rarity": 4.1,
+        "description": "#Terraria - A crimson trident that is taken from the deepest depths of the cursed dungeon. You can release blasts of flame from this weapon by expending your own energy/mana. Using this trident as a focus for Fire and Unholy abilities increases their potency.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 205,
+        "title": "Last Prism",
+        "rarity": 5.4,
+        "description": "#Terraria - A prism that comes from the moon, By infusing energy/mana into the prism you can release rays of incinerating light that converge into one large laser or you can use it as a focus for light-based abilities to largely increase their potency.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 206,
+        "title": "Holy Water",
+        "rarity": 3.2,
+        "description": "#A large glass vial holding 500ml of high-quality holy water that can be used for rituals or for dealing with the pesky unholy. Restock Timer: 4 Hours",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 207,
+        "title": "Golden Cross",
+        "rarity": 2.6,
+        "description": "#A golden cross blessed by a powerful angel, it wards off evil and curses when worn around the neck and burns demonic entities in the vicinity.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 208,
+        "title": "Super Absorbant Sponge",
+        "rarity": 1.4,
+        "description": "#Terraria - A sponge that can hold approximately 1,000,000,000 liters of water inside of it, don't ask how it doesn't change in size or weight regardless of how much is inside of it.",
+        "tier": "Common",
+        "color": "#9c7e5a"
+    },
+    {
+        "id": 209,
+        "title": "Heavy Blade",
+        "rarity": 2.9,
+        "description": "#A very durable longsword that you can control the weight of, going from 5kg at lightest to 50,000kg at heaviest.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 210,
+        "title": "Metal Gear Excelsus",
+        "rarity": 6.7,
+        "description": "#(Tech)Metal Gear - A gigantic multi-city block-sized arachnid mech with retractable blades and giant plasma canons coupled with uncanny amounts of mobility and dexterity. In addition, this mech was designed to be able to withstand advanced nuclear weaponry and its durability reflects it. It is constantly maintained and repaired by its fleet of nanomachines and even has living quarters.",
+        "tier": "Legendary",
+        "color": "#f7d40a"
+    },
+    {
+        "id": 211,
+        "title": "The Straw Hat",
+        "rarity": 0.7,
+        "description": "#One Piece - Holds a lot of sentimental value to a certain sun god but not much material value.",
+        "tier": "Trash",
+        "color": "#a39589"
+    },
+    {
+        "id": 212,
+        "title": "Modified Compound V",
+        "rarity": 3.4,
+        "description": "#The Boys - Upon consuming this, the drinker will gain a random ability from the Gold Gacha that they can use even when in ability storage.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 213,
+        "title": "Sharingan",
+        "rarity": 4.5,
+        "description": "#Naruto - A pair of Sharingan plucked freshly from a Sasuke Uchiha who just unlocked them, stored in a special fluid that makes sure they don't degrade. If you find a skilled enough doctor you can have them implanted.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 214,
+        "title": "Byakugan",
+        "rarity": 4.4,
+        "description": "#Naruto - A pair of byakugan plucked freshly from a Neji Hyuga who just unlocked them, stored in a special fluid that makes sure they don't degrade. If you find a skilled enough doctor you can have them implanted.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 215,
+        "title": "Iron Man Armor Mark 3",
+        "rarity": 7.0,
+        "description": "#(Tech)Marvel - The iconic armored suit of the Iron Man, while useful is not particularly powerful, and if it breaks, good luck repairing it.",
+        "tier": "Mythical",
+        "color": "#fc61ff"
+    },
+    {
+        "id": 216,
+        "title": "Infinity Gauntlet",
+        "rarity": 2.6,
+        "description": "#Marvel - You have the gauntlet, it's pretty damn durable, but the stones are not included.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 217,
+        "title": "Greed's Coin",
+        "rarity": 4.8,
+        "description": "#\"Fancy your chances?\" Choose a ticket in your inventory and flip a coin, if it lands on Heads, the ticket gets an advantage, if it lands on Tails, the ticket is destroyed.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 218,
+        "title": "Durable Baseball Bat",
+        "rarity": 1.8,
+        "description": "#An extremely durable baseball bat, it would take at least a nuclear bomb to deform it.",
+        "tier": "Common",
+        "color": "#9c7e5a"
+    },
+    {
+        "id": 219,
+        "title": "Combat Armor",
+        "rarity": 3.6,
+        "description": "#A basic set of Combat Armor perfectly tailored to you, you can upgrade this armor by putting 10 kilograms of whatever ore you want inside of it, after 24 hours the composition of the armor will change to that of the ore or metal you placed inside.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 220,
+        "title": "Kamui Senketsu",
+        "rarity": 7.3,
+        "description": "#Kill La Kill - A piece of sentient clothing made exclusively out of liber that synchronizes with its wearer to augment their physical abilities to extreme levels while draining their vitality in exchange. Senketsu is more durable than any manmade material, can act independently and shapeshift,",
+        "tier": "Mythical",
+        "color": "#fc61ff"
+    },
+    {
+        "id": 221,
+        "title": "Goku Uniform 1star",
+        "rarity": 2.7,
+        "description": "#Kill La Kill - A school uniform made of 10% Life Fibers, granting their wearers superhuman physical abilities strong enough to break walls and flip cars. The uniforms themselves are also extremely durable, even more than carbon fiber. You can choose the colors before taking it out.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 222,
+        "title": "Goku Uniform 2star",
+        "rarity": 3.8,
+        "description": "#Kill La Kill - A uniform made of 20% Life Fibers, granting their wearers superhuman physical abilities strong enough to break punch through solid metal and throw around cars. The uniforms themselves are also extremely durable, even more than carbon fiber. You can choose the colors and design before taking it out.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 223,
+        "title": "Goku Uniform 3star",
+        "rarity": 5.5,
+        "description": "#Kill La Kill - A uniform made of 30% Life Fibers, granting their wearers superhuman physical abilities strong enough to demolish entire buildings. The uniforms themselves are also extremely durable, even more than carbon fiber. You can choose the colors and design before taking it out. By consuming your own vitality you can unlock a second form of the uniform that increases its abilities even further.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 224,
+        "title": "Your Laptop",
+        "rarity": 3.6,
+        "description": "#(Tech)Your laptop from back on earth, or whatever computer you had, still connected to the internet you had back on earth.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 225,
+        "title": "Infinite Bowl of Spaghetti",
+        "rarity": 1.5,
+        "description": "#A bowl containing an infinite amount of spaghetti, it cannot be poured out but you can take servings out infinitely, the spaghetti that comes out is always comfortably warm and tastes pretty good.",
+        "tier": "Common",
+        "color": "#9c7e5a"
+    },
+    {
+        "id": 226,
+        "title": "Kanaedas Bike",
+        "rarity": 1.3,
+        "description": "#(Tech)Akira - A very fancy and fast sci-fi-ish bike, very iconic.",
+        "tier": "Common",
+        "color": "#9c7e5a"
+    },
+    {
+        "id": 227,
+        "title": "Any Vehicle Voucher",
+        "rarity": 3.1,
+        "description": "#(Tech)You can exchange this voucher any time for any Mundane Vehicle available in your world, ranging from a supercar to a cruise ship, the vehicle will teleport in front of you with all of the legal work taken care of.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 228,
+        "title": "Refined Heart-Shaped Herb",
+        "rarity": 4.3,
+        "description": "#Marvel - A mystical herb from Wakanda blessed by the goddess Bast. This harvest has been refined to filter out any harmful side effects and mystical strings attached, making it completely safe to consume. Consuming it grants enhanced strength, speed, stamina, durability, reflexes, agility, and instincts. Restock Timer: 240 Hours",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 229,
+        "title": "Senzu Bean",
+        "rarity": 5.9,
+        "description": "#Dragon Ball - A small bean containing mystical power cultivated personally by the guardian of the earth. Consuming it instantly restores physical condition to its peak, restores energy completely, and keeps a person satiated for 10 days. Restock Timer: 720 Hours",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 230,
+        "title": "Unknown Mask",
+        "rarity": 3.4,
+        "description": "#A white featureless mask that covers the entire face, unless the user desires to remove it the mask cannot be removed except by breaking it, this mask cannot be seen through and is resistant toward thinker abilities. The user can see through the mask without a problem.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 231,
+        "title": "Monster Cell",
+        "rarity": 6.7,
+        "description": "#One Punch Man - A cell resembling a virus the size of the human hand. Upon consumption, it makes the consumer unbelievably stronger and transforms them into a monstrous creature with an extended lifespan in exchange for making them unable to develop any further through natural means.",
+        "tier": "Legendary",
+        "color": "#f7d40a"
+    },
+    {
+        "id": 232,
+        "title": "Ability Ticket",
+        "rarity": 5.5,
+        "description": "#A ticket that acts as a 6x Advantage Platinum Ability Gacha Ticket",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 233,
+        "title": "Trait Ticket",
+        "rarity": 5.2,
+        "description": "#A ticket that acts as a 6x Advantage Platinum Trait Gacha Ticket",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 234,
+        "title": "Skill Ticket",
+        "rarity": 5.1,
+        "description": "#A ticket that acts as a 6x Advantage Platinum Skill Gacha Ticket",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 235,
+        "title": "Uroboros Virus",
+        "rarity": 4.6,
+        "description": "#Resident Evil - The Uroboros virus is a powerful virus that is capable of transforming hosts. If you aren't an exact match for the Virus to consider you a host, you will be transformed into an anomalous mass of blackened matter with incredible regenerative capability, if you are a match however, it will instead overhaul your body, granting you enhanced stats and bio immortality as the virus will regenerate and heal your body as well as being able to command it from your body. Or you could pour the vial into the ocean and watch the apocalypse.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 236,
+        "title": "Tvirus",
+        "rarity": 3.3,
+        "description": "#Resident Evil - A super virus that is capable of mutating people into zombie-like creatures with enhanced physical ability but little brain activity, it is incredibly viral and easy to spread. There is a small chance of having appropriate resistance to the virus and only gaining positives from it like superhuman capabilities and regeneration without mutation and degradation but it is an incredibly rare chance of that level of compatibility. Maybe a scientist could refine it to make it more useful, you could pour the vial into the ocean and watch the apocalypse.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 237,
+        "title": "Modified Tvirus",
+        "rarity": 5.8,
+        "description": "#Resident Evil - A modified syringe of modified T-Virus that gives whoever is injected all of the benefits of the T-virus without any of the downsides, granting them superhuman physical abilities, regeneration, and telekinesis.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 238,
+        "title": "The Beherit",
+        "rarity": 2.5,
+        "description": "#Berserk - A red egg resembling a face that can call down God's Hand. In exchange for sacrificing your everything in the eclipse, you can become a member of the Godhand and become an Apostle. ...If you are even considering using this, something is truly wrong with you.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 239,
+        "title": "Chekov's Box",
+        "rarity": 3.9,
+        "description": "#A box that looks like a wrapped gift, when you open this box it will give you precisely what you need for the situation as long as it is ranked below Elite",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 240,
+        "title": "Cloak of Levitation",
+        "rarity": 4.6,
+        "description": "#Marvel - A relic belonging to the sorcerer supreme. This cloak allows its user to fly freely, but not only that but it is also self-aware and can act on its own to pull its wearer out of danger and hinder their opponents.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 241,
+        "title": "plague Canister",
+        "rarity": 5.7,
+        "description": "#(Tech)Calamity Mod - A canister containing the plague, a self-replicating nanomachine virus that devours biomass and turns any living thing into a mindless biomechanically enhanced zombie to add to its own hivemind. Releasing this thing without sufficient biokinetic or techno mastery is basically dooming the entire world, thankfully without a core they lack a hivemind to gather around as a command center.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 242,
+        "title": "Mehrunes Razor",
+        "rarity": 7.1,
+        "description": "#Skyrim - A blade belonging to the Daedric prince Mehrunes Dagon, this dagger is capable of cutting anything the user can interact with, space, time, soul, connections, etc. The only limit to what it can cut is the user, not the dagger.",
+        "tier": "Mythical",
+        "color": "#fc61ff"
+    },
+    {
+        "id": 243,
+        "title": "Skeleton Key",
+        "rarity": 8.2,
+        "description": "#Skyrim - A magical key belonging to the Daedric prince Nocturnal, it is capable of unlocking anything the user can perceive. Ranging from locks to unlocking the structural integrity of a wall to make it collapse to unlocking someone's inner potential and even opening portals to other worlds. The only limit to what it can unlock is the user, not the key.",
+        "tier": "Divine",
+        "color": "#ff8c00"
+    },
+    {
+        "id": 244,
+        "title": "Cloak of Invisibility",
+        "rarity": 2.9,
+        "description": "#Harry Potter - One of the deathly hallows, this cloak is capable of rendering anyone covered by it invisible and resistant to clairvoyance.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 245,
+        "title": "Annihilation Maker",
+        "rarity": 7.6,
+        "description": "#DxD - One of the strongest Longinus crafted by god. Annihilation Maker is capable of creating shadow monsters that emerge from the user's shadow by expending their own mana. The abilities of the monsters depend on the user's imagination and abilities.  When taken out of the inventory, it resembles a small marble that fuses with the person who swallows it.",
+        "tier": "Mythical",
+        "color": "#fc61ff"
+    },
+    {
+        "id": 246,
+        "title": "Unknown Dictator",
+        "rarity": 5.8,
+        "description": "#DxD - Unknown Dictator, one of the modern Longinus. It is capable of manipulating metal and technology on a massive scale as well as being able to construct advanced technology like ion canons and aura engines at will without detailed input from the user. The stronger the user the stronger the creations made by Unknown Dictator are.  When taken out of the inventory, it resembles a small marble that fuses with the person who swallows it.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 247,
+        "title": "Zenith Tempest",
+        "rarity": 7.6,
+        "description": "#DxD - Zenith Tempest, referred to as one of the mightiest Longinus is capable of controlling the weather, atmosphere, and the natural elements of the world like fire, wind, lightning, and water. Allowing them to call down lightning, country-wiping storms, and much more. A powerful enough user could shred the surface of the planet with violent storms. When taken out of the inventory, it resembles a small marble that fuses with the person who swallows it.",
+        "tier": "Mythical",
+        "color": "#fc61ff"
+    },
+    {
+        "id": 248,
+        "title": "Star Buster Blaster",
+        "rarity": 7.0,
+        "description": "#DxD - A Longinus of the highest order and a weapon when you just need simplicity. Even in its basic form, the sword of this weapon can cut through gods and its gun can annihilate islands. But the weapon is incredibly difficult to control and use effectively, and may even destroy the landmass the user is in in a misfire.  When taken out of the inventory, it resembles a small marble that fuses with the person who swallows it.",
+        "tier": "Mythical",
+        "color": "#fc61ff"
+    },
+    {
+        "id": 249,
+        "title": "Canis Lycaon",
+        "rarity": 6.1,
+        "description": "#DxD - Canis Lycaon, one of the Longinus weapons created by god. It allows its user to manifest an extremely powerful black wolf avatar wielding a cursed blade, in addition, the user can sprout cursed blades from their body and use them as weapons too. With enough training, they can wield the cursed flames of the sword that prevent healing and sprout blades from any shadow in their range of perception. When taken out of the inventory, it resembles a small marble that fuses with the person who swallows it.",
+        "tier": "Legendary",
+        "color": "#f7d40a"
+    },
+    {
+        "id": 250,
+        "title": "True Longinus",
+        "rarity": 7.4,
+        "description": "#DxD - The greatest holy spear that contains a piece of god inside of itself. This holy spear, in addition to having a tremendous holy aura that can utterly annihilate any demonic being weaker than a god, possesses a variety of forms that the user can access with training.",
+        "tier": "Mythical",
+        "color": "#fc61ff"
+    },
+    {
+        "id": 251,
+        "title": "Telos Karma",
+        "rarity": 8.5,
+        "description": "#DxD - The Telos Karma, the treasure of god that allows its user to twist causality and fate, altering history to affirm the effect the user wants. The larger the scale of the effect and the stronger the targets it affects the more energy Telos Karma consumes. When taken out of the inventory, it resembles a small marble that fuses with the person who swallows it.",
+        "tier": "Divine",
+        "color": "#ff8c00"
+    },
+    {
+        "id": 252,
+        "title": "Regulus Nemea",
+        "rarity": 6.2,
+        "description": "#DxD - Battle Axe of the Nemean, one of the Longinus crafted by god himself. As its base form, it is a large golden powerful battle axe that protects its user from projectiles when they wield it, it can also turn into a projection of the original Nemean Lion with its invincible skin that can act independently. With training the user can even unlock its balance breaker forms. When taken out of the inventory, it resembles a small marble that fuses with the person who swallows it.",
+        "tier": "Legendary",
+        "color": "#f7d40a"
+    },
+    {
+        "id": 253,
+        "title": "Nereied Kyre",
+        "rarity": 7.4,
+        "description": "#DxD - One of the newly manifested Longinus, its user is capable of controlling the ocean and charming dragons with their singing, their ability to charm and control dragons is limited by their singing and magical power. A powerful enough user could use it to sink continents and tame the grandest of dragons. When taken out of the inventory, it resembles a small marble that fuses with the person who swallows it.",
+        "tier": "Mythical",
+        "color": "#fc61ff"
+    },
+    {
+        "id": 254,
+        "title": "Procellarum Phantom",
+        "rarity": 3.4,
+        "description": "#DxD - An armor that manifests primarily as leg armor that enhances its user's kicks and speed.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 255,
+        "title": "Nights Edge",
+        "rarity": 4.2,
+        "description": "#Terraria - A sword of night formed from the essences of the world. In addition to its exceptional durability and sharpness this blade also enhances the potency of all darkness abilities when used as a focus. Under certain conditions, this sword can unlock its true power comparable to the Excalibur itself.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 256,
+        "title": "Moonveil",
+        "rarity": 3.5,
+        "description": "#Elden Ring - A masterpiece sword forged from glintstone. This katana is able to project the user's slashes as blue blades of light, in addition, this sword amplifies the power of spells when used as a focus.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 257,
+        "title": "Malikeths Black Blade",
+        "rarity": 5.7,
+        "description": "#Elden Ring - A sword that still carries traces of the destined death inside of its blade, by expending your own energy/mana you can unleash black flames of destined death that permanently harm the lifeforce of any it harms, making them unable to be healed by anything lesser than divine intervention.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 258,
+        "title": "Beginners Guide to Runecraft",
+        "rarity": 3.3,
+        "description": "#Fate - A beginner's guide on basic Nordic/Scandinavian runecraft written personally by the Allfather Odin himself. Allowing those who study it to learn the art of Runecraft.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 259,
+        "title": "Grow Your Own Golem Kit",
+        "rarity": 3.2,
+        "description": "#A beginner-friendly kit for growing your very own golem that even a child can use. Contains a comically large pot the size of a person, a watering can, a pack of cores, and a notebook. Simply put the core in the comically large pot alongside the items you want the golem to be made out of and then put in a piece of paper detailing the specifications of the golem you want to be made. Then bury it all with any kind of dirt and water 2 times morning and night for 7 days in a spot where it can receive sunlight and then dig up your ready golem from the dirt! You can make the process faster by using energy-rich soil.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 260,
+        "title": "Kiriichimonji",
+        "rarity": 3.6,
+        "description": "#Akame Ga Kill - A katana that creates wounds that refuse to heal by normal means, you need healing of at least Epic level to heal a wound inflicted by Kiriichimonji.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 261,
+        "title": "Water Dragon Sword",
+        "rarity": 3.9,
+        "description": "#Akame Ga Kill - An ancient longsword that resembles a dragon, there are two fangs on the hilt of the sword, and if the user stabs their body on the fangs they gain massively enhanced physical stats and minor draconic characteristics for 3 minutes, after the 3 minutes wear off the user becomes extremely tired and fatigued.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 262,
+        "title": "Incursio",
+        "rarity": 5.3,
+        "description": "#Akame Ga Kill - In its dormant state the Incursio resembles a short sword that can be activated into a white armor that completely covers the user and grants them enhanced physical stats as well as the ability to turn invisible for a duration. But the true strength of the Incursio lies in its ability to adapt and become stronger, so the longer you use it the stronger it will become and acquire new forms.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 263,
+        "title": "Demon Extract",
+        "rarity": 5.4,
+        "description": "#Akame Ga Kill - An incredibly powerful extract created from the blood of a mythical beast. Drinking the blood from this chalice grants the user the Legendary Rank Ability: Demon's Extract but if their willpower is not strong enough they will be driven insane by the power.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 264,
+        "title": "Perfector",
+        "rarity": 2.5,
+        "description": "#Akame Ga Kill - A pair of gloves that gives their user almost perfect dexterity and speed for their fingers and hands, allowing them to move with extreme speed and precision beyond the realm of human speeds.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 265,
+        "title": "Ring of the Paladin",
+        "rarity": 4.2,
+        "description": "#An enchanted ring worn by a legendary paladin, now infused with his prayers. This ring can hold a total of 3 charges and recovers a charge every hour. You can spend a charge to cast a Rare tier Heal on yourself or a target, grant a target any one Uncommon tier blessing like strength or agility or you can bless an object with holy energy to either create holy water or create a temporarily blessed weapon effective against the unholy.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 266,
+        "title": "Yatsufusa",
+        "rarity": 4.6,
+        "description": "#Akame Ga Kill - A katana with the ability to reanimate undead to serve as their puppets, only 8 undead can be maintained at a time and the undead are in the same state as they have died, they cannot learn any new skills but they maintain all the skills they had in their life. In addition, for every undead animated the user loses a portion of their own strength.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 267,
+        "title": "Spectator",
+        "rarity": 5.1,
+        "description": "#Akame Ga Kill - A mechanical third that manifests on the user's forehead, this eye can be used to read the surface of targets you are focused on, see through walls and clothing, have perfectly clear vision and clairvoyance as well as combat precognition by reading minute muscles movements in targets bodies.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 268,
+        "title": "Murasame",
+        "rarity": 5.2,
+        "description": "#Akame Ga Kill - A cursed blade that inflicts a killing curse on whatever it cuts, once cut the curse markings will originate from where the cut is placed and move towards the heart before stopping it. This can be resisted by cutting off the inflicted area, having resistance to curses, or being stronger than the blade.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 269,
+        "title": "Amulet of Imitation",
+        "rarity": 3.7,
+        "description": "#An amulet that lets you transform into the shape of whatever creature you touch while also holding the amulet, you will be in the form of the creature until you dispel the transformation. Cooldown: 8 Hours",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 270,
+        "title": "Balzac",
+        "rarity": 4.7,
+        "description": "#Akame Ga Kill - When worn, Balzac can tap into the wearer's body and mind and unlock their potential by 100%, giving the wearer super speed, super strength, lightning-quick agility, and unparalleled intelligence. After all of the wearer's potential is unlocked, it cannot exceed that person's limits. Wearing it for an extended amount of time can cause extreme exhaustion.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 271,
+        "title": "Black Marlin",
+        "rarity": 4.6,
+        "description": "#Akame Ga Kill - The user can control any liquid around themselves, including water and blood with simple hand gestures by expending their energy/mana. However, it only functions in the presence of water or any other form of liquid around. Oftentimes, the water takes the shape of serpents or dragons.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 272,
+        "title": "Charismatic Sunglasses",
+        "rarity": 1.3,
+        "description": "#A pair of really cool-looking sunglasses that make you seem more charismatic. Are the sunglasses charismatic because they look cool or do they look cool because they make you more charismatic?",
+        "tier": "Common",
+        "color": "#9c7e5a"
+    },
+    {
+        "id": 273,
+        "title": "Sword of Judgement",
+        "rarity": 3.8,
+        "description": "#Hota - A sword blessed by the divine that imbues its user with great might and magical power. But it also fills them with righteous rage, making them berserk against unholy and undead beings unless they can tame the sword. Boosts the power of holy and light abilities when used as a focus.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 274,
+        "title": "Armageddon Blade",
+        "rarity": 5.4,
+        "description": "#Hota - The blade of Armageddon in myths. This sword imbues its user with great power but burns to touch, the user can expend their energy to call down armageddon, a swarm of hellfire raining down from the skies onto the mortal world.  Boosts the power of fire and unholy abilities when used as a focus.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 275,
+        "title": "Sword of Hellfire",
+        "rarity": 3.3,
+        "description": "#Hota - A sword forged and bathed in hellfire, the user can expend their energy to cover the blade in violent flames. Boosts the power of fire abilities when used as a focus.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 276,
+        "title": "Angellic Alliance",
+        "rarity": 6.0,
+        "description": "#Hota - A divine artifact of the heavens. Wielding this sword greatly increases the user's physical and magical abilities, in addition, any army or ally under the user's command also becomes stronger and is imbued with powerful morale. You can also expend your own energy to grant any blessing at Rare tier or below, Boosts the power of holy and light abilities when used as a focus.",
+        "tier": "Legendary",
+        "color": "#f7d40a"
+    },
+    {
+        "id": 277,
+        "title": "Titans Thunder",
+        "rarity": 5.5,
+        "description": "#Hota - A sword of thunder that grants its user the power and might of the giants. It grants its user extreme physical strength and the ability to rain down thunder by expending their own energy. Enhances the power of lightning-based abilities when used as a focus.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 278,
+        "title": "Armor of the Dammed",
+        "rarity": 5.8,
+        "description": "#Hota - A pitch-black armor with a demonic visage used by the most wicked of conquerors. This armor, while augmenting the user's physical abilities, also allows them to unleash a variety of curses on a massive scale such as slow, misfortune, weakness, etc. to debilitate entire armies with training. Amplifies the power of darkness-based abilities when used as a focus.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 279,
+        "title": "Power of the Dragon Father",
+        "rarity": 5.3,
+        "description": "#Hota - An armor crafted from the corpse of a mighty dragon. Wearing it imbues the wearer with great physical might and extreme resistance to magic thanks to the scales of the dragon.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 280,
+        "title": "Spellbinders Hat",
+        "rarity": 5.7,
+        "description": "#Hota - A hat worn by a legendary archwizard, containing echoes of the spells he used to cast. When worn grants you the ability to cast the spells: Dimensional Door, a portal with a range of 100 km, Fly: Allowing you to soar through the skies at the same speed as your land speed, Magic Mirror: Allows you to reflect a magic effect back at an enemy. Implosion: Deals severe damage to an enemy by engulfing them in an explosion, and Summon Elemental: Allowing you to summon an elemental of your choice with power roughly similar to yours for 30 minutes. This artifact holds 3 charges at a time and recovers a charge every 8 hours.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 281,
+        "title": "Admirals Hat",
+        "rarity": 4.9,
+        "description": "#Hota - The hat of a legendary admiral. Allows you to conjure and summon any mundane seabound vessel manned by a crew of spirits. It can be a destroyer-class warship or a cruise ship. You can summon a vessel every 720 Hours, in addition, when wearing the hat you gain Master rank Riding when riding any seasbound vessel.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 282,
+        "title": "Cloak of Silence",
+        "rarity": 3.6,
+        "description": "#Hota - When worn, the cloak prevents the user from using any magic below Epci Rank but at the same time, prevents any magic below Epic rank from being used on them.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 283,
+        "title": "Cape of Velocity",
+        "rarity": 3.8,
+        "description": "#Hota - A cape that makes the wearer faster when worn.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 284,
+        "title": "Cloak of the Undead King",
+        "rarity": 5.3,
+        "description": "#Hota - A cloak of the legendary undead king. When worn, boosts the power of all necromancy and soul-based abilities and removes the limit on the amount of undead the user can control at once.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 285,
+        "title": "Charm of Eclipse",
+        "rarity": 3.4,
+        "description": "#Hota - A mystical charm that amits an aura that causes people around the user to suffer from magical interference, reducing their magical capabilities.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 286,
+        "title": "Wizards Well",
+        "rarity": 4.9,
+        "description": "#Hota - A large cauldron that is filled to the brim with magical power equal to the maximum of the user. At 8 am every morning this cauldron is instantly filled back to the brim once more.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 287,
+        "title": "Orb of Silt",
+        "rarity": 3.5,
+        "description": "#Hota - An orb containing raw ancient magical power that boosts the power of earth-based abilities and magic of those who hold it.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 288,
+        "title": "Orb of Firmament",
+        "rarity": 3.9,
+        "description": "#Hota - An orb containing raw ancient magical power that boosts the power of wind and lightning-based abilities and magic of those who hold it.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 289,
+        "title": "Orb of Driving Rain",
+        "rarity": 3.8,
+        "description": "#Hota - An orb containing raw ancient magical power that boosts the power of water and ice-based abilities and magic of those who hold it.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 290,
+        "title": "Orb of Tempenstous Fire",
+        "rarity": 3.6,
+        "description": "#Hota - An orb containing raw ancient magical power that boosts the power of fire-based abilities and magic of those who hold it.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 291,
+        "title": "Tome of Air",
+        "rarity": 6.2,
+        "description": "#Hota - A legendary tome from an ancient kingdom that is imbued with magic, allowing whoever holds it to cast the spells it contains within even without training. You can also learn the spells yourself through study to cast them without the assistance of the book. Spell List: https://heroes.thelazy.net/index.php/School_of_Air_Magic",
+        "tier": "Legendary",
+        "color": "#f7d40a"
+    },
+    {
+        "id": 292,
+        "title": "Tome of Earth",
+        "rarity": 5.8,
+        "description": "#Hota - A legendary tome from an ancient kingdom that is imbued with magic, allowing whoever holds it to cast the spells it contains within even without training. You can also learn the spells yourself through study to cast them without the assistance of the book. Spell List: https://heroes.thelazy.net/index.php/School_of_Earth_Magic",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 293,
+        "title": "Tome of Water",
+        "rarity": 5.6,
+        "description": "#Hota - A legendary tome from an ancient kingdom that is imbued with magic, allowing whoever holds it to cast the spells it contains within even without training. You can also learn the spells yourself through study to cast them without the assistance of the book. Spell List: https://heroes.thelazy.net/index.php/School_of_Water_Magic",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 294,
+        "title": "Tome of Fire",
+        "rarity": 4.9,
+        "description": "#Hota - A legendary tome from an ancient kingdom that is imbued with magic, allowing whoever holds it to cast the spells it contains within even without training. You can also learn the spells yourself through study to cast them without the assistance of the book. Spell List: https://heroes.thelazy.net/index.php/School_of_Fire_Magic",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 295,
+        "title": "Sphere of Permanence",
+        "rarity": 3.9,
+        "description": "#Hota - A magical orb that prevents the removal of magic on a target, you are immune to spells or abilities that dispel.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 296,
+        "title": "Orb of Vulnerability",
+        "rarity": 5.2,
+        "description": "#Hota - A magical orb that allows the user to bypass immunities and resistances, you can hurt living fire or poison a hydra as long as you hold this orb.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 297,
+        "title": "Angel Feather Arrows",
+        "rarity": 3.4,
+        "description": "#Hota - A quiver of infinite arrows fletched with the feathers of angels, these arrows do not get slower from flying and retain their maximum speed when flying until they hit a target.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 298,
+        "title": "Vial of Lifeblood",
+        "rarity": 3.6,
+        "description": "#Hota - A vial containing condensed vitality in the form of blood, drinking it grants enhanced vitality, a minor healing factor, and an increased lifespan.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 299,
+        "title": "Elixir of Life",
+        "rarity": 6.2,
+        "description": "#Hota - The legendary Elixir of Life, drinking it grants boundless vitality, immunity to most poisons and illnesses, and a lifespan increasing a hundredfold.",
+        "tier": "Legendary",
+        "color": "#f7d40a"
+    },
+    {
+        "id": 300,
+        "title": "Endless Purse of Gold",
+        "rarity": 4.0,
+        "description": "#Hota - A purse filled with endless riches, every 24 hours, 500 200-gram pure gold goins fill this bag and the bag can hold an infinite amount of these coins.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 301,
+        "title": "Horn of the Abyss",
+        "rarity": 6.9,
+        "description": "#Hota - A horn from the deep, abyssal depths with eldrich power. This horn can raise the dead as shoggoths, fangarms, or other creatures from the depths that are loyal to you.",
+        "tier": "Legendary",
+        "color": "#f7d40a"
+    },
+    {
+        "id": 302,
+        "title": "Archmages Robes",
+        "rarity": 4.4,
+        "description": "#Robes worn by an archmage that is suspiciously comfortable. Wearing this robe lets you learn magic much quicker and amplifies the power of the spells you cast.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 303,
+        "title": "Altar of Fire",
+        "rarity": 3.7,
+        "description": "#HOTA - An altar of fire that collects mana from nature to give birth to spirits of fire, as the owner of the altar these elementals are naturally loyal to you.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 304,
+        "title": "Altar of Air",
+        "rarity": 4.1,
+        "description": "#HOTA - An altar of fire that collects mana from nature to give birth to spirits of air and lightning, as the owner of the altar these elementals are naturally loyal to you.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 305,
+        "title": "Altar of Water",
+        "rarity": 3.5,
+        "description": "#HOTA - An altar of fire that collects mana from nature to give birth to spirits of water and ice, as the owner of the altar these elementals are naturally loyal to you.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 305,
+        "title": "Altar of Earth",
+        "rarity": 3.9,
+        "description": "#HOTA - An altar of fire that collects mana from nature to give birth to spirits of earth, as the owner of the altar these elementals are naturally loyal to you.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 306,
+        "title": "Elemental Conflux",
+        "rarity": 5.0,
+        "description": "#HOTA - An altar that converges natural elements and collects mana from nature to give birth to spirits of all kinds of elements, as the owner of the altar these elementals are naturally loyal to you.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 307,
+        "title": "Pyre",
+        "rarity": 5.3,
+        "description": "#HOTA - An altar of ash that is capable of giving birth to firebirds and phoenixes if sacrificed enough wealth and energy. As the owner of the pyre, the phoenixes are naturally loyal to you.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 308,
+        "title": "Dragon's Hoard",
+        "rarity": 5.9,
+        "description": "#- A cave that contains the ideal condition for a dragon to live, plenty of treasure. You can either take the gold and precious gems inside for your own use or use the cave as a storage for your own valuables, no one can enter your horde without your permission.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 309,
+        "title": "Dragon Utopia",
+        "rarity": 7.7,
+        "description": "#HOTA - A gigantic castle that houses a horde of dragons of various species that are loyal to you as the owner of the Utopia, the utopia is the ideal living conditions for practically any dragon, you can allow other dragons to also join in exchange for servitude.",
+        "tier": "Mythical",
+        "color": "#fc61ff"
+    },
+    {
+        "id": 310,
+        "title": "Hydra Pond",
+        "rarity": 4.8,
+        "description": "#HOTA - A large swampy pond populated by Hydra, the pond itself is incredibly poisonous but the Hydra inside are naturally loyal to you as the owner of the pond.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 311,
+        "title": "Nymph Waterfall",
+        "rarity": 2.4,
+        "description": "#HOTA - A waterfall populated by lesser Nymphs, spirits of water, the waterfall itself is magical in nature, and nymphs are naturally born inside of it. Nymphs produced by the waterfall are naturally loyal to you as the owner of the waterfall.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 312,
+        "title": "Maelstrom",
+        "rarity": 4.9,
+        "description": "#HOTA - A large whirlpool of water containing a large concentration of dangerous seabound creatures including the sea serpent Haspid under your command",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 313,
+        "title": "Magic Forest",
+        "rarity": 6.8,
+        "description": "#HOTA - A large patch of forest with a high concentration of magical power and unique herbs that grow inside. This forest is populated by creatures like ents, treants, and even legendary unicorns under your command. This forest slowly replenishes itself over time.",
+        "tier": "Legendary",
+        "color": "#f7d40a"
+    },
+    {
+        "id": 314,
+        "title": "Crystal Cave",
+        "rarity": 6.3,
+        "description": "#HOTA - A large cavern filled with unique red crystals containing potent magical power and energy, in addition, there are crystal dragons inside of the cavern under your command. The crystals in the cave replenish over time.",
+        "tier": "Legendary",
+        "color": "#f7d40a"
+    },
+    {
+        "id": 315,
+        "title": "Frozen Cliffs",
+        "rarity": 7.2,
+        "description": "#HOTA - A gigantic frozen mountain range even taller than Everest is home to extreme amounts of magical energy and houses a variety of powerful dragons and even the legendary azure dragon that will serve under your command.",
+        "tier": "Mythical",
+        "color": "#fc61ff"
+    },
+    {
+        "id": 316,
+        "title": "Cloud Temple",
+        "rarity": 5.1,
+        "description": "#HOTA - A gigantic temple Over a kilometer tall and several wide, by giving sacrifices to the cloud temple like energy and wealth you can summon giants and titans of stone to serve under your command,",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 317,
+        "title": "Experimental Shop",
+        "rarity": 6.2,
+        "description": "#HOTA - A giant experimental workshop manned by the most talented gremlin master artisans and workers loyal to you, these gremlins can create items for you with their tools and skills as long as you provide them with the resources, they are also capable of building animated legendary giants of stone and golems of several varieties to serve under your command",
+        "tier": "Legendary",
+        "color": "#f7d40a"
+    },
+    {
+        "id": 318,
+        "title": "Portal of Glory",
+        "rarity": 5.7,
+        "description": "#HOTA - A divine gate that over time produces angels to serve under your command, to produce an angel you must give the portal enough energy and resources such as gold.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 319,
+        "title": "Garden of Revelations",
+        "rarity": 3.1,
+        "description": "#A garden filled with a variety of beautiful flowers and has a mystical aura around it, inside the garden it is easier to study and learn magic.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 320,
+        "title": "Fountain of Youth",
+        "rarity": 3.2,
+        "description": "#A large ornate fountain whose waters have the property of reversing aging the more one bathes inside of it, every hour spent inside is a year of your biological clock rewound",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 321,
+        "title": "Magic Spring",
+        "rarity": 3.9,
+        "description": "#HOTA - A large spring that is filled with mana rich water that replenishes itself at a rapid pace, taking a bath in the spring is said to replenish magical power very quickly.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 322,
+        "title": "Marika's Hammer",
+        "rarity": 3.2,
+        "description": "#Elden Ring - A partially broken stone hammer that is still supernaturally durable, it has the property of boosting the power of holy abilities and spells.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 323,
+        "title": "Sacrificial Doll",
+        "rarity": 3.7,
+        "description": "#A simple doll made of straw and twine, this doll can be substituted for any kind of sacrifice, after which it vanishes. Works for human sacrifice, wealth sacrifice, sacrificing a part of yourself or even a part of your soul. Restock Timer: 10 Days",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 324,
+        "title": "Relic Gold",
+        "rarity": 2.1,
+        "description": "#A gold coin that is perceived as something of incredible value in the eyes of anyone who sees it while not having any real use. You could trade it for a real artifact and the one you gave it to would still find it a fair deal.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 325,
+        "title": "Stack of Gold Bars",
+        "rarity": 1.5,
+        "description": "#A stack of ordinary gold bars weighing a total of 33 kilograms.",
+        "tier": "Common",
+        "color": "#9c7e5a"
+    },
+    {
+        "id": 326,
+        "title": "Greedy Ring",
+        "rarity": 3.5,
+        "description": "#An ornate red and gold that attracts wealth to its wearer, making it easier for them to make money and find treasures.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 327,
+        "title": "Gold Ring Gift",
+        "rarity": 1.0,
+        "description": "#Æ Gold Ring that you can give as a gift to a loved one. The patterns of the ring customize themselves according to whoever you give them to.  Restock Timer: 48 Hours",
+        "tier": "Common",
+        "color": "#9c7e5a"
+    },
+    {
+        "id": 328,
+        "title": "Chlorophyte Bar",
+        "rarity": 3.9,
+        "description": "#Calamity Mod - A refined bar of Chlorophyte that grew from the deep ancient jungles, it is incredibly flexible and durable, far more than any mundane metal, and is also capable of converting sunlight into energy, synergizes very well with bio and nature abilities. Restock Timer: 8 Hours",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 329,
+        "title": "Aerolite Bar",
+        "rarity": 2.6,
+        "description": "#Calamity Mod - A refined bar of Aerilite from the sky islands infused with sky energy, when infused with energy this one is capable of releasing wind and even emulating weather effects under special conditions, it also synergizes very well with lightning and air. Restock Timer: 8 hours",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 330,
+        "title": "Astral Bar",
+        "rarity": 4.2,
+        "description": "#Calamity Mod - A refined bar crafted out of the depths of the Astral Infection, a bar containing refined cosmic energy that is nigh breakable, when infused with energy it is capable of releasing cosmic energies. Restock Timer: 8 Hours",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 331,
+        "title": "Broken Biome Blade",
+        "rarity": 2.8,
+        "description": "#Calamity Mod - A broken sword handle that can be infused with energy to produce a blade with the properties of the element it is infused with",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 332,
+        "title": "Roxcalibur",
+        "rarity": 3.3,
+        "description": "#Calamity Mod - The legendary sword in the stone, except you couldn't pull it out, no worries, just bring the sword along with you as a bludgeoning weapon. If you meet all of the original conditions of the Excalibur you can pull the sword out of the stone and get both the Excalibur and an unbreakable rock",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 333,
+        "title": "Sahara Slicers",
+        "rarity": 2.4,
+        "description": "#Calamity Mod - A pair of arid daggers that allows you to manifest 10 arid shivs every 30 seconds that you can send as a volley against your opponents",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 334,
+        "title": "Unbreakable Blade",
+        "rarity": 3.0,
+        "description": "#A simple sharp steel longsword that is completely unbreakable and undamagable.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 335,
+        "title": "Bag of Endless Coins",
+        "rarity": 3.4,
+        "description": "#A bag that produces 1000 gold coins every day.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 336,
+        "title": "Endless Bag of Ninja Supplies",
+        "rarity": 3.6,
+        "description": "#A bag the size of a satchel that contains 100 shurikens, 100 kunai, 100 caltrops, 50 explosive tags, and a Katana all made out of high quality steel that replenishes itself every 24 hours.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 337,
+        "title": "Portable Supercomputer",
+        "rarity": 4.8,
+        "description": "#A laptop with computational power on par with humanity's strongest supercomputers and is always connected to the native internet of the world regardless of location.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 338,
+        "title": "Bag of Ore",
+        "rarity": 3.8,
+        "description": "#A duffel bag the size of an average human's torso that you can pull 33 kilograms of any mundane ore out of every 24 hours.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 339,
+        "title": "Portable Pharmacy",
+        "rarity": 3.2,
+        "description": "#A simple satchel that you can pull out any item that you could otherwise find at an average pharmacy.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 340,
+        "title": "Droid Factory",
+        "rarity": 4.8,
+        "description": "#(Tech)Star Wars - An autonomous factory that produces Star Wars droids as long you can provide it with materials.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 341,
+        "title": "Flowing Water Crushing Rock Fist Manual",
+        "rarity": 6.8,
+        "description": "#One Punch Man - A book containing detailed instructions on how to train in the art of Flowing Water Crushing Rock Fist created by Bang. Those without the manual cannot replicate the martial arts.",
+        "tier": "Legendary",
+        "color": "#f7d40a"
+    },
+    {
+        "id": 342,
+        "title": "Grimoire of Izalith",
+        "rarity": 4.6,
+        "description": "#Dark Souls - A Grimoire that allows its reader to learn the Pyromancies of the Great Swamp and Izalith. Spell List: https://darksouls.fandom.com/wiki/Pyromancy_(Dark_Souls)",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 343,
+        "title": "Tome of the Way of the White",
+        "rarity": 3.6,
+        "description": "#Dark Souls - A tome that allows its reader to learn the miracles of the Way of the White, this Tome was written by Rhea of Thorulund, allowing you to learn all of her miracles. | Spell List: https://darksouls.fandom.com/wiki/Reah_of_Thorolund#Miracles",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 344,
+        "title": "Tome of Orbeck",
+        "rarity": 4.7,
+        "description": "#Dark Souls - A magical tome containing research and anecdotes written by Orbeck of Vinheim allowing you to learn all of his spells. | Spell List: https://darksouls.fandom.com/wiki/Orbeck_of_Vinheim#Wares",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 345,
+        "title": "Rites of the Dragon Communion",
+        "rarity": 5.4,
+        "description": "#Elden Ring - Church Rites detailing how one can commune with the great dragons, studying the rites allows communion with dragons, allowing the user to borrow their powers to conjure miracles. Spell List: https://eldenring.wiki.fextralife.com/Dragon+Communion+Incantations",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 346,
+        "title": "Rites of the Dragon Cult",
+        "rarity": 4.9,
+        "description": "#Elden Ring - Rites of the Dragon Cult, studying these allows one to learn of the miracles performed by the dragon cult by imitating the power of the great dragons. Spell List: https://eldenring.wiki.fextralife.com/Dragon+Cult+Incantations",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 347,
+        "title": "Capsule Case",
+        "rarity": 4.7,
+        "description": "#(Tech)Dragon Ball - A case containing 20 capsules made by Capsule Corp. The capsules contain a House, fridge, oven, large quantities of preserved foods, a boat, a high tech motorcycle, etc. Any slightly upgraded mundane appliance or vehicle is a capsule in this case. Restock timer 48 hours.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 348,
+        "title": "Rites of the Edtree",
+        "rarity": 5.2,
+        "description": "#Elden Ring - Rites of the old ones who used to worship the ancient Erdtree. Studying these rites allows learning of the miracles of the Erdtree. Spell List: https://eldenring.wiki.fextralife.com/Erdtree+Incantations",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 349,
+        "title": "Grimoire of Spatial Magic",
+        "rarity": 6.8,
+        "description": "#Black Cover - A book containing the secrets of Spatial Magic from the Clover Kingdom, allowing those who study it to learn and utilize the spells it contains inside. Spell List: https://blackclover.fandom.com/wiki/Spatial_Magic",
+        "tier": "Legendary",
+        "color": "#f7d40a"
+    },
+    {
+        "id": 350,
+        "title": "Grimoire of Lightning Magic",
+        "rarity": 5.0,
+        "description": "#Black Cover - A book containing the secrets of Lightning Magic from the Clover Kingdom, allowing those who study it to learn and utilize the spells it contains inside. Spell List: https://blackclover.fandom.com/wiki/Lightning_Magic",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 351,
+        "title": "Grimoire of Water Magic",
+        "rarity": 4.7,
+        "description": "#Black Cover - A book containing the secrets of Water Magic from the Clover Kingdom, allowing those who study it to learn and utilize the spells it contains inside. Spell List: https://blackclover.fandom.com/wiki/Water_Magic",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 352,
+        "title": "Grimoire of Ice Magic",
+        "rarity": 4.5,
+        "description": "#Black Cover - A book containing the secrets of Ice Magic from the Clover Kingdom, allowing those who study it to learn and utilize the spells it contains inside. Spell List: https://blackclover.fandom.com/wiki/Ice_Magic",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 353,
+        "title": "Grimoire of Darkness Magic",
+        "rarity": 6.5,
+        "description": "#Black Cover - A book containing the secrets of Darkness Magic from the Clover Kingdom, allowing those who study it to learn and utilize the spells it contains inside. Spell List: https://blackclover.fandom.com/wiki/Dark_Magic",
+        "tier": "Legendary",
+        "color": "#f7d40a"
+    },
+    {
+        "id": 354,
+        "title": "Grimoire of Light Magic",
+        "rarity": 6.4,
+        "description": "#Black Cover - A book containing the secrets of Light Magic from the Clover Kingdom, allowing those who study it to learn and utilize the spells it contains inside. Spell List: https://blackclover.fandom.com/wiki/Light_Magic",
+        "tier": "Legendary",
+        "color": "#f7d40a"
+    },
+    {
+        "id": 355,
+        "title": "Familiar Contract",
+        "rarity": 3.3,
+        "description": "#A contract that allows those who sign it to become registered in your gacha as a familiar that you can treat like any other familiar. They must sign the contract while knowing what it does otherwise it does not work.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 356,
+        "title": "Master Blacksmith Commision",
+        "rarity": 4.0,
+        "description": "#Rip this ticket to get transported to the forge of a master blacksmith who you can commission to make any piece of equipment for you as long as you provide them with the material, after finishing the deal, you will be transported back and receive your commissioned item back in 7 at the latest. The blacksmith is not a god so there are limits to what they can make. Restock Timer: 360 Hours",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 357,
+        "title": "Giant Ominous Floating Obsidian Sphere",
+        "rarity": 4.5,
+        "description": "#A gigantic ball of pure obsidian that always floats 100 meters above the ground, its radius is 5km wide and it constantly emits a pitch humming sound that can be heard from over 50km in distance. That's all.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 358,
+        "title": "Beauty Perfume",
+        "rarity": 2.8,
+        "description": "#A bottle of pink perfume that amplifies your attractiveness to the opposite gender.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 359,
+        "title": "Bellowing Dragoncrest Ring",
+        "rarity": 3.6,
+        "description": "#Dark Souls - A special ring granted to only the most accomplished sorcerers at the Vinheim Dragon School. The ring is engraved with an everlasting dragon and boosts the strength of magic cast by its wearer.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 360,
+        "title": "Dusk Crown Ring",
+        "rarity": 4.0,
+        "description": "#Dark Souls - This magic crown-shaped ring was granted to Princess Dusk of Oolacile upon her birth. The wearer will lose a portion of their vitality that is converted into their energy/mana, increasing the potency of their abilities and spells.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 361,
+        "title": "Great Swamp Ring",
+        "rarity": 2.9,
+        "description": "#Dark Souls - Ring said to be chiseled from the bone of a flame salamander by blighted Pyromancers living in the Great Swamp. It bolsters flames wielded by its wearer, increasing the potency of fire based abilities and spells.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 362,
+        "title": "Chaos Witch's Ring",
+        "rarity": 3.8,
+        "description": "#The Witch of Izalith and her daughters, scorched by the Flame of Chaos, taught humans the art of pyromancy and offered them this ring. It greatly bolsters flames wielded by its wearer, increasing the potency of fire based abilities and spells.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 363,
+        "title": "Sage's Ring",
+        "rarity": 3.1,
+        "description": "#Dark Souls - A ring given to Farron's Undead Legion by one of the preacher twins, known more commonly as the Crystal Sages. It makes it easier to learn and cast spells while wearing the ring, reducing the energy costs of spells.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 364,
+        "title": "Sahelanthropus",
+        "rarity": 5.1,
+        "description": "#Metal Gear - A nuclear armed bipedal humanoid tank designed for warfare containing a variety of weaponry for combat, this one has been modified to make space for a human operator. This metal gear possesses a high power railgun, guided missile launchers, retractable flexible nanofiber high frequency blades, and independently operating high tech sensory drones that can deploy explosives, flamethrowers, and high caliber machine guns. In addition, its armor is made of depleted uranium that can be enriched by its internal reactor and detonated to cause a nuclear explosion. All ammo and missiles etc. restock every 24 hours. This machine also self repairs itself via Nanomachines.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 365,
+        "title": "Twilight Healing",
+        "rarity": 4.8,
+        "description": "#DxD - A sacred gear created by god. Twilight Healing manifests as a pair of ornate rings that allows its user to convert their own energy into neutral healing energy that can heal others or yourself, potency depends on how much energy you expend.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 366,
+        "title": "Gravity Jail",
+        "rarity": 3.8,
+        "description": "#DxD - A sacred gear created by god. The Magical Eyes that Shackles, the Gravity Jail manifests in the user's eyes indicated by them glowing, allowing you to expend your energy to increase gravity on any location or target in your line of sight. When taken out of the inventory, it manifests as a marble that fuses with whoever swallows it.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 367,
+        "title": "Boosted Gear",
+        "rarity": 7.9,
+        "description": "#DxD - One of the Longinus created by God. The Gauntlet of the Red Dragon Emperor houses the soul of Ddraig, the Heavenly Dragon of Domination. This gauntlet allows its user to amplify their stats by expanding their stamina, the higher the level of boost, the higher the level of stamina expenditure.",
+        "tier": "Mythical",
+        "color": "#fc61ff"
+    },
+    {
+        "id": 368,
+        "title": "Divine Dividing",
+        "rarity": 7.8,
+        "description": "#DxD - One of the Longinus created by God. The Wings of the White Dragon Emperor house the soul of Albion, the Heavenly Dragon of Supremacy. These wings allow its user to fly and divide the magical power of enemies and add it to their own reserves to replenish their energy, excess energy is released through the wings.",
+        "tier": "Mythical",
+        "color": "#fc61ff"
+    },
+    {
+        "id": 369,
+        "title": "Holy Collider",
+        "rarity": 6.0,
+        "description": "#Calamity Mod - A sword carved from the corpse of the profaned god, capable of emitting explosions of divine flame upon contact, and releasing holy flames by expending the user's energy. In addition, holy and fire abilities are amplified when using this sword as a focus.",
+        "tier": "Legendary",
+        "color": "#f7d40a"
+    },
+    {
+        "id": 370,
+        "title": "Jackall & Casull",
+        "rarity": 3.7,
+        "description": "#Hellsing - A pair of incredibly unwieldy pistols wielded by a certain vampire that resemble hand canons more than regular pistols. Casull is white and Jackall is black, these guns are too heavy for a normal person to wield and each holds 6 rounds of 13mm blessed silver exploding rounds. One needs to have supernatural strength to not get their arms ripped off by pulling the trigger. You are also provided with 2 magazines for these guns every 24 hours.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 371,
+        "title": "Dragon Slayer",
+        "rarity": 2.6,
+        "description": "#Berserk - \"It was too big to be called a sword. Massive, thick, heavy, and far too rough. Indeed, it was a heap of raw iron.\" A massive dull unwieldy sword larger than a man, this sword is supernaturally durable and having bathed in the blood of countless spirits and astral beings is capable of harming and killing the immaterial.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 372,
+        "title": "Wastelanders Survival Kit",
+        "rarity": 2.5,
+        "description": "#(Tech)Fallout - A survival kit containing the loadout of a true courier. Containing an Elite Riot Gear, A fully modified Anti-Material Sniper Rifle, a Riot Shotgun, A .44 Magnum revolver, A bowie knife, 5 repair kits, 10 stim packs, 5 doctors bags, and 200 ammo for each weapon. No way to be caught lacking in the wastes now.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 373,
+        "title": "The Courier's Stash",
+        "rarity": 1.5,
+        "description": "#(Tech)Fallout - A stash every courier needs to have around just in case they get robbed, shot in the head and left for the dead. This large briefcase contains a lightweight metal armour, a double-barrel shotgun with 20 packs of 20 shells, 4 basic repair kits, and 5 stim packs.",
+        "tier": "Common",
+        "color": "#9c7e5a"
+    },
+    {
+        "id": 374,
+        "title": "Hei Gui Stealth Suit",
+        "rarity": 2.8,
+        "description": "#(Tech)Fallout - A special armour designed by China made for infiltration and stealth missions given to special units. In addition to its dense armour and mesh, the stealth suit is capable of emitting a forcefield that bends light around it to make the user invisible.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 375,
+        "title": "Feng Shui Engine",
+        "rarity": 4.3,
+        "description": "#Street Fighter - An advanced prosthetic eye that houses a miniature Tandem Engine, allowing it to generate extreme amounts of Artificial Qi to massively enhance all of the user's physical abilities. However overuse may cause strain.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 376,
+        "title": "Enma",
+        "rarity": 4.4,
+        "description": "#One Piece - A masterpiece sword once wielded by the legendary Kozuki Oden. This sword has a will of its own and has the ability to release the wielder's energy like a burst of power. But at the same, before the sword is tamed it will try to forcefully drain the user's energy and constantly release it.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 377,
+        "title": "Shusui",
+        "rarity": 3.6,
+        "description": "#One Piece - A masterpiece sword once wielded by the mythical samurai Ryuma, this sword's blade has permanently blackened from absorbing Ryuma's hardening over time. This sword is nigh unbreakable, sharper than a razor and is an excellent conductor of energy.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 378,
+        "title": "Pip-Boy 3000",
+        "rarity": 2.4,
+        "description": "#(Tech)Fallout - The Pip-Boy, otherwise known as the Personal Information processor, is a more versatile and robust computer that is worn on the wrist and powered by an internal fission battery. Pip Boy is capable of autonomously monitoring the health of its wearer, connecting to networks, map areas, shining light etc. An all-around solid multitool.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 379,
+        "title": "Power Fist",
+        "rarity": 2.9,
+        "description": "#(Tech)Fallout - A pneumatic standard power fist that can help the average Joe put a crater on the wall with their fist. The power fist adds a static power boost to your punches to the level of a superhuman. But in the hands of someone who is already a superhuman, it is not too helpful.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 380,
+        "title": "Rasaka's Fang",
+        "rarity": 3.5,
+        "description": "#Solo Levelling - A dagger carved from the venomous fang of Rasaka, this dagger is perpetually imbued with venom that afflicts whoever it cuts with paralysis and makes the wounds harder to heal.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 381,
+        "title": "Rasaka's Venom",
+        "rarity": 3.4,
+        "description": "#Solo Levelling - A pouch containing the refined venom of Rasaka, ingesting it completely grants you increased physical resistance in exchange for weakening your muscles. With poison resistance, you can resist the latter part.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 382,
+        "title": "Knight Killer",
+        "rarity": 2.7,
+        "description": "#Solo Levelling - A large dagger made for dealing with heavily armoured opponents, the stronger the armour an opponent is wearing, the more damage the dagger deals.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 383,
+        "title": "Baruka's Dagger",
+        "rarity": 2.9,
+        "description": "#Solo Levelling - A large dagger wielded by a frost elf chieftain. In addition to being extremely durable and sharp, this dagger increases the potency of ice and cold abilities that use it as a focus.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 385,
+        "title": "Demon King's Longsword",
+        "rarity": 4.2,
+        "description": "#Solo Levelling - A giant sword wielded by the demon king that has the ability to summon devastating thunderstorms from its blade with each swing. The stronger its user the stronger the lightning storms are.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 386,
+        "title": "Kamish's Wrath",
+        "rarity": 4.7,
+        "description": "#Solo Levelling - A pair of dragons made of the dragon Kamish, they are nigh unbreakable and sharper than any manmade blade. In addition, these blades synchronize with the user's mana and adjust their strength accordingly. The user can also increase their weight at will.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 386,
+        "title": "Costume Wardrobe",
+        "rarity": 1.8,
+        "description": "#A regular-looking closet containing an infinite amount of clothes ranging from lingerie, formal wear, cosplay etc. As long as the clothes are completely mundane you can pull any clothing weighing less than 5kg from it, and the clothes that will come out will be according to the desires of whoever reaches inside. Only 50 outfits can be taken out per day.",
+        "tier": "Common",
+        "color": "#9c7e5a"
+    },
+    {
+        "id": 387,
+        "title": "Teleportation Amulet",
+        "rarity": 4.4,
+        "description": "#An ornate platinum amulet that allows its wearer to teleport anywhere they can see with a 1-minute cooldown.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 388,
+        "title": "Divine Crucifix",
+        "rarity": 3.8,
+        "description": "#A holy cross crucifix blessed by a divine spirit, being in its presence immensely weakens any unholy and dark being and instantly kills weaker ones. Any holy or light ability channelled through it is increased in potency.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 389,
+        "title": "Telepathic Implant",
+        "rarity": 3.6,
+        "description": "#(Tech)Invincible - A neural implant that allows the wearer to communicate two ways with a target in their range of perception. Can only communicate with one target at a time. This item manifests as a ticket that when torn automatically installs itself in your head.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 390,
+        "title": "Ripperdoc Ticket",
+        "rarity": 4.2,
+        "description": "#(Tech)Cyberpunk 2077 - A ticket that when torn, transfers you over to the clinic of a mechanical Ripperdoc that you can request to install implants from Cyberpunk 2077 or ones that you bring in yourself into you for the right price. Beware, while top quality, his wares are rather expensive and you may need to barter. The moment you leave the clinic you are transported back to where you came from and you can only spend 24 hours inside the clinic. Restock Timer: 15 Days",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 391,
+        "title": "Clover Amulet",
+        "rarity": 4.6,
+        "description": "#A golden amulet with a jade engraved into the shape of a 4-leaf clover that grants the user good luck.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 392,
+        "title": "Holy Antidote",
+        "rarity": 2.6,
+        "description": "#A vial containing a powerful holy antidote that can cure all diseases and ailments below the Legendary rank. Restock Timer: 7 Days",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 393,
+        "title": "Sandevistan",
+        "rarity": 4.6,
+        "description": "#(Tech)Cyberpunk 2077 - A cybernetic spine replacement augment that allows the user to massively increase their perception of time, making time slow around them in exchange for taxing their brain. Overuse may cause brain damage.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 394,
+        "title": "Omni Phone",
+        "rarity": 3.3,
+        "description": "#A mobile phone that has everything you need, being able to connect to a network regardless of size, more storage space than you can count in numbers, a firewall that would take a machine got an aeon to crack and enough processing power to make a supercomputer blush.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 395,
+        "title": "Ender Pearl",
+        "rarity": 3.2,
+        "description": "#Minecraft - A round crystalline pearl containing spatial energies, when thrown by someone, it teleports them to wherever the pearl breaks on. Restock Timer: 8 Hours",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 396,
+        "title": "Character Card Wolverine",
+        "rarity": 5.0,
+        "description": "#A character card that allows you to give yourself or another the full healing factor of Wolverine for 10 minutes. 3 uses.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 397,
+        "title": "Bronze Heart Ticket",
+        "rarity": 1.5,
+        "description": "#Apparently, they sell even affection nowadays. Just think of the person you want to affect and rip the ticket, making them like you slightly more. Is it mind control? Nope, retroactive reality and probability bending. No unwanted side effects.",
+        "tier": "Common",
+        "color": "#9c7e5a"
+    },
+    {
+        "id": 398,
+        "title": "Silver Heart Ticket",
+        "rarity": 2.5,
+        "description": "#Apparently, they sell even affection nowadays. Just think of the person you want to affect and rip the ticket, making them like you more. Is it mind control? Nope, retroactive reality and probability bending. No unwanted side effects.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 399,
+        "title": "Gold Heart Ticket",
+        "rarity": 3.5,
+        "description": "#Apparently, they sell even affection nowadays. Just think of the person you want to affect and rip the ticket, making them like you a lot more. Is it mind control? Nope, retroactive reality and probability bending. No unwanted side effects.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 400,
+        "title": "Royal Heart Ticket",
+        "rarity": 4.5,
+        "description": "#Apparently, they sell even affection nowadays. Just think of the person you want to affect and rip the ticket, making them like you considerably more. Is it mind control? Nope, retroactive reality and probability bending. No unwanted side effects.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 401,
+        "title": "Cupid's Ticket",
+        "rarity": 5.5,
+        "description": "#Apparently, they sell even affection nowadays. Just think of the person you want to affect and rip the ticket, making them fall in love with you. Is it mind control? Nope, retroactive reality and probability bending. No unwanted side effects.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 402,
+        "title": "Auto Doc",
+        "rarity": 3.9,
+        "description": "#(Tech)Fallout - An automatic autonomous advanced doctor station created in big MT. by Doctor Mobius. This large capsule can perform even the most complicated medical procedures with almost perfect expertise with simple instructions. Just hook it up to any sufficient power source.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 403,
+        "title": "Blight Spewer",
+        "rarity": 5.7,
+        "description": "#(Tech)Calamity Mod - A technologically advanced flamethrower that spews clouds of Plauge Nanomachines that seek out flesh and quickly devour it from the inside out. The nanomachines quickly disintegrate after a few seconds as a safety precaution.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 404,
+        "title": "Shadethrower",
+        "rarity": 3.6,
+        "description": "#(Tech)Calamity Mod - A modified flamethrower that turns regular burnable fuel into corrupted flames that rot whatever they burn rapidly.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 405,
+        "title": "Heavenly Gale",
+        "rarity": 7.8,
+        "description": "#Calamity Mod - A divine bow crafted from the essences of earth and cosmos. Whatever arrow is notched onto this bow is converted into Exotic resonance crystals. The arrows summon down resonant lightning wherever it strikes, powerful enough to flay even gods alive and rend the surface world.",
+        "tier": "Mythical",
+        "color": "#fc61ff"
+    },
+    {
+        "id": 406,
+        "title": "Telluric Gale",
+        "rarity": 6.2,
+        "description": "#Calamity Mod - A bow crafted from the remains of the profaned goddess. Whatever arrow is nocked onto this bow is converted into powerful scorching bolts of divine holy flames powered by the user's energy.",
+        "tier": "Legendary",
+        "color": "#f7d40a"
+    },
+    {
+        "id": 407,
+        "title": "The Storm",
+        "rarity": 4.7,
+        "description": "#Calamity Mod - A bow carved from the remains of the storm weaver, this bow can convert any arrow nocked into it into a bolt of lightning which scales with the power of its wielder.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 408,
+        "title": "Hoarfrost Bow",
+        "rarity": 4.2,
+        "description": "#Calamity Mod - A mystical bow made from the essence of the frozen castle that turns any arrow nocked to its string into one made of freezing mist which scales with the power of its wielder.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 409,
+        "title": "Lunarian Bow",
+        "rarity": 3.6,
+        "description": "#Calamity Mod - A bow crafted from the elements of the natural world, the user is capable of converting their own energy into energy arrows to shoot out of the bow with.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 410,
+        "title": "Pheonix Feather",
+        "rarity": 6.0,
+        "description": "#Black Souls - \"Enraged by the haughty bird, god picked its wings clean\" placing this feather on top of a corpse whose soul still exists and is not above legendary rank will revive them in exchange for burning the feather. Restock Timer: 720 hours",
+        "tier": "Legendary",
+        "color": "#f7d40a"
+    },
+    {
+        "id": 411,
+        "title": "Grimm Pool",
+        "rarity": 4.7,
+        "description": "#RWBY - A large jar containing evil black goop that summons lesser Grimm once it lands on a stable surface. The summoned lesser Grimm are loyal to you.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 412,
+        "title": "The Stand Arrow",
+        "rarity": 5.1,
+        "description": "#JoJo - An ornate arrow made out of a meteorite from outer space, those stabbed by this arrow are infected by it, either slowly succumbing to a severe fever or having enough willpower and potential to survive and awaken a stand(Roll a Platinum Ticket to decide which stand gets awakened in the target.)",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 413,
+        "title": "Wolverine's Skeleton",
+        "rarity": 3.4,
+        "description": "#Marvel - Wolverine's Adamantium Bonded Skeleton freshly picked off of his body as he was sleeping. As the skeleton is bonded with Adamantium it is virtually unbreakable albeit a bit short. Don't worry about a Wolverine regenerating from it as all genetic material has been scrubbed clean.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 414,
+        "title": "Nano Machine heart",
+        "rarity": 6.4,
+        "description": "#(Tech)Metal Gear Rising Revengance - A super high-tech nanomachine heart that belonged to Senator Armstrong. By having this heart implanted in you, it gives you access to powerful nanomachines that enhance your physiology massively, allow you to absorb other nanomachines, drain electricity to charge itself and harden in response to physical trauma or on command.",
+        "tier": "Legendary",
+        "color": "#f7d40a"
+    },
+    {
+        "id": 415,
+        "title": "Danzo's Right Arm",
+        "rarity": 6.5,
+        "description": "#Naruto - Danzo's Right Arm torn fresh off of the torso in mint condition. This right arm is made up of Hashirama cells and implanted with 10 sharingans. You can either implant this arm onto your own body to enjoy the benefits of Sharingan and Hashirama cells or dismantle it to use all parts separately.",
+        "tier": "Legendary",
+        "color": "#f7d40a"
+    },
+    {
+        "id": 416,
+        "title": "Hashirama Cells",
+        "rarity": 5.4,
+        "description": "#Naruto - A vial containing the living cells of Hashirama Senju, due to the sheer potency of Hashirama's genetics if you successfully manage to implant these cells in your body, they will increase your vitality and energy reserves considerably. Not only that but they also grant you considerable passive regenerative ability that consumes your energy.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 417,
+        "title": "Rinnegan",
+        "rarity": 7.2,
+        "description": "#Naruto - A pair of Rinnegan plucked fresh off of Nagato's body contained in preserving fluid. These eyes can be surgically implanted in yourself or others to gain access to their abilities. Beware, you will need a lot of energy to handle them.",
+        "tier": "Mythical",
+        "color": "#fc61ff"
+    },
+    {
+        "id": 418,
+        "title": "Fire Release Jutsu Scroll",
+        "rarity": 5.2,
+        "description": "#Naruto - A large scroll containing information on all Fire Release Jutsu recorded inside up to A rank that allows the user to study and train to learn the Fire Jutsu that are recorded inside. Those without the user's permission cannot understand what is inside the scroll.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 419,
+        "title": "Water Release Jutsu Scroll",
+        "rarity": 5.6,
+        "description": "#Naruto - A large scroll containing information on all Water Release Jutsu recorded inside up to A rank that allows the user to study and train to learn the Water Jutsu that are recorded inside. Those without the user's permission cannot understand what is inside the scroll.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 420,
+        "title": "Wind Release Jutsu Scroll",
+        "rarity": 6.0,
+        "description": "#Naruto - A large scroll containing information on all Wind Release Jutsu recorded inside up to A rank that allows the user to study and train to learn the Wind Jutsu that are recorded inside. Those without the user's permission cannot understand what is inside the scroll.",
+        "tier": "Legendary",
+        "color": "#f7d40a"
+    },
+    {
+        "id": 421,
+        "title": "Earth Release Jutsu Scroll",
+        "rarity": 5.5,
+        "description": "#Naruto - A large scroll containing information on all Earth Release Jutsu recorded inside up to A rank that allows the user to study and train to learn the Earth Jutsu that are recorded inside. Those without the user's permission cannot understand what is inside the scroll.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 422,
+        "title": "Lightning Release Jutsu Scroll",
+        "rarity": 5.7,
+        "description": "#Naruto - A large scroll containing information on all Lightning Release Jutsu recorded inside up to A rank that allows the user to study and train to learn the Lightning Jutsu that are recorded inside. Those without the user's permission cannot understand what is inside the scroll.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 423,
+        "title": "T-51b Power Armor",
+        "rarity": 2.6,
+        "description": "#(Tech)Fallout - A set of power armour developed before the Great War and mass-produced for soldiers to wear. This power armour is strong enough to shrug off low-calibre bullets and allow the average man to lift a car overhead. The power armour is powered by a fusion core that gets replaced by a new one every 24 hours.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 424,
+        "title": "Gene Seed Ticket",
+        "rarity": 4.2,
+        "description": "#(Tech)Warhammer 40k - A ticket that when ripped transports you to a room full of robotic surgeons that allow you to undergo the creation procedure of a Transhuman Astartes. This procedure is perfected and you will end up with the augments of an Astartes regardless without the downsides. This procedure will not affect your looks or the general shape of your body due to being perfected.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 425,
+        "title": "Justice's Shades",
+        "rarity": 1.8,
+        "description": "#Helltaker - A pair of cool shades belonging to the blind demon. When wearing these shades you are able to tell when someone speaking to you thinks they are lying to you.",
+        "tier": "Common",
+        "color": "#9c7e5a"
+    },
+    {
+        "id": 426,
+        "title": "E-11 medium blaster rifle",
+        "rarity": 2.7,
+        "description": "#(Tech)Star Wars - A standard issue arm of a Stormtrooper, these high-tech rifles shoot bolts of high heat energy that are strong enough to kill the average light armoured target in one shot and blast apart concrete. It has three settings Lethal, stun and sting and its cartridge holds 500 shots. You get a new cartridge every day.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 427,
+        "title": "Soul Solid",
+        "rarity": 2.4,
+        "description": "#One Piece - A cane sword belonging to Brook of the Straw Hat Pirates. This sword is extremely sharp and durable, not having dulled even after years of use. It is also extremely dapper.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 428,
+        "title": "Wado Ichimonji",
+        "rarity": 3.4,
+        "description": "#One Piece - A great-grade katana crafted by a master blacksmith in Wano. This sword is extremely sharp and absurdly durable, the perfect pick for any swordsman. In addition, this sword is great at channelling energy after years of use, making abilities using it as a channel cost slightly less energy.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 429,
+        "title": "Tozama",
+        "rarity": 1.7,
+        "description": "#JJK - A basic cursed tool in the form of a short sword. The sword sword is sharp and durable while also being able to interact with and harm spiritual beings.",
+        "tier": "Common",
+        "color": "#9c7e5a"
+    },
+    {
+        "id": 430,
+        "title": "Split Soul Katana",
+        "rarity": 5.6,
+        "description": "#JJK - A powerful cursed tool in the form of a large Japanese Broadsword. This sword is capable of cutting through all physical matter by ignoring durability to strike at the soul directly, inflicting wounds that cannot be healed by normal means.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 431,
+        "title": "Repair Powder",
+        "rarity": 2.5,
+        "description": "#Darksouls - An enchanted golden powder, when the entire bag is spread across a weapon its durability is restored and its damages repaired as long as the item is in one piece. The stronger or more magical an item is, the more powder is required. Restock Timer: 12 Hours",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 432,
+        "title": "Threaded Cane",
+        "rarity": 2.2,
+        "description": "#Bloodborne - One of the weapons of the workshop hunters used to face off against the beasts. In its cane form, the threaded cane still has a sharp edge enough to hurt beasts, but when its trick form is revealed the cane splits into numerous blades arranged into a whip that can be used to rend and shred flesh from a distance.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 433,
+        "title": "Chikage",
+        "rarity": 3.0,
+        "description": "#Bloodborne - A blade wielded by the royal guards of Annalise, Queen of the Vilebloods. Chikage is an exceptional katana with incredible durability. But its power comes from the runes engraved onto it, allowing its user to sink the blade into their own flesh and imbue it with their vital essence to amplify its power. In addition, while wielding the Chikage all Necromancy and Blood-based abilities are amplified.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 434,
+        "title": "Holy Moonlight Sword",
+        "rarity": 4.0,
+        "description": "#Bloodborne - An ancient sword uncovered and wielded by Ludwig. By expending the user's energy the blade channels the endless abyssal cosmos and wreathes itself in moonlight to amplify its power. The user can expel the moonlight to amplify the power of the blade, release energy bursts or channel their own powers through the blade alongside the moonlight to boost the power.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 435,
+        "title": "Reiterpallasch",
+        "rarity": 2.5,
+        "description": "#Bloodborne - A refined weapon wielded by the knight of Cainhurst Castle. This weapon combines a rapier and a gun without compromising either. This weapon can be transformed into a bayonet to amplify the aspects of the gun part. You can let your own blood and turn it into quicksilver bullets to feed into the gun.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 436,
+        "title": "Saw Cleaver",
+        "rarity": 2.0,
+        "description": "#Bloodborne - Iconic weapons of the hunters. This saw can transform into a long cleaver or a serrated saw depending on your needs. In addition, this weapon is stronger the most beastlike your opponent is.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 437,
+        "title": "Bottle of infinite lotion",
+        "rarity": 1.4,
+        "description": "#A simple bottle of slimy lotion that contains an infinite amount of lotion inside. Lotion must be squeezed out manually and trying to tamper with the bottle will simply break it.",
+        "tier": "Common",
+        "color": "#9c7e5a"
+    },
+    {
+        "id": 438,
+        "title": "Power Pole",
+        "rarity": 3.0,
+        "description": "#Dragon Ball - An incredibly durable Bo Staff wielded by Son Goku(The Saiyan, not the god), that allows the user to freely extend its length by expending their energy.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 439,
+        "title": "Kubikiribochi",
+        "rarity": 2.2,
+        "description": "#Naruto - An oversized cleaver-shaped curved sword revered as one of the blades wielded by the seven swordsmen of the mist. This blade is incredibly durable and conducts energy well. In addition, no matter how damaged the blade is, it will repair itself as long as it absorbs blood.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 440,
+        "title": "Malorian Overture",
+        "rarity": 2.0,
+        "description": "#(Tech)Cyberpunk 2077 - A heavy-duty, powerful double-action revolver produced by Malorian Arms. This gun is incredibly powerful, even being able to punch a hole in half-borgs with each bullet. You also get 30 bullets every day for it.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 441,
+        "title": "Deed to Land",
+        "rarity": 2.4,
+        "description": "#A deed to a land, just rip this deed in half and you will have always owned land in a location that is favourable to you.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 442,
+        "title": "Deed to Mansion",
+        "rarity": 3.8,
+        "description": "#A deed to a mansion, just rip this deed in half and you will have always owned a lavish mansion manned by a Schrodinger crew that keeps it clean and maintained, they always do the work but can never be seen or interacted with.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 443,
+        "title": "Door to Jail",
+        "rarity": 5.8,
+        "description": "#Allows you to open a door to a jail block, this jail block is maintained by automatons, anyone inside of the cells is unable to use it unless allowed by you or who you appoint as warden. Anyone inside the cell is healed slowly and gets served 3 meals a day by the automatons.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 444,
+        "title": "Five Hundred Cigarettes",
+        "rarity": 0.5,
+        "description": "#500 non brand name generic ciggaretes. Useful for taking the edge off.",
+        "tier": "Trash",
+        "color": "#a39589"
+    },
+    {
+        "id": 445,
+        "title": "Rust Bucket",
+        "rarity": 3.7,
+        "description": "#(Tech)Ben 10 - A fairly large cozy RV owned by Maxwell Tennyson that has been upgraded numerous times with Plumber Technology. In addition to being an effective mobile home, it can fly and is equipped with numerous offence and defence systems.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 446,
+        "title": "Transformer Spark",
+        "rarity": 4.4,
+        "description": "#(Tech)Transformers - A spark is what makes up the being of a Transformer. When you imbue this spark into any sufficiently large piece of technology it will turn into a transformer and register itself as a familiar.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 447,
+        "title": "ColorS",
+        "rarity": 1.2,
+        "description": "#Fairy Tail - A small book-like magic item that allows the holder to change the color scheme of their clothing by sliding their finger over its surface.",
+        "tier": "Common",
+        "color": "#9c7e5a"
+    },
+    {
+        "id": 448,
+        "title": "Gale Force Reading Glasses",
+        "rarity": 2.7,
+        "description": "#Fairy Tail - A magical item in the form of a pair of spectacles. Wearing these glasses allows one to read books much faster. Allowing them to read any book they are holding 64x faster without sacrificing reading comprehension.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 449,
+        "title": "Music Player",
+        "rarity": 1.6,
+        "description": "#(Tech)Not just an ordinary music player, this player is indestructible and has excellent sound quality, with built-in speakers and headphones. It is capable of playing any song the holder has heard of before and records it inside its archive.",
+        "tier": "Common",
+        "color": "#9c7e5a"
+    },
+    {
+        "id": 450,
+        "title": "Archenemy",
+        "rarity": 5.7,
+        "description": "#Fairy Tail - A sealed sword imbued with extremely uncontrollable amounts of magical power. The moment the sword is unsheathed it will produce a slash that can cut through several city blocks like butter at minimum. It is advised to keep it inside the sheath.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 451,
+        "title": "Magic Ticket",
+        "rarity": 4.7,
+        "description": "#Fairy Tail - A magical ticket that when you rip allows you to choose a grimoire that contains a branch of magic from the world of Fairy Tale. Chosen magic cannot be a Lost Magic, Ancient Magic, Time Magic, Space Magic, Dragonslayer Magic or otherwise any magic above Elite tier. The Chosen Magic category is transformed into a Grimoire you can study to learn from.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 452,
+        "title": "Fev Vat",
+        "rarity": 4.0,
+        "description": "#(Tech)Fallout - An industrial vat filled with Forced Evolutionary Virus. Turning any human dropped inside into a Super Mutant. In addition, it can also affect animals dropped inside too, usually granting them increased abilities or killing them.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 453,
+        "title": "Null Void Projector",
+        "rarity": 6.8,
+        "description": "#(Tech)Ben 10 - A handheld projection gun that allows the user to open portals to the Null Void or send whatever they hit into the Null Void. It requires recharging between shots but hey, whatever you sent there is no longer your problem. Incapacitating someone with the Null Void does not grant a feat.",
+        "tier": "Legendary",
+        "color": "#f7d40a"
+    },
+    {
+        "id": 454,
+        "title": "Tome of Destruction",
+        "rarity": 3.7,
+        "description": "#Skyrim - A tome that compiles the various destruction spells found in the kingdom of Skyrim and allows the user to train in and learn the spells inside. Spell List: https://elderscrolls.fandom.com/wiki/Destruction_(Skyrim)",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 455,
+        "title": "Tome of Restoration",
+        "rarity": 4.6,
+        "description": "#Skyrim - A tome that compiles the various restoration spells found in the kingdom of Skyrim and allows the user to train in and learn the spells inside. Spell List: https://elderscrolls.fandom.com/wiki/Restoration_(Skyrim)",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 456,
+        "title": "Tome of Conjuration",
+        "rarity": 5.7,
+        "description": "#Skyrim - A tome that compiles the various conjuration spells found in the kingdom of Skyrim and allows the user to train in and learn the spells inside. Spell List:",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 457,
+        "title": "Tome of Alteration",
+        "rarity": 4.9,
+        "description": "#Skyrim - A tome that compiles the various alteration spells found in the kingdom of Skyrim and allows the user to train in and learn the spells inside. Spell List:",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 458,
+        "title": "Tome of Illusion",
+        "rarity": 4.2,
+        "description": "#Skyrim - A tome that compiles the various illusions spells found in the kingdom of Skyrim and allows the user to train in and learn the spells inside. Spell List:",
+        "tier": "Elite",
+        "color": "#1172d9"
+    },
+    {
+        "id": 459,
+        "title": "Potarra Earrings",
+        "rarity": 5.5,
+        "description": "#Dragon Ball - A pair of magical earrings that when worn one each by two different beings, permanently fuses them into one entity that possesses the sum of their powers and abilities.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 460,
+        "title": "Celestial Bronze",
+        "rarity": 2.6,
+        "description": "#Percy Jackson - A mythical metal native to Mount Olympus. Celestial Bronze possesses the property of being deadly to any magical or mythical being while being completely harmless to anything mundane, passing through them like it's not even there. You get 3 10kg bars. Restock Timer: 24 Hours",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 461,
+        "title": "Stygian Iron",
+        "rarity": 3.4,
+        "description": "#Percy Jackson - Stygian Iron is a metal native to the River Styx of the underworld. This metal has the property of being able to destroy or absorb the essences of those it kills. Additionally, it is extremely durable and amplifies the power of darkness, necromancy, or infernal abilities. You get 3 10kg bars. Restock Timer: 24 Hours",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 462,
+        "title": "Ebony Blade",
+        "rarity": 5.7,
+        "description": "#Skyrim - A Daedric Artifact owned by Mephala, Ebony is an indestructible and sharp katana that is capable of absorbing a portion of the vitality of those it has slain and imbue it into the wielder to heal them of their injuries. It is also capable of silencing those it strikes preventing them from casting magic. This blade is strengthened by slaying those who consider you as a friend with its blade.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 463,
+        "title": "Emperors Blade",
+        "rarity": 6.4,
+        "description": "#Samurai Jack - The ultimate divine blade against evil forged by Odin, Ra and Rama that represents all good in the world. It can only be used in the hands of the righteous and good. The blade is completely unbreakable and incredibly sharp, being reinforced by the user's spirit. Any creature of darkness or infernal will get parts of its body vaporized when damaged by the sword. Massively amplifies the power of holy and light abilities when used as a focus.",
+        "tier": "Legendary",
+        "color": "#f7d40a"
+    },
+    {
+        "id": 464,
+        "title": "Stopwatch",
+        "rarity": 8.5,
+        "description": "#A stopwatch that allows the user to stop the time of the universe around them when used, often employed by Ugly Bastards or people whose hair obscures their eyes.",
+        "tier": "Divine",
+        "color": "#ff8c00"
+    },
+    {
+        "id": 465,
+        "title": "Ricks Portal Gun",
+        "rarity": 7.2,
+        "description": "#(Tech)Rick and Morty - A portal gun built by one of the smartest yet stupidest and drunkest inventors in the multiverse. This portal gun is capable of opening portals to any non-spatial blocked location including other universes as long as you know the location's co-ordinates or specifications. The portal fluid refills every 24 hours.",
+        "tier": "Mythical",
+        "color": "#fc61ff"
+    },
+    {
+        "id": 466,
+        "title": "Ring of the Bull",
+        "rarity": 3.1,
+        "description": "#This golden ring ruby ring grants its wearer increased strength and endurance when worn. These increased stats are half a flat boost and half a percentage boost.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 467,
+        "title": "Riptide",
+        "rarity": 2.2,
+        "description": "#Percy Jackson - Riptide is the sword of the demigod son of Poseidon made of Celestial bronze. Making it exceptionally durable and sharp while being unable to hurt anything or anyone mundane. In addition it is able to switch between the form of a pen and a sword at will for you to decide which is stronger. Boosts the power of water affinity when used as a focus.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 468,
+        "title": "Helm of Darkness",
+        "rarity": 5.8,
+        "description": "#Percy Jackson - One of Hades' symbols of power, this ornate helmet allows whoever wears it to become completely invisible to all senses, pass through walls and melt into shadows. In addition, they are able to radiate an aura of primordial fear when using it. Using the helmet's abilities consumes the energy of the user.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 469,
+        "title": "Hyperbolic Time Chamber",
+        "rarity": 5.8,
+        "description": "#Dragon Ball - This Hyperbolic Time Chamber allows whoever enters to spend time training inside the gravity-enhanced dimension or just use the safe part as a hideout. The time dilation of the Time Chamber is 3 to 1 meaning three days inside equal to one day outside. You can access the Time Chamber From any door place your hands on.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 470,
+        "title": "Weapon Voucher",
+        "rarity": 1.3,
+        "description": "#A ticket for any one mundane cold weapon, just tear apart the ticket and think of the weapon you want and it will arrive in your hands.",
+        "tier": "Common",
+        "color": "#9c7e5a"
+    },
+    {
+        "id": 471,
+        "title": "Nail of Helena",
+        "rarity": 7.0,
+        "description": "#Hellsing - A true divine artefact used to nail the saint to the cross. When nailed to someone's heart it transforms them into a being known as a Monster of God(See trait: Monster of God).",
+        "tier": "Mythical",
+        "color": "#fc61ff"
+    },
+    {
+        "id": 472,
+        "title": "Dragon Dictionary",
+        "rarity": 6.1,
+        "description": "#Skyrim - A dictionary on Thu'um written by Parthuunax, written to be able to teach anyone the Thu'um. Inside it is all of the Shouts from Tamriel that those who study the book can learn. Your ability to learn the shouts depends on your talent in magic and vocals. The more powerful and esoteric a shout the harder it is to learn it and its stages. Spell List: https://elderscrolls.fandom.com/wiki/Dragon_Shouts",
+        "tier": "Legendary",
+        "color": "#f7d40a"
+    },
+    {
+        "id": 473,
+        "title": "Cupids Arrow",
+        "rarity": 6.8,
+        "description": "#An arrow that makes two people it pierces fall in love. Just stab each target once. The moment you stab the first, they will fall in love with the second person you pierce. To make it reciprocal just repeat the process by stabbing the other person first. Targets Legendary Rank or Stronger can resist the effects.",
+        "tier": "Legendary",
+        "color": "#f7d40a"
+    },
+    {
+        "id": 474,
+        "title": "Hand of Midas",
+        "rarity": 5.8,
+        "description": "#The severed hand of King Midas that still retains his power to turn anything it touches into gold. Anything that you touch with the pointer finger that weighs less than 5 tons or is weaker than Epic rank will be turned into solid gold. But living beings can resist its effects depending on how strong they are.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 475,
+        "title": "FREAK Chip",
+        "rarity": 5.0,
+        "description": "#Hellsing - A high-tech complex chip developed and created by Incognito. When implanted into a person, the Freak Chip transforms their body into that of an artificial vampire(From Hellsing) along with all of their powers and weaknesses. The success of the transformation depends on the compatibility. But there is little chance of failure. Once implanted the chip fuses with the person. You would need Expert Biology and Master Mechanics to reverse engineer it.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 476,
+        "title": "Retroactive Builders Contract",
+        "rarity": 3.0,
+        "description": "#A folded-up contract that promises full satisfaction. Just put the specifications of what you want built and where inside of the contract and put in enough money that would normally be required to fund the construction including labor costs etc. The moment you sign the contract off it will burn to ashes whatever you asked for will have been retroactively expertly built an unspecified amount of time ago alongside the money being removed from your possession. Restock Timer: 720 hours.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 477,
+        "title": "Mansion of the Boundary",
+        "rarity": 8.8,
+        "description": "#A regular mansion to the user's tastes that sits in the middle of everything. Even the Outer Ones cannot breach its dimension, and as the mansion sits in the middle of everything in its own reality, you can enter the mansion through any door you touch and exit it at any door that exists in the confines of reality. Even other multiverses or gardens.",
+        "tier": "Divine",
+        "color": "#ff8c00"
+    },
+    {
+        "id": 478,
+        "title": "Plague Reaper Armor",
+        "rarity": 6.4,
+        "description": "#(Tech)Calamity Mod - A high-tech plague doctor armor fused with the Plague Nanovirus. Wearing this armour greatly amplifies your physical stats and includes a hud to help with your aiming. The armour makes you immune to all diseases and poison below Divine Level while amplifying the power of your own poison and bio abilities greatly. You can also temporarily release a little of the Plague Nanovirues to rot your enemies from the inside out before they dissolve naturally to avoid an apocalypse.",
+        "tier": "Legendary",
+        "color": "#f7d40a"
+    },
+    {
+        "id": 479,
+        "title": "Wulfrum Armor",
+        "rarity": 2.8,
+        "description": "#(Tech)Calamity Mod - A simple high-tech armour made of wulfrum that provides reasonable defence and comfort. But when the switch is activated the armour turns into a power armour with its own powerful machinegun with energy already supplied. This mode has a 24-hour cooldown.",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 480,
+        "title": "Photon Ripper",
+        "rarity": 5.9,
+        "description": "#(Tech)Calamity Mod - An incredibly high-technology chainsaw made by Dreadon out of Exo materials. This chainsaw projects dozens of hard light sharp that spin at insane speeds and can adjust its distance as needed, strong enough to shred basically anything in its path. Just a little bit of an overkill for chopping trees.",
+        "tier": "Epic",
+        "color": "#6811d9"
+    },
+    {
+        "id": 481,
+        "title": "Master Ninjas Belt",
+        "rarity": 3.4,
+        "description": "#A black inconspicuous belt that once belonged to a master ninja. Wearing this belt grants you incredibly acrobatic abilities, allows you to stick to walls, ignore fall damage and muffle all sounds you make unintentionally(Does not work for anything above the volume of speaking).",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 482,
+        "title": "Smoke Bomb",
+        "rarity": 2.7,
+        "description": "#\"Smoke Bomb!\" a simple-looking smoke bomb. You can throw one of these at your feet and if you successfully manage to obscure yourself from everyone you can teleport anywhere in a 25-meter range instantly that you would otherwise be able to get into. Restock Timer: 12 Hours",
+        "tier": "Uncommon",
+        "color": "#aed1d1"
+    },
+    {
+        "id": 483,
+        "title": "ASTER Augmentation Ticket",
+        "rarity": 3.6,
+        "description": "#(Tech)Halo - A ticket that when ripped, sends the user into a dimension with highly advanced robotic doctors and surgeons who will perform the ASTER procedure on you in order to turn you into a Spartan. This procedure is perfected and will not cause failure regardless of the target's age or condition. This procedure gives a more durable skeleton, enhanced musculature, visual acuity and reflexes with enhanced mental clarity.",
+        "tier": "Rare",
+        "color": "#11d939"
+    },
+    {
+        "id": 484,
+        "title": "MJOLNIR Powered Assult Armor IV",
+        "rarity": 4.0,
+        "description": "#Halo - An advanced Power Armor designed for Superhumans. This high-tech suit is incredibly flexible, not hindering the user's mobility while enhancing their physical capabilities, providing excellent protection against harm and terrain. It is also equipped with basic AI to manage the suits features as well as HUD.",
+        "tier": "Elite",
+        "color": "#1172d9"
+    }
+]

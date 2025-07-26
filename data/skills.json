@@ -1,0 +1,1794 @@
+[
+  {
+    "id": 1,
+    "title": "Water Stream Crushing Rock",
+    "rarity": 5.9,
+    "description": "#One Punch Man - You are an apprentice in the legendary martial art created by the S-Rank Hero Silverfang, this martial art focuses on defence and redirection of the enemy's attacks by flowing like water and striking like a raging river. With enough training, you can completely counter an enemy's blow with double their power.",
+    "tier": "Epic",
+    "color": "#6811d9"
+  },
+  {
+    "id": 2,
+    "title": "Intermediate Cooking",
+    "rarity": 2.3,
+    "description": "#You are as skilled as a seasoned chef, your cooking is better than most people with you being able to make complex dishes without much problem and most of the food you cook tastes pretty good.",
+    "tier": "Uncommon",
+    "color": "#aed1d1"
+  },
+  {
+    "id": 3,
+    "title": "Intermediate Drawing",
+    "rarity": 2.0,
+    "description": "#You are as skilled as an experienced artist and painter, most people would appreciate your skills and you could probably find a job as an illustrator without problems.",
+    "tier": "Uncommon",
+    "color": "#aed1d1"
+  },
+  {
+    "id": 4,
+    "title": "Intermediate Acting",
+    "rarity": 2.4,
+    "description": "#You are a skilled actor, being able to properly portray yourself in the way you want to be seen and concealing your real emotions. But people familiar with you or people who have good intuition like detectives can probably see through your acting.",
+    "tier": "Uncommon",
+    "color": "#aed1d1"
+  },
+  {
+    "id": 5,
+    "title": "Intermediate Shooting",
+    "rarity": 2.2,
+    "description": "#You are a pretty decent shot, you can handle most firearms and projectiles with familiarity but you aren't going to be nailing headshot after headshot.",
+    "tier": "Uncommon",
+    "color": "#aed1d1"
+  },
+  {
+    "id": 6,
+    "title": "Intermediate Hand-to-Hand Combat",
+    "rarity": 2.5,
+    "description": "#You are a seasoned fighter, you know how to move your body to hurt people and can pick up most martial arts far faster than other people. You would completely thrash the average man in a fight.",
+    "tier": "Uncommon",
+    "color": "#aed1d1"
+  },
+  {
+    "id": 7,
+    "title": "Intermediate Programming",
+    "rarity": 2.1,
+    "description": "#You are an experienced programmer in all languages, you code considerably faster than the average programmer and can do so in any programming language you encounter.",
+    "tier": "Uncommon",
+    "color": "#aed1d1"
+  },
+  {
+    "id": 8,
+    "title": "Intermediate Mechanics",
+    "rarity": 2.2,
+    "description": "#You are a decent mechanic, you can fix most mundane appliances when given the right tools and have a good knowledge base of how most machines work and how to build basic machines.",
+    "tier": "Uncommon",
+    "color": "#aed1d1"
+  },
+  {
+    "id": 9,
+    "title": "Intermediate Biology",
+    "rarity": 2.6,
+    "description": "#you are learned enough in the field of Biology to be a professor, and you have good knowledge of how most organs and organisms function, you know how most things interact with biology and how to affect biology yourself.",
+    "tier": "Uncommon",
+    "color": "#aed1d1"
+  },
+  {
+    "id": 10,
+    "title": "Intermediate Physics",
+    "rarity": 2.7,
+    "description": "#you are learned enough in the field of Physics to be a professor, you know how physics works and how they interact with objects. You can spot and understand how most phenomena interact with the laws of the universe.",
+    "tier": "Uncommon",
+    "color": "#aed1d1"
+  },
+  {
+    "id": 11,
+    "title": "Intermediate Chemistry",
+    "rarity": 2.5,
+    "description": "#you are learned enough in the field of Chemistry to be a professor, enough to be a professor, you understand how most common compounds are formed and remember the interactions of chemicals and reactions well.",
+    "tier": "Uncommon",
+    "color": "#aed1d1"
+  },
+  {
+    "id": 12,
+    "title": "Intermediate Math",
+    "rarity": 2.8,
+    "description": "#You are very good at math, enough to be considered somewhat of a savant. You can rapidly calculate numbers in your head very accurately, faster than most people. You can also keep track of numbers and variables especially well.",
+    "tier": "Uncommon",
+    "color": "#aed1d1"
+  },
+  {
+    "id": 13,
+    "title": "Intermediate Blacksmithing",
+    "rarity": 2.0,
+    "description": "#You are experienced enough in blacksmithing to be called a real blacksmith. You know how to forge weapons, armour and various tools that are of decent quality, enough that a warrior would use them without apprehension.",
+    "tier": "Uncommon",
+    "color": "#aed1d1"
+  },
+  {
+    "id": 14,
+    "title": "Intermediate Teaching",
+    "rarity": 2.0,
+    "description": "#You are a good teacher, you know how to effectively impart your knowledge and skills to people well enough and can get them to take your lessons to heart most of the time.",
+    "tier": "Uncommon",
+    "color": "#aed1d1"
+  },
+  {
+    "id": 15,
+    "title": "Intermediate Blade Weapon Mastery",
+    "rarity": 2.3,
+    "description": "#You are fairly skilled in handling bladed instruments and weapons such as swords and daggers. You know how to effectively move your body and weapon to make good use of it, being able to match most practitioners in skill and finesse.",
+    "tier": "Uncommon",
+    "color": "#aed1d1"
+  },
+  {
+    "id": 16,
+    "title": "Intermediate Blunt Weapon Mastery",
+    "rarity": 2.1,
+    "description": "#You are fairly skilled in handling blunt instruments and weapons such as hammers, mauls and clubs. You know how to effectively move your body and weapon to make good use of it, being able to match most practitioners in skill and finesse.",
+    "tier": "Uncommon",
+    "color": "#aed1d1"
+  },
+  {
+    "id": 17,
+    "title": "Intermediate Polearm Mastery",
+    "rarity": 2.6,
+    "description": "#You are fairly skilled in handling bladed instruments and weapons such as spears, halbers and sickles. You know how to effectively move your body and weapon to make good use of it, being able to match most practitioners in skill and finesse.",
+    "tier": "Uncommon",
+    "color": "#aed1d1"
+  },
+  {
+    "id": 18,
+    "title": "Intermediate Item Construction",
+    "rarity": 3.3,
+    "description": "#You know how to make decent magical and enchanted items, if you know fire magic, you can turn a regular sword into a sword that can light itself on fire on command. If you have the ability Invisibility, you can probably make a cloak that suppresses your presence.",
+    "tier": "Rare",
+    "color": "#11d939"
+  },
+  {
+    "id": 19,
+    "title": "Polar Channel flow - Celluar Overdrive",
+    "rarity": 3.5,
+    "description": "#You have mastered the Pugilist skill of pushing every?single?cell in your body to their absolute limits drawing up every ounce of energy they have to augment all of your stats to their limits.?Using this skill places immense strain on the body and repeated use may cause permanent damage.",
+    "tier": "Rare",
+    "color": "#11d939"
+  },
+  {
+    "id": 20,
+    "title": "All Life Eradication Fist",
+    "rarity": 8.4,
+    "description": "#One punch Man - The pinnacle of all martial arts, the fusion of the mastery of dozens of supernatural martial arts and the knowledge granted by god, you are able to manipulate the flow of cosmic and all forms of energy with your martial arts and are able to replicate almost any known phenomenon. You must be sufficiently physically strong to be able to utilize this skill in any meaningful capacity.",
+    "tier": "Divine",
+    "color": "#ff8c00"
+  },
+  {
+    "id": 21,
+    "title": "Spear of Untraceable Trajectory",
+    "rarity": 6.7,
+    "description": "#Everyone Else is a Returnee - Your mastery of the spear is to such a degree you that disobey even physics. When you attack with the spear you can hit multiple locations at once, the greater your mastery the higher the number of locations. Similar to Tsubame Gaeshi from Fate.",
+    "tier": "Legendary",
+    "color": "#f7d40a"
+  },
+  {
+    "id": 22,
+    "title": "Nanaya Assasination Arts",
+    "rarity": 4.7,
+    "description": "#Tsukihime - You are trained in the unique assassination arts of the Nanaya Family, a clan of selectively bred demon hunters. This art focuses on extremely quick movements and mobility rather than stealth, also having the user move unpredictably even using ceilings and walls as footholds. This art is especially strong against non-humans.",
+    "tier": "Elite",
+    "color": "#1172d9"
+  },
+  {
+    "id": 23,
+    "title": "Whirlwind Iron Cutting Fist",
+    "rarity": 5.6,
+    "description": "#One Punch Man - You are an apprentice in the supernatural martial developed by the legendary martial artist Bomb after decades of self-training. This style resembles kung fu and focuses on moving the body in such ways that it produces razor-sharp currents of wind that the user sends like whirlwinds, decimating any target.",
+    "tier": "Epic",
+    "color": "#6811d9"
+  },
+  {
+    "id": 24,
+    "title": "Total Concentration Breathing",
+    "rarity": 3.6,
+    "description": "#Demon Slayer - You are trained in the Total Concentration Breathing technique. Allowing you to breathe in such a way that you can increase the concentration of oxygen in your blood and activate your muscles better, giving you a superhuman physique as long as you maintain the breathing. With enough training, you can constantly use this breathing without thinking.",
+    "tier": "Rare",
+    "color": "#11d939"
+  },
+  {
+    "id": 25,
+    "title": "Water Breathing",
+    "rarity": 3.1,
+    "description": "#Demon Slayer - Water Breathing is a specialized swordsmanship style and breathing technique that mimics water, specifically the flow, flexibility and adaptability of the liquid and replicates it with the user's movements, techniques and abilities. Most, if not all, known techniques involve the user bending their body, arm and weapon in a fluid motion to match the movements of rushing or flowing water.?With magical power, water can be manifested to further augment the power of the style.",
+    "tier": "Rare",
+    "color": "#11d939"
+  },
+  {
+    "id": 26,
+    "title": "Fire Breathing",
+    "rarity": 3.3,
+    "description": "#Demon Slayer - Fire Breathing is a specialized swordsmanship style and breathing technique that mimics flames and replicates them with the user's movements, techniques and abilities. Most, if not all, known techniques and forms involve extremely powerful singular strikes which 'burn' their opponents, with most attacks being initiated from a high stance. With magical power, fire can be manifested to further augment the power of the style.",
+    "tier": "Rare",
+    "color": "#11d939"
+  },
+  {
+    "id": 27,
+    "title": "Wind breathing",
+    "rarity": 3.8,
+    "description": "#Demon Slayer - Wind Breathing is a specialized swordsmanship style and breathing technique that mimics wind, specifically powerful torrents of air and whirlwinds, and replicates it with the user's movements, techniques and abilities. Most, if not all, known techniques and forms involve purely offensive attacks, most of which utilise fast rotating movements to generate swift whirlwind-like slashes that greatly increase the wielder's striking range as well as utilizing the air around them to deliver sharp sickle-shaped flying slash attacks and gale force winds.",
+    "tier": "Rare",
+    "color": "#11d939"
+  },
+  {
+    "id": 28,
+    "title": "Thunder breathing",
+    "rarity": 4.0,
+    "description": "#Demon Slayer - Thunder Breathing is a specialized swordsmanship style and breathing technique that mimics lightning, specifically swift strikes and movements akin to lightning ripping through the sky, and replicates it with the user's movements, techniques and abilities. Most, if not all, known techniques and forms involve utilizing blinding speeds and immensely fast attacks to overwhelm the enemy in an instant. With magical power, thunder can be manifested to further augment the power of the style.",
+    "tier": "Elite",
+    "color": "#1172d9"
+  },
+  {
+    "id": 29,
+    "title": "Sun breathing",
+    "rarity": 4.4,
+    "description": "#Demon Slayer - Sun Breathing is a specialized swordsmanship style and breathing technique created by the legendary swordsman Yoriichi Tsugikuni that mimics the sun and replicates it with the user's movements, techniques, and abilities. All techniques and forms are extremely varied and have no set pattern, making them the most versatile and effective against enemies. With magical power, solar flames that are effective against unholy can be manifested.",
+    "tier": "Elite",
+    "color": "#1172d9"
+  },
+  {
+    "id": 30,
+    "title": "Intermediate Kama Sutra",
+    "rarity": 2.2,
+    "description": "#(Nsfw)You are experienced in the sexual arts, being skilled at pleasuring your partner and being a pleasant recipient. You know how to spot arousal and what your partner responds to.",
+    "tier": "Uncommon",
+    "color": "#aed1d1"
+  },
+  {
+    "id": 31,
+    "title": "Intermediate Taming",
+    "rarity": 2.1,
+    "description": "#You are good at taming and training wild creatures, making them submit to you, making them obedient, submissive and loyal to you. Also being good at learning how to tame specific creatures. This can also be applied to people to an extent.",
+    "tier": "Uncommon",
+    "color": "#aed1d1"
+  },
+  {
+    "id": 32,
+    "title": "Intermediate Pressure Points",
+    "rarity": 3.8,
+    "description": "#You are experienced at spotting and using pressure points on the body, human or animal. Allowing you to press on pressure points to paralyse people or other points to cause them pleasure etc. Using it in combat, while not easy is possible.",
+    "tier": "Rare",
+    "color": "#11d939"
+  },
+  {
+    "id": 33,
+    "title": "Intermediate Massage",
+    "rarity": 2.5,
+    "description": "#You are as skilled as an experienced masseuse, being able to relieve pressure, cause pleasure and relax the muscles of people you are massaging.",
+    "tier": "Uncommon",
+    "color": "#aed1d1"
+  },
+  {
+    "id": 34,
+    "title": "Divine Gaming",
+    "rarity": 7.0,
+    "description": "#You are godlike at all kinds of games, chess, video games, gambling, bottle tosss anything of the sort. You are nigh unbeatable at any game unless it is against another godlike being of a similar domain.",
+    "tier": "Mythical",
+    "color": "#fc61ff"
+  },
+  {
+    "id": 35,
+    "title": "Intermediate Driving",
+    "rarity": 1.8,
+    "description": "#You are a seasoned driver, you are capable of handling a variety of vehicles ranging from bikes and cars to aircraft with familiarity.",
+    "tier": "Common",
+    "color": "#9c7e5a"
+  },
+  {
+    "id": 36,
+    "title": "Intermediate Leadership",
+    "rarity": 2.7,
+    "description": "#You are a leader, you know how to motivate, take charge of and lead people with decent effectiveness, instilling confidence into them and making them do what you want them to do. You are an effective leader.",
+    "tier": "Uncommon",
+    "color": "#aed1d1"
+  },
+  {
+    "id": 37,
+    "title": "Intermediate Charisma",
+    "rarity": 3.8,
+    "description": "#You have an aura of charisma around you, it is less of a skill and more of something that is just around you. People of note feel themselves more attracted to your presence, it's subtle things like people paying more attention to you, taking you more seriously etc.",
+    "tier": "Rare",
+    "color": "#11d939"
+  },
+  {
+    "id": 38,
+    "title": "Throwing",
+    "rarity": 2.2,
+    "description": "#You are fairly skilled at throwing a variety of objects with speed and accuracy, being able to land a stone on the head of a target from across the street without trouble.",
+    "tier": "Uncommon",
+    "color": "#aed1d1"
+  },
+  {
+    "id": 39,
+    "title": "Intermediate Medicine",
+    "rarity": 2.9,
+    "description": "#You are as skilled as a doctor, possessing a variety of medical knowledge and skills in treating injuries, illnesses and problems as well as familiarity with the body and medicine as well as its applications.",
+    "tier": "Uncommon",
+    "color": "#aed1d1"
+  },
+  {
+    "id": 40,
+    "title": "Kung Fu",
+    "rarity": 2.5,
+    "description": "#You are an apprentice in Kung Fu, a Chinese martial art that refines the body,  that emphasizes discipline, efficiency, and adaptability. It encompasses various techniques, including strikes, guards, footwork, and grappling. With sufficient mastery over Kung Fu, you can enhance your strikes with your internal energy",
+    "tier": "Uncommon",
+    "color": "#aed1d1"
+  },
+  {
+    "id": 41,
+    "title": "Bajinquan",
+    "rarity": 3.5,
+    "description": "#You are an apprentice in Bajinquan, a Chinese martial art specializing in explosive short-range attacks and aggressive forward momentum to break through enemy defences. With sufficient mastery over Bajinquan, you can enhance your strikes with your internal energy",
+    "tier": "Rare",
+    "color": "#11d939"
+  },
+  {
+    "id": 42,
+    "title": "Taekwondo",
+    "rarity": 3.7,
+    "description": "#You are an apprentice in Taekwondo, a dynamic Korean martial art specializing in speed, agility, and powerful kicking techniques. It combines high, spinning, and jumping kicks with fast footwork and precise strikes to deliver devastating blows. With sufficient mastery, you can enhance your strikes with your internal energy",
+    "tier": "Rare",
+    "color": "#11d939"
+  },
+  {
+    "id": 43,
+    "title": "Renewal Taekwondo",
+    "rarity": 6.6,
+    "description": "#God of Highschool - A specialized form of Taekwondo specializing in strong linear kicks like regular Taekwondo, it initially resembles simply a more refined and powerful Taekwondo style. The true power is only revealed when the user achieves Recoilless by mastering it, allowing them to focus all of their energy on their perfected strikes to unleash devastating effects.",
+    "tier": "Legendary",
+    "color": "#f7d40a"
+  },
+  {
+    "id": 44,
+    "title": "Karate",
+    "rarity": 2.4,
+    "description": "#You are an apprentice in Karate, A Japanese martial art specializing in powerful strikes, strong stances, and precise technique. With direct, forceful movements using punches, kicks, knee strikes, and blocks to generate maximum impact. Practitioners develop explosive power, speed, and efficiency, making Karate a well-rounded combat skill for both offence and defence. With sufficient mastery, you can enhance your strikes with your internal energy",
+    "tier": "Uncommon",
+    "color": "#aed1d1"
+  },
+  {
+    "id": 45,
+    "title": "Suppression",
+    "rarity": 4.0,
+    "description": "#You are a master of suppressing yourself, getting rid of your presence, lowering it to that of an ordinary presence or fully concealing all of your energy. You can make a presence that shakes gods into one that doesn't seem out of place with foliage.",
+    "tier": "Elite",
+    "color": "#1172d9"
+  },
+  {
+    "id": 46,
+    "title": "Krav Maga",
+    "rarity": 2.6,
+    "description": "#You are an apprentice of Krav Maga, a brutally efficient martial art made for military use, it emphasizes instinctive movements, rapid strikes, and efficient takedowns to neutralize threats as quickly as possible. Krav Maga incorporates techniques from boxing, wrestling, judo, and street fighting. With sufficient mastery, you can enhance your strikes with your internal energy",
+    "tier": "Uncommon",
+    "color": "#aed1d1"
+  },
+  {
+    "id": 47,
+    "title": "Muay Thai",
+    "rarity": 2.9,
+    "description": "#You are an apprentice of Muay Thai, a powerful Thai martial art known as the \"Art of Eight Limbs,\" utilizing punches, kicks, elbows, and knee strikes for devastating close and mid-range combat. It emphasizes powerful strikes, clinch fighting, and relentless conditioning to build endurance and toughness. With sufficient mastery, you can enhance your strikes with your internal energy.",
+    "tier": "Uncommon",
+    "color": "#aed1d1"
+  },
+  {
+    "id": 48,
+    "title": "Intimidation",
+    "rarity": 3.3,
+    "description": "#You are skilled at intimidating people, making them feel fear and shake in their boots with your mere presence, you instinctively know how to present yourself in ways that invoke terror.",
+    "tier": "Rare",
+    "color": "#11d939"
+  },
+  {
+    "id": 49,
+    "title": "Novice Cooking",
+    "rarity": 1.3,
+    "description": "#You are a novice in the culinary arts, you can cook most basic meals and they will taste good. But don't expect to get a job as a chef. You will however improve much faster than other people if you choose to train yourself.",
+    "tier": "Common",
+    "color": "#9c7e5a"
+  },
+  {
+    "id": 50,
+    "title": "Novice Drawing",
+    "rarity": 1.0,
+    "description": "#You are a novice at drawing about as skilled as an art student, while you are noticeably better than people who don't know how to draw, you aren't good enough to become a professional. You will however improve much faster than other people if you choose to train yourself.",
+    "tier": "Common",
+    "color": "#9c7e5a"
+  },
+  {
+    "id": 51,
+    "title": "Novice Acting",
+    "rarity": 1.4,
+    "description": "#You are a novice actor, you know how to portray yourself in the ways you want to be seen and hide your real emotions but it is not difficult for experienced people to see through your acting. You will however improve much faster than other people if you choose to train yourself.",
+    "tier": "Common",
+    "color": "#9c7e5a"
+  },
+  {
+    "id": 52,
+    "title": "Novice Shooting",
+    "rarity": 1.6,
+    "description": "#You know how to handle firearms, you are no marksman but you are as good as the average soldier at aiming and shooting projectiles. You will however improve much faster than other people if you choose to train yourself.",
+    "tier": "Common",
+    "color": "#9c7e5a"
+  },
+  {
+    "id": 53,
+    "title": "Novice Hand-to-Hand Combat",
+    "rarity": 1.5,
+    "description": "#You are reasonably talented in hand-to-hand combat. You know how to punch and where to punch and that's enough for most people. You won't be winning against professionals but you can confidently beat up the average person. You will however improve much faster than other people if you choose to train yourself.",
+    "tier": "Common",
+    "color": "#9c7e5a"
+  },
+  {
+    "id": 54,
+    "title": "Novice Programming",
+    "rarity": 1.4,
+    "description": "#You know how to code on the level of a novice, you can create simple programs and know how to read, understand and spot mistakes in codes. And you can do so in every single coding language you have encountered.",
+    "tier": "Common",
+    "color": "#9c7e5a"
+  },
+  {
+    "id": 55,
+    "title": "Novice Mechanics",
+    "rarity": 1.1,
+    "description": "#You are as skilled as a mechanic apprentice, you know how to fix basic appliances and maybe even a car when provided with the right tools. You will however improve much faster than other people if you choose to train yourself.",
+    "tier": "Common",
+    "color": "#9c7e5a"
+  },
+  {
+    "id": 56,
+    "title": "Novice Biology",
+    "rarity": 1.1,
+    "description": "#You have the skills and knowledge of a Biology Major. You have a decent repertoire of knowledge regarding biology, bodies and organs as well as how things interact with biology.",
+    "tier": "Common",
+    "color": "#9c7e5a"
+  },
+  {
+    "id": 57,
+    "title": "Novice Physics",
+    "rarity": 1.6,
+    "description": "#You have the skills and knowledge of a Physics Major. You have a decent repertoire of knowledge regarding physics and the laws of the universe. You know why and how things fall down, why magnets repel each other and how to build a nuclear bomb.",
+    "tier": "Common",
+    "color": "#9c7e5a"
+  },
+  {
+    "id": 58,
+    "title": "Novice Chemistry",
+    "rarity": 1.4,
+    "description": "#You have the skills and knowledge of a Chemistry Major. You have a decent repertoire of knowledge regarding chemistry and compounds. You know how to make most regular chemicals and know not to drink bleach.",
+    "tier": "Common",
+    "color": "#9c7e5a"
+  },
+  {
+    "id": 59,
+    "title": "Novice Math",
+    "rarity": 1.5,
+    "description": "#You are good at calculating things in your head and doing calculations on the spot. You can solve most math problems you would be able to solve, rather easily in your head instead of writing things down like a human calculator.",
+    "tier": "Common",
+    "color": "#9c7e5a"
+  },
+  {
+    "id": 60,
+    "title": "Novice Blacksmithing",
+    "rarity": 1.7,
+    "description": "#You are about as skilled as a Blacksmith's apprentice. You can make basic weapons and tools, but you can't guarantee their quality, at least you can accurately gauge the quality of metalwork you are given.",
+    "tier": "Common",
+    "color": "#9c7e5a"
+  },
+  {
+    "id": 61,
+    "title": "Novice Teaching",
+    "rarity": 1.8,
+    "description": "#You are as skilled as a fresh teacher, you know how to impart your knowledge and skills to people well enough but you can't guarantee they will listen or take your lesson to heart.",
+    "tier": "Common",
+    "color": "#9c7e5a"
+  },
+  {
+    "id": 62,
+    "title": "Novice Blade Weapon Mastery",
+    "rarity": 1.9,
+    "description": "#You are reasonably talented in handling bladed weapons such as swords and knives. You know how to hold the sword and keep the sharp pointed toward the enemy as well as being able to align the edge of your cuts and poke the stabby end into people.",
+    "tier": "Common",
+    "color": "#9c7e5a"
+  },
+  {
+    "id": 63,
+    "title": "Novice Blunt Weapon Mastery",
+    "rarity": 1.5,
+    "description": "#You are reasonably talented in handling blunt weapons such as hammers or clubs. You know how to move your body to do damage with the instrument you are holding, but there is only so much finesse to handling a large stick.",
+    "tier": "Common",
+    "color": "#9c7e5a"
+  },
+  {
+    "id": 64,
+    "title": "Novice Polearm Mastery",
+    "rarity": 1.8,
+    "description": "#You are reasonably talented in handling polearms such as spears, halberds or scythes. You know how to smack with the long stick, how to cut with the blade at the end of the long stick, you know how to tab people with the pointy end of the long stick, and that is enough for most people.",
+    "tier": "Common",
+    "color": "#9c7e5a"
+  },
+  {
+    "id": 65,
+    "title": "Novice Item Construction",
+    "rarity": 2.1,
+    "description": "#You know how to create minor enchanted and special items, not anything that can be called a proper item but things like a plate that heats itself up or a mask that purifies air are possible as long as you have the proper knowledge base.",
+    "tier": "Uncommon",
+    "color": "#aed1d1"
+  },
+  {
+    "id": 66,
+    "title": "Novice Kama Sutra",
+    "rarity": 1.5,
+    "description": "#(Nsfw)You are reasonably talented in the carnal arts, you know what goes where and how to pleasure your partner as well as what not to do during coitus.",
+    "tier": "Common",
+    "color": "#9c7e5a"
+  },
+  {
+    "id": 67,
+    "title": "Novice Taming",
+    "rarity": 1.1,
+    "description": "#You know how to tame wild creatures, but not very precisely. With trial and error, you can probably tame a creature but it won't be easy, though you can easily tame and train mundane animals.",
+    "tier": "Common",
+    "color": "#9c7e5a"
+  },
+  {
+    "id": 68,
+    "title": "Novice Massage",
+    "rarity": 1.2,
+    "description": "#You are as skilled as an apprentice masseuse, you know how to give someone a massage that feels good and can relieve pressure but not much beyond that.",
+    "tier": "Common",
+    "color": "#9c7e5a"
+  },
+  {
+    "id": 69,
+    "title": "Novice Driving",
+    "rarity": 1.1,
+    "description": "#You know how to drive most vehicles, you are no expert but you won't fall off your bike or start driving into pedestrians.",
+    "tier": "Common",
+    "color": "#9c7e5a"
+  },
+  {
+    "id": 70,
+    "title": "Novice Leadership",
+    "rarity": 2.4,
+    "description": "#You know a bit about leading and motivating people, you won't be leading armies anytime soon but the team you lead will probably find you an agreeable leader and you are decent at resolving conflict among members and motivating your team.",
+    "tier": "Uncommon",
+    "color": "#aed1d1"
+  },
+  {
+    "id": 71,
+    "title": "Novice Charisma",
+    "rarity": 1.9,
+    "description": "#You have an aura of charisma around you, it is less of a skill and more of something that is just about you, a change in your demeanour and how you hold yourself perhaps. People of note feel themselves more attracted to your presence, it's subtle things like people paying more attention to you, taking you more seriously etc. Though at this level it is not too noticeable",
+    "tier": "Common",
+    "color": "#9c7e5a"
+  },
+  {
+    "id": 72,
+    "title": "Novice Medicine",
+    "rarity": 1.5,
+    "description": "#You are about as skilled as a doctor in training, you know how to perform first aid, how to apply medicine, what most medicines do, and in a pinch improvise medical tools to perform basic surgery.",
+    "tier": "Common",
+    "color": "#9c7e5a"
+  },
+  {
+    "id": 73,
+    "title": "Adept Cooking",
+    "rarity": 3.3,
+    "description": "#You are great at cooking, at the level of a veteran chef, you can cook most meals with great flavour, there aren't many who would be disappointed with your cooking. You could easily get a job as a private chef.",
+    "tier": "Rare",
+    "color": "#11d939"
+  },
+  {
+    "id": 74,
+    "title": "Adept Drawing",
+    "rarity": 3.0,
+    "description": "#You are great at drawing at the level of a seasoned illustrator, you can make very realistic paintings and very stylized ones too. In addition, you draw extremely fast, far faster than someone of your skill level should without suffering from a decrease in quality.",
+    "tier": "Rare",
+    "color": "#11d939"
+  },
+  {
+    "id": 75,
+    "title": "Adept Acting",
+    "rarity": 3.4,
+    "description": "#You are as skilled as a veteran actor, being able to effectively present yourself in the ways you want to be seen to invoke the emotions you want to invoke while hiding your real thoughts and feelings. It would take a seasoned detective to suss you out.",
+    "tier": "Rare",
+    "color": "#11d939"
+  },
+  {
+    "id": 76,
+    "title": "Adept Shooting",
+    "rarity": 3.5,
+    "description": "#You are a natural crack shot, being able to wield most projectile-based weaponry with great familiarity and accuracy, rarely missing your shots unless you are against an opponent of similar skill.",
+    "tier": "Rare",
+    "color": "#11d939"
+  },
+  {
+    "id": 77,
+    "title": "Adept Hand-to-Hand Combat",
+    "rarity": 3.6,
+    "description": "#You are very talented in unarmed combat, on the level of a veteran martial artist. You know how to move your body to unleash powerful blows, at this level your arms and legs are lethal weapons.",
+    "tier": "Rare",
+    "color": "#11d939"
+  },
+  {
+    "id": 78,
+    "title": "Adept Programming",
+    "rarity": 3.1,
+    "description": "#You are as skilled as a veteran programmer, being able to write and design complex programs and algorithms while being able to quickly spot mistakes and problems in the codes you write. In addition, you write code far faster than you should be able to without sacrificing quality.",
+    "tier": "Rare",
+    "color": "#11d939"
+  },
+  {
+    "id": 79,
+    "title": "Adept Mechanics",
+    "rarity": 3.2,
+    "description": "#You are as skilled as a veteran engineer, if given the tools you can repair almost any mundane machine and you could even design a car from scratch and build it yourself. In addition, you tinker and design faster than you should be able to without sacrificing quality.",
+    "tier": "Rare",
+    "color": "#11d939"
+  },
+  {
+    "id": 80,
+    "title": "Adept Biology",
+    "rarity": 3.6,
+    "description": "#Your experience and knowledge in the field of Biology is on par with a Senior Scientist. You are very knowledgeable in the study of life, such as how living organisms function, how they are formed and what they are made of.",
+    "tier": "Rare",
+    "color": "#11d939"
+  },
+  {
+    "id": 81,
+    "title": "Adept Physics",
+    "rarity": 3.8,
+    "description": "#Your experience and knowledge in the field of Physics is on par with a Senior Scientist. You are very knowledgeable in the study of the laws of the universe, such as how things are affected by gravity, how electromagnetism works and its effects, how nuclear fission and fusion work etc.",
+    "tier": "Rare",
+    "color": "#11d939"
+  },
+  {
+    "id": 82,
+    "title": "Adept Chemistry",
+    "rarity": 3.7,
+    "description": "#Your experience and knowledge in the field of Chemistry is on par with a Senior Scientist. You are very knowledgeable in the study of matter, such as what most substances are formed of, how most substances interact with each other, how to form chemical compounds and how to influence matter in the ways you want.",
+    "tier": "Rare",
+    "color": "#11d939"
+  },
+  {
+    "id": 83,
+    "title": "Adept Math",
+    "rarity": 3.9,
+    "description": "#You are a savant in terms of mathematical and calculative ability, you will never need a calculator since your head crunches calculations faster than you can type them into a calculator, while you aren't competing with computers just yet, you are far faster than you should be.",
+    "tier": "Rare",
+    "color": "#11d939"
+  },
+  {
+    "id": 84,
+    "title": "Adept Blacksmithing",
+    "rarity": 3.4,
+    "description": "#You are as skilled as a veteran blacksmith. You can create fine weapons and armour without problem, with practice you can even make rare weapons that are sought after. In addition, your understanding of metallurgy and forging are far beyond the average person.",
+    "tier": "Rare",
+    "color": "#11d939"
+  },
+  {
+    "id": 85,
+    "title": "Adept Teaching",
+    "rarity": 3.2,
+    "description": "#You are a great teacher, you could even call yourself GTO if your name starts with O. You are skilled at imparting your knowledge and skills to others, even if they are a poor student. You can also teach anyone any one of your skills as long as they are physically capable and the skill is below rare rank.",
+    "tier": "Rare",
+    "color": "#11d939"
+  },
+  {
+    "id": 86,
+    "title": "Adept Blade Weapon Mastery",
+    "rarity": 3.5,
+    "description": "#You are very talented at wielding bladed weapons, on the level of a veteran swordsman. You are able to effectively wield any bladed weapon such as swords and daggers with great efficiency and finesse.",
+    "tier": "Rare",
+    "color": "#11d939"
+  },
+  {
+    "id": 87,
+    "title": "Adept Blunt Weapon Mastery",
+    "rarity": 3.2,
+    "description": "#You are very talented at wielding blunt weapons such as hammers and clubs. When you are holding any blunt weapon you can exert almost supernatural levels of strength with them.",
+    "tier": "Rare",
+    "color": "#11d939"
+  },
+  {
+    "id": 88,
+    "title": "Adept Polearm Mastery",
+    "rarity": 3.4,
+    "description": "#You are very talented at wielding polearms, on the level of a veteran spearsman. You are able to effectively wield any polearm such as spears, sickles and halberds with great efficiency and finesse.",
+    "tier": "Rare",
+    "color": "#11d939"
+  },
+  {
+    "id": 89,
+    "title": "Adept Item Construction",
+    "rarity": 4.9,
+    "description": "#You know how to create enchanted and special items depending on your capabilities, if you know fire magic, you could turn a regular ring into one that deploys a fire barrier in an emergency, or if you have the ability of teleportation you could create a ring that teleports people to a set location etc.",
+    "tier": "Elite",
+    "color": "#1172d9"
+  },
+  {
+    "id": 90,
+    "title": "Adept Kama Sutra",
+    "rarity": 3.3,
+    "description": "#(Nsfw)You are very talented in the carnal art, being able to spot signs of arousal and attraction, in addition, you instinctively know how to pleasure your partner in bed and be a very pleasant recipient, enhancing pleasure for both of you.",
+    "tier": "Rare",
+    "color": "#11d939"
+  },
+  {
+    "id": 91,
+    "title": "Adept Taming",
+    "rarity": 3.1,
+    "description": "#You are great at taming, making beings submit to your ownership or superiority. You know how to gain the obedience and loyalty of eligible families and people to a lesser extent. You are also good at training them too.",
+    "tier": "Rare",
+    "color": "#11d939"
+  },
+  {
+    "id": 92,
+    "title": "Adept Massage",
+    "rarity": 3.6,
+    "description": "#You are as skilled as a seasoned masseuse, being able to give a variety of massages that help get rid of exhaustion, recover stamina, revitalize the body and mind and even invoke sexual pleasure. Few would leave the massage bed unsatisfied.",
+    "tier": "Rare",
+    "color": "#11d939"
+  },
+  {
+    "id": 93,
+    "title": "Adept Driving",
+    "rarity": 3.0,
+    "description": "#You are as skilled as a veteran driver, being able to handle any vehicle with familiarity and ease. If you participate in a race, chances are you will embarrass the competition.",
+    "tier": "Rare",
+    "color": "#11d939"
+  },
+  {
+    "id": 94,
+    "title": "Adept Leadership",
+    "rarity": 4.2,
+    "description": "#You are a skilled leader, whether that is about small teams or even companies. You know how to get people's loyalty, give them morale, manage and lead them. You would be known as a great commander if you led a military into war.",
+    "tier": "Elite",
+    "color": "#1172d9"
+  },
+  {
+    "id": 95,
+    "title": "Adept Charisma",
+    "rarity": 4.4,
+    "description": "#You have an aura of charisma around you, it is less of a skill and more of something that is just around you. People of note feel themselves more attracted to your presence, you are more intimidating when you want to be, you are more persuasive when you try to be,",
+    "tier": "Elite",
+    "color": "#1172d9"
+  },
+  {
+    "id": 96,
+    "title": "Adept Medicine",
+    "rarity": 4.1,
+    "description": "#You are very skilled in all areas of medicine, you can do surgery, diagnose conditions, create medicine etc. You are fully qualified as a veteran in all areas of medicine. You can also make your own medicine given the ingredients, even magical ones such as potions depending on the world you are in.",
+    "tier": "Elite",
+    "color": "#1172d9"
+  },
+  {
+    "id": 97,
+    "title": "Expert Cooking",
+    "rarity": 4.4,
+    "description": "#You are an expert in the culinary arts, you are better than most chefs will ever be. You can cook almost any meal if given ingredients and it will almost certainly taste great. At the very least, no one leaves your dining table unsatisfied. Still not quite at foodgasm levels but you are close.",
+    "tier": "Elite",
+    "color": "#1172d9"
+  },
+  {
+    "id": 98,
+    "title": "Expert Drawing",
+    "rarity": 3.7,
+    "description": "#You are an expert at illustration of all kinds whether it be drawing or painting. You are able to almost perfectly illustrate what you imagine in your head or what you see in front of you.",
+    "tier": "Rare",
+    "color": "#11d939"
+  },
+  {
+    "id": 99,
+    "title": "Expert Acting",
+    "rarity": 4.4,
+    "description": "#You are an expert actor, being able to skillfully portray yourself in the way you want to be perceived in order to invoke the emotions you want to invoke and hide the emotions you want to hide. It would take a real expert to see through your mask.",
+    "tier": "Elite",
+    "color": "#1172d9"
+  },
+  {
+    "id": 100,
+    "title": "Expert Shooting",
+    "rarity": 4.6,
+    "description": "#You are an expert marksman, you handle all firearms and projectiles with great skill and finesse to the point where people might wonder if you have special power. You can even curve your shots and utilize ricochets. You can also better predict the trajectory of enemy projectiles.",
+    "tier": "Elite",
+    "color": "#1172d9"
+  },
+  {
+    "id": 101,
+    "title": "Expert Hand-to-Hand Combat",
+    "rarity": 4.5,
+    "description": "#You are an expert martial artist, you move your body like it is a lethal weapon, knowing where to strike and how to move your body to deal damage with expert skill. You learn and master other types of unarmed martial arts much faster.",
+    "tier": "Elite",
+    "color": "#1172d9"
+  },
+  {
+    "id": 102,
+    "title": "Expert Programming",
+    "rarity": 4.1,
+    "description": "#You are an expert programmer, your skill with coding is comparable to a low-level Tinker ability. You can craft and code complex algorithms and programs with ease, you can even make basic artificial intelligences.",
+    "tier": "Elite",
+    "color": "#1172d9"
+  },
+  {
+    "id": 103,
+    "title": "Expert Mechanics",
+    "rarity": 4.2,
+    "description": "#You are an expert mechanic, your skill at designing, fixing and building machinery is comparable to a low-level Tinker ability. You can fix and build any mundane machine without a problem and even design your improved versions. With enough time and practice you can even build low-level tinkertech.",
+    "tier": "Elite",
+    "color": "#1172d9"
+  },
+  {
+    "id": 104,
+    "title": "Expert Biology",
+    "rarity": 4.1,
+    "description": "#You are an expert in the field of Biology, the study of life. You are intimately familiar with the biology of most organisms, ranging from mammals to cellular life. If you were to be given magic, you could probably figure out Biomancy rather quickly.",
+    "tier": "Elite",
+    "color": "#1172d9"
+  },
+  {
+    "id": 105,
+    "title": "Expert Physics",
+    "rarity": 4.6,
+    "description": "#You are an expert in the field of Physics, the study of the laws of the universe. You are intimately familiar with how the laws of the universe interact with most objects and forces as well as how they work. If you were to be given magic, you could probably figure out Gravity and Electricity magic rather quickly.",
+    "tier": "Elite",
+    "color": "#1172d9"
+  },
+  {
+    "id": 106,
+    "title": "Expert Chemistry",
+    "rarity": 4.4,
+    "description": "#You are an expert in the field of Chemistry, the study of matter. You are intimately familiar with how most chemical compounds and materials are formed as well as how they react to each other and stimuli. If you were to be given magic, you could probably become an alchemist rather quickly.",
+    "tier": "Elite",
+    "color": "#1172d9"
+  },
+  {
+    "id": 107,
+    "title": "Expert Math",
+    "rarity": 4.9,
+    "description": "#You are a true savant when it comes to mathematics and calculations. You can solve most problems relating to numbers with ease and the speed at which you crunch numbers and do calculations in your head",
+    "tier": "Elite",
+    "color": "#1172d9"
+  },
+  {
+    "id": 108,
+    "title": "Expert Blacksmithing",
+    "rarity": 5.2,
+    "description": "#You are an expert blacksmith, the kind that would shack up in the mountains as a hermit, visited by a knight on their quest to slay a dragon. You are intimately familiar with building all kinds of cold weapons and the weapons you create are of supernatural quality, you could forge an iron sword that can cut an iron block in half. You can also grant your weapons special traits depending on the materials you forge them out of.",
+    "tier": "Epic",
+    "color": "#6811d9"
+  },
+  {
+    "id": 109,
+    "title": "Expert Teaching",
+    "rarity": 4.8,
+    "description": "#You are an expert teacher, the kind a protagonist would encounter mid-way through their journey to learn an essential skill from you before leaving and forgetting about you. You are incredibly skilled at imparting your knowledge and skills to your pupils, you could pick any old farmboy and turn him into a fine warrior.",
+    "tier": "Elite",
+    "color": "#1172d9"
+  },
+  {
+    "id": 110,
+    "title": "Expert Blade Weapon Mastery",
+    "rarity": 4.9,
+    "description": "#You are an expert of the bladed weapons such as daggers and swords, not quite in the realm of legends but in the old ages people would sing songs about how you could slay 100 men with a single blade. Your expertise and finesse with blades are the stuff of rumours.",
+    "tier": "Elite",
+    "color": "#1172d9"
+  },
+  {
+    "id": 111,
+    "title": "Expert Blunt Weapon Mastery",
+    "rarity": 4.6,
+    "description": "#You are an expert of blunt weapons like hammers and clubs, the might with which you swing these weapons can brown the pants of any common man. If these were the old ages, there would be folklore about how you splattered a man across the battlefield with a simple mace.",
+    "tier": "Elite",
+    "color": "#1172d9"
+  },
+  {
+    "id": 112,
+    "title": "Expert Polearm Mastery",
+    "rarity": 4.8,
+    "description": "#You are an expert at wielding polearms like spears, halberds and scythes, while not quite on the level of heroes like Cu Chulainn you are ferocious with the spear in your own right. You wield the spear as if it were an extension of your own body.",
+    "tier": "Elite",
+    "color": "#1172d9"
+  },
+  {
+    "id": 113,
+    "title": "Expert Item Construction",
+    "rarity": 5.7,
+    "description": "#You know how to create great enchanted and special items depending on your capabilities, if you know fire magic, you could turn a regular ring into one that deploys fireballs, walls of fire and makes the user resistant to fire, or if you have the ability of teleportation you could create a ring that teleports people to a set location etc.",
+    "tier": "Epic",
+    "color": "#6811d9"
+  },
+  {
+    "id": 114,
+    "title": "Expert Kama Sutra",
+    "rarity": 4.5,
+    "description": "#(Nsfw)You are an expert in the carnal, being intimately familiar with picking up signs of arousal and pleasuring your partners in bed. Unless your partner is completely frigid, no one will leave your bed unsatisfied, your skill in bed is unmatched by most. If you were given magic you could probably create Eromancy.",
+    "tier": "Elite",
+    "color": "#1172d9"
+  },
+  {
+    "id": 115,
+    "title": "Expert Taming",
+    "rarity": 4.1,
+    "description": "#You are an expert in taming and domestication. You know how to turn a ferocious beast into your best buddy, and you know how to skillfully train creatures to gain their obedience and their loyalty. This can also be applied to people to a lesser extent.",
+    "tier": "Elite",
+    "color": "#1172d9"
+  },
+  {
+    "id": 116,
+    "title": "Expert Massage",
+    "rarity": 4.0,
+    "description": "#You are an expert masseuse on the level of a grandpa who spent his life refining his craft. You can give massages that melt away exhaustion, help revitalize the body, ones that give unmatched sexual pleasure, relieve tension etc.",
+    "tier": "Elite",
+    "color": "#1172d9"
+  },
+  {
+    "id": 117,
+    "title": "Expert Driving",
+    "rarity": 4.0,
+    "description": "#You are an expert driver for all kinds of vehicles ranging from scooters to spaceships, you can probably outrace a motorcycle while riding a tricycle. If it has controls to steer it, you can make that baby purr for you in a way others can only hope to imitate.",
+    "tier": "Elite",
+    "color": "#1172d9"
+  },
+  {
+    "id": 118,
+    "title": "Expert Leadership",
+    "rarity": 5.3,
+    "description": "#You are an expert leader, on par with famous leaders throughout history like Iskandar or King Arthur. You know how to motivate, lead and manage the people you are responsible for with finesse and efficiency. You could probably run your own country if you put in some elbow grease.",
+    "tier": "Epic",
+    "color": "#6811d9"
+  },
+  {
+    "id": 119,
+    "title": "Expert Charisma",
+    "rarity": 5.2,
+    "description": "#You have an aura of charisma around you, it is less of a skill and more of something about your presence. People of note feel themselves more attracted to your presence, you are more intimidating when you want to be, you are more persuasive when you try to be,",
+    "tier": "Epic",
+    "color": "#6811d9"
+  },
+  {
+    "id": 120,
+    "title": "Expert Medicine",
+    "rarity": 4.9,
+    "description": "#You are an expert in all fields of medicine that regular humans can seldom match. You know how to perform surgery, make your own supernatural medicine, and diagnose ailments with ease and finesse.",
+    "tier": "Elite",
+    "color": "#1172d9"
+  },
+  {
+    "id": 121,
+    "title": "Master Cooking",
+    "rarity": 5.6,
+    "description": "#You are a real master of cooking, you can cook almost any dish to incredible levels of taste to the point where they might even gain supernatural traits depending on the ingredients you used. You can induce actual foodgasms with your cooking.",
+    "tier": "Epic",
+    "color": "#6811d9"
+  },
+  {
+    "id": 122,
+    "title": "Master Drawing",
+    "rarity": 4.1,
+    "description": "#You are a master at illustration, you can perfectly convey your thoughts or reality through your art. If you put in the effort you can even create moving pieces of art that invoke the emotions you want on the people who witness them.",
+    "tier": "Elite",
+    "color": "#1172d9"
+  },
+  {
+    "id": 123,
+    "title": "Master Acting",
+    "rarity": 5.2,
+    "description": "#You are a master actor, maybe at this point, you can't even tell where the mask is and where you are. You are able to present yourself in any way you would want to be seen and perfectly mask your emotions when you need to. It would take nothing less than the eyes of a truth seer to see beyond your mask.",
+    "tier": "Epic",
+    "color": "#6811d9"
+  },
+  {
+    "id": 124,
+    "title": "Master Shooting",
+    "rarity": 5.3,
+    "description": "#Your marksmanship is on the level of legends like Orion or Arash, or it might be if you train enough. Few mortals can dodge your projectiles, in the old times you would have been hailed as a legendary archer.",
+    "tier": "Epic",
+    "color": "#6811d9"
+  },
+  {
+    "id": 125,
+    "title": "Master Hand-to-Hand Combat",
+    "rarity": 5.5,
+    "description": "#Your skills and talent in martial arts are on the level of legends, you are a true prodigy. You can quickly master most forms of martial arts and your basic comprehension of unarmed combat is incredible, your hands and feet are actual weapons that wouldn't lose out to swords and spears.",
+    "tier": "Epic",
+    "color": "#6811d9"
+  },
+  {
+    "id": 126,
+    "title": "Master Programming",
+    "rarity": 5.7,
+    "description": "#You are a master programmer, your skills are to the point where they may as well be tinker abilities except this is all raw skill. You can easily code complex algorithms and programs as well creating your own Artificial Intelligence. Sci-fi worlds fear you.",
+    "tier": "Epic",
+    "color": "#6811d9"
+  },
+  {
+    "id": 127,
+    "title": "Master Mechanics",
+    "rarity": 5.8,
+    "description": "#You are a master mechanic, your skill at designing, fixing and building machinery can be called a Tinker ability itself if it weren't pure skill. You can easily design, repair, build and improve all mundane appliances. And with enough time and effort, you can create and design your own brand of  Tinkertech.",
+    "tier": "Epic",
+    "color": "#6811d9"
+  },
+  {
+    "id": 128,
+    "title": "Master Biology",
+    "rarity": 6.0,
+    "description": "#You are a master in the field of Biology, the study of life. You are perfectly familiar with the biology of most organisms, ranging from mammals to cellular life to the point where you can guess and estimate the biology of a completely unfamiliar creature. If given time and effort you can also create your own godforsaken biological hybrids and homunculus and even improve the physiology of beings through surgery. But you will need to study to digest all of this knowledge and make use of it due to the immense quantity.",
+    "tier": "Legendary",
+    "color": "#f7d40a"
+  },
+  {
+    "id": 129,
+    "title": "Master Physics",
+    "rarity": 6.3,
+    "description": "#You are a master in the field of Physics, the study of the laws of the universe. You know how the laws of the universe work and how they interact with the world at large, if given enough time and effort you could probably invent anti-gravity, railgun tech, cold fusion etc. But you will need to study to digest all of this knowledge and make use of it due to the immense quantity.",
+    "tier": "Legendary",
+    "color": "#f7d40a"
+  },
+  {
+    "id": 130,
+    "title": "Master Chemistry",
+    "rarity": 6.1,
+    "description": "#You are a master in the field of Chemistry, the study of matter. You are perfectly familiar with how most compounds and objects are formed and what reactions cause with what. With your level of mastery, you can probably make your own brand of supersoldier serum if given enough time. But you will need to study to digest all of this knowledge and make use of it due to the immense quantity.",
+    "tier": "Legendary",
+    "color": "#f7d40a"
+  },
+  {
+    "id": 131,
+    "title": "Master Math",
+    "rarity": 6.1,
+    "description": "#You can't be described as a basic savant anymore, you are truly superhuman when it comes to the matter of numbers, mathematics and calculations to the point where someone might question if you have a computer inside of your head.",
+    "tier": "Legendary",
+    "color": "#f7d40a"
+  },
+  {
+    "id": 132,
+    "title": "Master Blacksmithing",
+    "rarity": 5.9,
+    "description": "#You are a master blacksmith, and while not quite on the level of someone like Muramasa, describing your works as anything below works of art is an insult. You make weapons, not for simple men but for mighty warriors and heroes of legend. With time and effort, you can create weapons on the level of noble phantasms.",
+    "tier": "Epic",
+    "color": "#6811d9"
+  },
+  {
+    "id": 133,
+    "title": "Master Teaching",
+    "rarity": 5.8,
+    "description": "#You are a master master, does that make sense? You can masterfully impart your knowledge and skills onto your pupil, and while you aren't quite on the level of the Kingmaker like Merlin you can train heroes yourself, if this were the old times, people from across the country would journey to gain your teachings.",
+    "tier": "Epic",
+    "color": "#6811d9"
+  },
+  {
+    "id": 134,
+    "title": "Master Blade Weapon Mastery",
+    "rarity": 5.9,
+    "description": "#You are a true master of the blades, the kind only spoken in legends, you are spoken in the same vein as people like King Arthur and Lancelot, you are on the cusp of the sword saint realm but you aren't quite there yet.",
+    "tier": "Epic",
+    "color": "#6811d9"
+  },
+  {
+    "id": 135,
+    "title": "Master Blunt Weapon Mastery",
+    "rarity": 5.7,
+    "description": "#You are a true master of the blunt weapon, the kind only spoken of in legends. You are one with your hammer, and the strength you can exert while wielding a blunt weapon is far beyond what you would normally be able to. You can shatter the walls of a castle with a branch from a tree.",
+    "tier": "Epic",
+    "color": "#6811d9"
+  },
+  {
+    "id": 136,
+    "title": "Master Polearm Mastery",
+    "rarity": 5.8,
+    "description": "#You are a true master of polearms, the kind only spoken in legends, your skills are spoken in the same vein as people like Cu Chulainn and Lu Bu. You can handle and all polearms such as spears, glaives and scythes with mastery.",
+    "tier": "Epic",
+    "color": "#6811d9"
+  },
+  {
+    "id": 137,
+    "title": "Master Item Construction",
+    "rarity": 6.3,
+    "description": "#You know how to create epic enchanted and special items depending on your capabilities, if you know fire magic, you could turn a regular ring into one that allows the user to use fire magic themselves at a lower level.  If you had an ability like superhuman, you could create a ring that turns the average Joe into a super soldier. Stronger enchantments demand stronger base materials.",
+    "tier": "Legendary",
+    "color": "#f7d40a"
+  },
+  {
+    "id": 138,
+    "title": "Master Kama Sutra",
+    "rarity": 6.5,
+    "description": "#(Nsfw)You are a true master of lovemaking and passion, no mortal man can match your mastery over the carnal arts, and the bodies of your partners may as well be putty in your hands, even gods would be rendered to helpless messes with your lovemaking skills.",
+    "tier": "Legendary",
+    "color": "#f7d40a"
+  },
+  {
+    "id": 139,
+    "title": "Master Taming",
+    "rarity": 5.1,
+    "description": "#You are a true master tamer. You can turn even the most ferocious bloodthirsty manic beast into a living room pet. You are a master at also training familiars to gain their obedience and loyalty. This can also apply to people to a lesser extent.",
+    "tier": "Epic",
+    "color": "#6811d9"
+  },
+  {
+    "id": 140,
+    "title": "Master Massage",
+    "rarity": 5.5,
+    "description": "#You are a master masseuse, better than any mortal can be. Your massages can even heal injuries and ailments, your massages are therapeutic and cause immense pleasure and comfort. Even the bodies gods are like putty in your hands.",
+    "tier": "Epic",
+    "color": "#6811d9"
+  },
+  {
+    "id": 141,
+    "title": "Master Driving",
+    "rarity": 5.0,
+    "description": "#You are a true master at driving any kind of vehicle, if it has steering, you can ride any vehicle or mount as if they were your extensions of your body. Ranging from rollerblades to star-sized spacecrafts.",
+    "tier": "Epic",
+    "color": "#6811d9"
+  },
+  {
+    "id": 142,
+    "title": "Master Leadership",
+    "rarity": 5.8,
+    "description": "#You are a master leader, making you excellent at managing, leading, motivating and earning the loyalty of anyone under your leadership. You could easily run your own country, and if these were the old times, you would be hailed as a legendary general.",
+    "tier": "Epic",
+    "color": "#6811d9"
+  },
+  {
+    "id": 143,
+    "title": "Master Charisma",
+    "rarity": 5.6,
+    "description": "#You have an aura of charisma around you, it is less of a skill and more of something about your presence. People of note feel themselves more attracted to your presence, when you want to appear intimidating your presence strikes fear, when you want to calm someone down your aura appears serene etc.",
+    "tier": "Epic",
+    "color": "#6811d9"
+  },
+  {
+    "id": 144,
+    "title": "Master Medicine",
+    "rarity": 5.7,
+    "description": "#You are a true master in all fields of medicine that regular humans can seldom match. You can perform surgery, make your own medicine, and diagnose ailments with extreme efficiency and precision. You could create and design your own medicines, with practice, you could even create superhuman medicines.",
+    "tier": "Epic",
+    "color": "#6811d9"
+  },
+  {
+    "id": 145,
+    "title": "Grandmaster Cooking",
+    "rarity": 6.6,
+    "description": "#You are Grandmaster of Cooking, better than any mortal has any right to be. You can cook any meal ranging from Elder Dragon Steaks, to Leviathan Sushi, your foods, in addition to being incredible in taste are also bestowed with special wonderous effects depending on what you are cooking.",
+    "tier": "Legendary",
+    "color": "#f7d40a"
+  },
+  {
+    "id": 146,
+    "title": "Grandmaster Shooting",
+    "rarity": 6.3,
+    "description": "#You are a Grandmaster Marksman, you are better than any mortal has any right to be in the same vein as Bullseyet. Your accuracy is almost absolute with any ranged weapon and projectile, and the lethality of any projectile in your hands is unmatched. You could kill a man two streets away by flicking a toothpick through the gap in their eyesocket into their brain.",
+    "tier": "Legendary",
+    "color": "#f7d40a"
+  },
+  {
+    "id": 147,
+    "title": "Grandmaster Hand-to-Hand Combat",
+    "rarity": 6.5,
+    "description": "#Your skill level in martial arts has reached the level of a Saint. Even without any abilities or energy, your mastery has reached a point where your arms and legs can strike the intangible, you can kick people so hard you literally shatter their soul or slap the magic out of their hands.",
+    "tier": "Legendary",
+    "color": "#f7d40a"
+  },
+  {
+    "id": 148,
+    "title": "Grandmaster Programming",
+    "rarity": 6.9,
+    "description": "#You are a Grandmaster Programmer, you would be the scourge of any advanced civilization and artificial intelligences, you can casually code incredibly complex programs, and even create your powerful intelligences. If given enough time you could probably code your own Ultron.",
+    "tier": "Legendary",
+    "color": "#f7d40a"
+  },
+  {
+    "id": 149,
+    "title": "Grandmaster Mechanics",
+    "rarity": 6.7,
+    "description": "#You are on the level of a Saint in terms of mechanics, even in the Stone Age you could probably still create an automated factory. At this point, your skill is on the level of a Tinker Ability. You can easily build, design, fix, and innovate most forms of technology, even ones that are beyond the technology of your current world. You can even create generalized Tinker Tech.",
+    "tier": "Legendary",
+    "color": "#f7d40a"
+  },
+  {
+    "id": 150,
+    "title": "Grandmaster Biology",
+    "rarity": 7.0,
+    "description": "#Your comprehension in the field of Biology, the study of life is beyond any mortal should have. You instinctively understand the biology of organisms to the point where with a simple scan you can point out their genetic blueprint and know how to alter biology, DNA and genetics to your own ends. You will need time and study to properly digest the sheer amount of information this skill provides, at this level, the amount of knowledge stops becoming knowledge and simply comprehension and instinct toward the world around you instead.",
+    "tier": "Mythical",
+    "color": "#fc61ff"
+  },
+  {
+    "id": 151,
+    "title": "Grandmaster Physics",
+    "rarity": 7.3,
+    "description": "#Your comprehension in the field of Physics, the study of the laws of the universe is beyond any mortal should have. You know how the laws of the universe work and how they interact with the world at large and how to manipulate those forces to your ends. You will need time and study to properly digest the sheer amount of information this skill provides, at this level, the amount of knowledge stops becoming knowledge and simply comprehension and instinct toward the world around you instead.",
+    "tier": "Mythical",
+    "color": "#fc61ff"
+  },
+  {
+    "id": 152,
+    "title": "Grandmaster Chemistry",
+    "rarity": 7.1,
+    "description": "#Your comprehension in the field of Chemistry, the study of matter is beyond any mortal should have. You know how matters and materials are formed, how they form more matter with each other and how matters interact with each other to the point where you could easily come up with never-before-seen miracle alloys and materials never thought of. You will need time and study to properly digest the sheer amount of information this skill provides, at this level, the amount of knowledge stops becoming knowledge and simply comprehension and instinct toward the world around you instead.",
+    "tier": "Mythical",
+    "color": "#fc61ff"
+  },
+  {
+    "id": 153,
+    "title": "Grandmaster Math",
+    "rarity": 7.2,
+    "description": "#Your comprehension and understanding of numbers, mathematics and calculations is at a concerning level. You could go to NASA and outcalculate their computers. The speed at which your brain and mind can crunch numbers and calculations is beyond the level of what most computers can achieve. If you forgot your computer at home your mind is a better alternative anyway.",
+    "tier": "Mythical",
+    "color": "#fc61ff"
+  },
+  {
+    "id": 154,
+    "title": "Grandmaster Blacksmithing",
+    "rarity": 6.9,
+    "description": "#You are a grandmaster Blacksmith, you are what heroes and legends go to, to get their legendary armaments forged. You could give Muramasa a run for his money and with enough resources, you could probably make your own Durandal, Gram, Gae Bolg etc.",
+    "tier": "Legendary",
+    "color": "#f7d40a"
+  },
+  {
+    "id": 155,
+    "title": "Grandmaster Teaching",
+    "rarity": 6.8,
+    "description": "#You are a grandmaster at teaching, on par with people such as the King Maker Merlin, just without the decades of experience and repertoire of skills to teach. But if you have the skills yourself, you could pick up a random country girl and train her into a hero of legends.",
+    "tier": "Legendary",
+    "color": "#f7d40a"
+  },
+  {
+    "id": 156,
+    "title": "Grandmaster Blade Weapon Mastery",
+    "rarity": 6.9,
+    "description": "#You are a swordmaster on the level of a Saint, like mythical legends such as Musashi and Sasaki Kojiro. Even without abilities or energy your skill is at a level where you can even the intangible, you can cut souls, energy, and magic with nothing but your bare body and a blade of any kind.",
+    "tier": "Legendary",
+    "color": "#f7d40a"
+  },
+  {
+    "id": 157,
+    "title": "Grandmaster Blunt Weapon Mastery",
+    "rarity": 6.9,
+    "description": "#You have reached saint level with Blunt weapons... somehow, you have reached a level of skill where you can handle a club with such skill that you can smash and shatter the intangible, as in, you can hit someone with your club so hard their body, mind and soul shatters. You can also bat away magic like it is a softball.",
+    "tier": "Legendary",
+    "color": "#f7d40a"
+  },
+  {
+    "id": 158,
+    "title": "Grandmaster Polearm Mastery",
+    "rarity": 6.8,
+    "description": "#You have reached saint level with Polearms, your skill with the spear allows you to pierce and cut the intangible without needing to use any abilities or energy. You can stab someone's soul with your spear, cut their ability in half, bat away magic with the shaft of your spear etc.",
+    "tier": "Legendary",
+    "color": "#f7d40a"
+  },
+  {
+    "id": 159,
+    "title": "Grandmaster Item Construction",
+    "rarity": 6.7,
+    "description": "#You know how to create legendary enchanted and special items depending on your capabilities such as knowledge, abilities and skills. The artefacts you create are rated on the level of national treasures and items of legend. You can craft a ring that allows its user to use the ability teleportation or a ring that lets you use fire magic, maybe an armor that can resist the heat of the sun, the limits are only on your abilities.",
+    "tier": "Legendary",
+    "color": "#f7d40a"
+  },
+  {
+    "id": 160,
+    "title": "Grandmaster Leadership",
+    "rarity": 6.4,
+    "description": "#Your skill in leadership and ruling is at the peak of what a person could achieve. You could manage a kingdom and an army in your sleep, for you the act is as easy as playing a game simulating it. People under your rule and command are naturally more loyal and obedient to your rule, the chance of people rebelling against you is nill unless you are just that bad.",
+    "tier": "Legendary",
+    "color": "#f7d40a"
+  },
+  {
+    "id": 161,
+    "title": "Grandmaster Medicine",
+    "rarity": 6.5,
+    "description": "#You have reached beyond human but not quite god in terms of all fields of medicine and healing. You can perform surgery, modify bodies, and create legendary medicines as well as identify and know how to cure almost all illnesses and ailments. If you were in a cultivation world you would be titled the medicine king.",
+    "tier": "Legendary",
+    "color": "#f7d40a"
+  },
+  {
+    "id": 162,
+    "title": "Divine Cooking",
+    "rarity": 7.3,
+    "description": "#Your cooking talent is on the level of the gods, the food you cook can give someone an epiphany and change their lives. You can get gods to form a queue outside of your restaurant to taste your cooking.",
+    "tier": "Mythical",
+    "color": "#fc61ff"
+  },
+  {
+    "id": 163,
+    "title": "Divine Shooting",
+    "rarity": 7.4,
+    "description": "#Your skill and talent with the bow and arrow are on the level of the gods. With training, you could take Artemis, Apollo and Arjuna's lunch money.",
+    "tier": "Mythical",
+    "color": "#fc61ff"
+  },
+  {
+    "id": 164,
+    "title": "Divine Hand-to-Hand Combat",
+    "rarity": 7.7,
+    "description": "#Your skill and talent with martial arts is something that can only be described as godly. You can learn someone's martial art just by exchanging blows with them, you can make up your martial arts on the spot that would normally take masters tens of years to come up with.",
+    "tier": "Mythical",
+    "color": "#fc61ff"
+  },
+  {
+    "id": 165,
+    "title": "Divine Programming",
+    "rarity": 7.6,
+    "description": "#Your programming is on the level of the gods. Is this even coding anymore? No? You can translate your code into an actual magic formula to execute in the world. In addition, with your coding abilities, you could bring galactical empires to their knees and make any robot weep. You could probably outcode Ultron.",
+    "tier": "Mythical",
+    "color": "#fc61ff"
+  },
+  {
+    "id": 166,
+    "title": "Divine Mechanics",
+    "rarity": 7.5,
+    "description": "#Your ability to create, design, fix and improve machinery is on the level of Gods. You can outbuild Tony Stark, it doesn't matter the world you are in, with some time you could probably build a spaceship in the Stone Age. You can practically build any machine as long as you have the proper knowledge and abilities.",
+    "tier": "Mythical",
+    "color": "#fc61ff"
+  },
+  {
+    "id": 167,
+    "title": "Principle of Life",
+    "rarity": 8.1,
+    "description": "#You possess the knowledge of the creator when it comes to the field of Life and Biology. You know how to create, modify, and understand life. But this knowledge is too much for a mortal vessel, so the knowledge manifests as instinctive comprehension when it comes to all matters of life, the stronger you get the more access you will get to the principle.",
+    "tier": "Divine",
+    "color": "#ff8c00"
+  },
+  {
+    "id": 168,
+    "title": "Principle of Law",
+    "rarity": 8.5,
+    "description": "#You possess the knowledge of the creator when it comes to the fundamental forces of the universe. You know perfectly how the laws that make up the world work and how to manipulate them to your desires. But this knowledge is too much for a mortal vessel, so the knowledge manifests as instinctive comprehension when it comes to all matters of life, the stronger you get the more access you will get to the principle.",
+    "tier": "Divine",
+    "color": "#ff8c00"
+  },
+  {
+    "id": 169,
+    "title": "Principle of Matter",
+    "rarity": 8.2,
+    "description": "#You possess the knowledge of the creator when it comes to the field of matter and creation. You know how to construct, transmute, and understand matter, even create matter that doesn't exist. But this knowledge is too much for a mortal vessel, so the knowledge manifests as instinctive comprehension when it comes to all matters of life, the stronger you get the more access you will get to the principle.",
+    "tier": "Divine",
+    "color": "#ff8c00"
+  },
+  {
+    "id": 170,
+    "title": "Divine Formula",
+    "rarity": 8.0,
+    "description": "#Your internal calculator is beyond that of a calculator, you can effortlessly solve all mathematical problems and perform calculations faster than the fastest supercomputers. You could probably replicate the Kankara formula from DxD. But if your vessel is too weak it might be wise to not use all of your computational power to not melt your brain.",
+    "tier": "Divine",
+    "color": "#ff8c00"
+  },
+  {
+    "id": 171,
+    "title": "Divine Blacksmithing",
+    "rarity": 7.8,
+    "description": "#Your blacksmithing skill is qualified to be on the level of a god, with enough training you could Hephaestus a run for their money. With enough resources and time, you can forge your own Excalibur, Gugnir, Longinus, Mjolnir etc.",
+    "tier": "Mythical",
+    "color": "#fc61ff"
+  },
+  {
+    "id": 172,
+    "title": "Divine Teaching",
+    "rarity": 7.2,
+    "description": "#Your ability to impart your skills and knowledge to others is on a divine level. You could train the average farmboy into a demigod with enough effort. There is no one you cannot teach.",
+    "tier": "Mythical",
+    "color": "#fc61ff"
+  },
+  {
+    "id": 173,
+    "title": "Divine Blade Weapon Mastery",
+    "rarity": 7.8,
+    "description": "#Your level of mastery with swords is divine, with training, there is nothing you cannot cut. Space, Time, Heat, Mind, Souls, the only limit is the effort you are willing to put in. If you are not strong enough you may need training to properly digest this skill.",
+    "tier": "Mythical",
+    "color": "#fc61ff"
+  },
+  {
+    "id": 174,
+    "title": "Divine Polearm Mastery",
+    "rarity": 7.8,
+    "description": "#Your level of mastery with polearms is divine, with training, there is nothing you cannot stab, cut or strike. Space, Time, Heat, Mind, Souls, the only limit is the effort you are willing to put in. If you are not strong enough you may need training to properly digest this skill.",
+    "tier": "Mythical",
+    "color": "#fc61ff"
+  },
+  {
+    "id": 175,
+    "title": "Divine Blunt Weapon Mastery",
+    "rarity": 7.8,
+    "description": "#Your level of mastery with blunt instruments is divine, with training, there is nothing you cannot crush and shatter. Space, Time, Heat, Mind, Souls, the only limit is the effort you are willing to put in. If you are not strong enough you may need training to properly digest this skill.",
+    "tier": "Mythical",
+    "color": "#fc61ff"
+  },
+  {
+    "id": 176,
+    "title": "Divine Item Construction",
+    "rarity": 7.9,
+    "description": "#Your knowledge of creating artefacts and wonderous items is on the level of gods. The items you could create can be hailed as holy grails, if you have the skills, resources, time and abilities you could even make your own divine artefacts like a tesseract, a holy grail or even a Longinus.",
+    "tier": "Mythical",
+    "color": "#fc61ff"
+  },
+  {
+    "id": 177,
+    "title": "Divine Leadership",
+    "rarity": 7.4,
+    "description": "#Your leadership and ruling skills are on a divine level, you could maintain a galaxy-spanning empire and still be able to handle all bureaucracy yourself. Any army you lead will be soldiers with unstoppable morale and might, any empire you lead will prosper.",
+    "tier": "Mythical",
+    "color": "#fc61ff"
+  },
+  {
+    "id": 178,
+    "title": "Divine Charisma",
+    "rarity": 7.9,
+    "description": "#You have the presence and aura of a god. Your sheer charisma can bring people to their knees, attract people of note to you, calm down a raging beast, or inspire awe from the masses. You will be the most popular being alive.",
+    "tier": "Mythical",
+    "color": "#fc61ff"
+  },
+  {
+    "id": 179,
+    "title": "Divine Medicine",
+    "rarity": 7.5,
+    "description": "#You are as skilled as a god of health and medicine. You can modify and heal bodies to your liking as long as you have the tools, you know how to cure any ailment, not only that but you can create divine medicines like Panaceas and Elixirs of Immortality. But this knowledge is too much for a mortal vessel, so the knowledge manifests as instinctive comprehension when it comes to all matters of life, the stronger you get the more access you will get to the Divine Knowledge.",
+    "tier": "Mythical",
+    "color": "#fc61ff"
+  },
+  {
+    "id": 180,
+    "title": "Novice Interfacing",
+    "rarity": 1.4,
+    "description": "#You are nimble I can give you that, you know how to pick basic locks, pick pockets, find your way around mechanisms and move with decent grace.",
+    "tier": "Common",
+    "color": "#9c7e5a"
+  },
+  {
+    "id": 181,
+    "title": "Intermediate Interfacing",
+    "rarity": 2.3,
+    "description": "#You are a tricky one, you know how to pick locks, pick pockets, figure out the kinks in mechanics and have a feeling for knowing your way around things. Your fingers may get a little restless.",
+    "tier": "Uncommon",
+    "color": "#aed1d1"
+  },
+  {
+    "id": 182,
+    "title": "Adept Interfacing",
+    "rarity": 3.4,
+    "description": "#You are one dextrous fellow with slippery fingers. You can easily pick the most mundane locks, empty people's pockets without them noticing, perform magic tricks(performance, not actual magic), feel your way around the kinks in mechanics, and all around have some very dextrous fingers best at knowing their way around things, few barriers can keep you out, good luck keeping you in jail.",
+    "tier": "Rare",
+    "color": "#11d939"
+  },
+  {
+    "id": 183,
+    "title": "Expert Interfacing",
+    "rarity": 4.3,
+    "description": "#Your skill in interfacing is at the level where there are few locks and mechanisms that can keep you out. You can probably steal someone's clothes off of their body without them noticing. Your ability to feel around and exploit the weaknesses fo mechanisms such as locks, machines, terminals etc. is on an incredible level.",
+    "tier": "Elite",
+    "color": "#1172d9"
+  },
+  {
+    "id": 184,
+    "title": "Master Interfacing",
+    "rarity": 5.8,
+    "description": "#You are a master of interfacing, your fingers are so nimble that any lock or barrier may as well not exist in front of you. You could probably pick your way into Area 53 with a single hairpin. You can steal someone's underwear off their body without them noticing. You can interface with and exploit the weakness of any lock or mechanism like it's your own body.",
+    "tier": "Epic",
+    "color": "#6811d9"
+  },
+  {
+    "id": 185,
+    "title": "Novice Savoir Faire",
+    "rarity": 1.8,
+    "description": "#You know how to move with some relative grace and finesse. You are light on your feet, you know how to dance and how to place your feet so that you don't trip and fall. And if you do fall, you can do so with some semblance of grace.",
+    "tier": "Common",
+    "color": "#9c7e5a"
+  },
+  {
+    "id": 186,
+    "title": "Intermediate Savoir Faire",
+    "rarity": 2.7,
+    "description": "#You know how to move with grace and finesse. You are light on your feet and you can definitely tear up the dance floor. You rarely lose your balance and can perform parkour. You can also perform flips and manoeuvres with decent grace.",
+    "tier": "Uncommon",
+    "color": "#aed1d1"
+  },
+  {
+    "id": 187,
+    "title": "Adept Savoir Faire",
+    "rarity": 3.8,
+    "description": "#You are one smooth bastard. Grace and Finesse are natural to you. Allowing you to move with flair and smoothness. You are skilled at acrobatics, dancing, parkour and anything that requires finesse or agility",
+    "tier": "Rare",
+    "color": "#11d939"
+  },
+  {
+    "id": 188,
+    "title": "Expert Savoir Faire",
+    "rarity": 4.9,
+    "description": "#You are one stylish and cool bastard. Your finesse is unmatched. You can perform acrobatics, dancing, parkour and anything that requires finesse or agility at the level of an expert. You move like the wind and water, you are truly one stylish bastard.",
+    "tier": "Elite",
+    "color": "#1172d9"
+  },
+  {
+    "id": 189,
+    "title": "Master Savoir Faire",
+    "rarity": 5.9,
+    "description": "#You are the master of grace, cool and finesse. You perform feats of acrobatics, dancing, parkour and nimbleness that would baffle the minds of any as natural as you breathe. Even as a baseline human, you could probably dance around bullets.",
+    "tier": "Epic",
+    "color": "#6811d9"
+  },
+  {
+    "id": 190,
+    "title": "Novice Stealth",
+    "rarity": 1.4,
+    "description": "You are a novice in the way of stealth, you know how to mask your footsteps, how to sneak up on people, how to check for traps, and how to gather information more effectively. But anyone actually involved in the field is better than you.",
+    "tier": "Common",
+    "color": "#9c7e5a"
+  },
+  {
+    "id": 191,
+    "title": "Intermediate Stealth",
+    "rarity": 2.4,
+    "description": "You are experienced in the way of stealth, you know how to move silently, how to sneak up on people, how to check for traps, and how to gather information more effectively. You would be a qualified ninja grunt.",
+    "tier": "Uncommon",
+    "color": "#aed1d1"
+  },
+  {
+    "id": 192,
+    "title": "Adept Stealth",
+    "rarity": 3.6,
+    "description": "You are skilled in the way of stealth, you know how to move silently, how to sneak up on people, how to check for traps, you can blend into your surroundings and sneak up on people who know you are coming. You would make Solid Snake proud.",
+    "tier": "Rare",
+    "color": "#11d939"
+  },
+  {
+    "id": 193,
+    "title": "Expert Stealth",
+    "rarity": 4.7,
+    "description": "You are an expert in the way of stealth, you know how to move like a ghost, silently, blend into your surroundings and swim with the shadows. You could sneak into a military base and no soul would know you were there. You could stalk an owl through a forest while wearing a high-visibility jacket. You are up there with the greatest assassins.",
+    "tier": "Elite",
+    "color": "#1172d9"
+  },
+  {
+    "id": 194,
+    "title": "Master Stealth",
+    "rarity": 5.8,
+    "description": "You have mastered the art of stealth, you blend in with the shadows and move without a single sound, you can also suppress your presence so much that even someone looking directly at you would struggle to distinguish between you and the world around you. You are in league with even the greatest of the Hassasin.",
+    "tier": "Epic",
+    "color": "#6811d9"
+  },
+  {
+    "id": 195,
+    "title": "Jack of All Trades",
+    "rarity": 3.2,
+    "description": "#You have novice-level expertise in all basic skills, you can cook, smith, perform medicine, draw, repair, teach, drive, interface, and know most fields of study with basic competence and are fairly talented in those fields. Does not extend to combat skills.",
+    "tier": "Rare",
+    "color": "#11d939"
+  },
+  {
+    "id": 196,
+    "title": "Queen of All Trades",
+    "rarity": 4.6,
+    "description": "#You have intermediate-level expertise in all basic trades, you can cook, smith, perform medicine, draw, repair, teach, drive and interface with fair competence comparable to actual performers of the trade and are talented in those fields. Does not extend to combat skills.",
+    "tier": "Elite",
+    "color": "#1172d9"
+  },
+  {
+    "id": 197,
+    "title": "King of All Trades",
+    "rarity": 5.1,
+    "description": "#You have Adept-level expertise in all basic trades, you can cook, smith, perform medicine, draw, repair, teach, drive and interface with fair competence comparable to an actual veteran of the trade and are greatly talented in those fields. Does not extend to combat skills.",
+    "tier": "Epic",
+    "color": "#6811d9"
+  },
+  {
+    "id": 198,
+    "title": "Ace of All Trades",
+    "rarity": 6.2,
+    "description": "#You have Expert-level expertise in all basic trades, you can cook, smith, perform medicine, draw, build, teach, drive and interface with fair competence comparable to true experts of said trades and are very talented in those fields. Does not extend to combat skills.",
+    "tier": "Legendary",
+    "color": "#f7d40a"
+  },
+  {
+    "id": 199,
+    "title": "Firebending",
+    "rarity": 4.7,
+    "description": "#Avatar - You are an apprentice Firebender, being able to convert your internal energy into fire you can manipulate with your own form of movements and martial arts. The more experienced and trained you are the stronger your bending.",
+    "tier": "Elite",
+    "color": "#1172d9"
+  },
+  {
+    "id": 200,
+    "title": "Waterbending",
+    "rarity": 4.6,
+    "description": "#Avatar - You are an apprentice Waterbender, being able to use your internal energy to interact with the water in the world around you, using movements to bend to your will. The more experienced and trained you are the stronger your bending.",
+    "tier": "Elite",
+    "color": "#1172d9"
+  },
+  {
+    "id": 201,
+    "title": "Airbending",
+    "rarity": 4.9,
+    "description": "#Avatar - You are an apprentice Airbender, being able to use your internal energy to interact with the water in the world around you, using movements to bend to your will. The more experienced and trained you are the stronger your bending.",
+    "tier": "Elite",
+    "color": "#1172d9"
+  },
+  {
+    "id": 202,
+    "title": "Earthbending",
+    "rarity": 4.5,
+    "description": "#Avatar - You are an apprentice Earthbender, being able to use your internal energy to interact with the water in the world around you, using movements to bend to your will. The more experienced and trained you are the stronger your bending.",
+    "tier": "Elite",
+    "color": "#1172d9"
+  },
+  {
+    "id": 203,
+    "title": "Novice Performance",
+    "rarity": 1.0,
+    "description": "#You know how to put in a performance. You are able to play all musical instruments enough to play basic songs, you can also sing decently, you can dance without tripping. You would fit right in with a high school band.",
+    "tier": "Common",
+    "color": "#9c7e5a"
+  },
+  {
+    "id": 204,
+    "title": "Intermediate Performance",
+    "rarity": 2.1,
+    "description": "#You are a qualified performer. Being able to play all basic musical instruments enough to play most songs on them, and you can sing most songs well enough that people may just like them. If you get on the dance floor you won't be an eyesore to anyone. You can assemble your own semi-successful band.",
+    "tier": "Uncommon",
+    "color": "#aed1d1"
+  },
+  {
+    "id": 205,
+    "title": "Adept Performance",
+    "rarity": 3.2,
+    "description": "#You are a great performer. You can play all musical instruments well enough to impress most people, and you are great at singing too, enough to capture people's attention with your tunes and have a flair for impressing crowds. You certainly know how to put on a show. You would have a very successful entertainer career.",
+    "tier": "Rare",
+    "color": "#11d939"
+  },
+  {
+    "id": 206,
+    "title": "Expert Performance",
+    "rarity": 4.1,
+    "description": "#You have the skills of an expert performer. You can play any instrument about as well as anyone can, and sing with a voice that impresses just about anyone. You can captivate large crowds with your performance, and imbue your emotions into your songs, you know how to sway crowds like an expert. You would be hailed as one of the classics and counted among the greats.",
+    "tier": "Elite",
+    "color": "#1172d9"
+  },
+  {
+    "id": 207,
+    "title": "Master Performance",
+    "rarity": 5.6,
+    "description": "#You have mastered the art of putting on a performance. You can play any instrument well enough to impress the world, your voice when singing is nothing short of captivating. You can sway entire crowds, put on performances that make crowds weep or cheer, you know how to capture and sway crowds instinctively. Without a doubt, you would be hailed as one of the greatest artists and idols of all time.",
+    "tier": "Epic",
+    "color": "#6811d9"
+  },
+  {
+    "id": 208,
+    "title": "Novice Management",
+    "rarity": 1.6,
+    "description": "#You are a novice at managing things. You know how to schedule your day, distribute your tasks, and attention to spend your time better. You would make a decent secretary.",
+    "tier": "Common",
+    "color": "#9c7e5a"
+  },
+  {
+    "id": 209,
+    "title": "Intermediate Management",
+    "rarity": 2.6,
+    "description": "#You are fairly skilled at management tasks, you can split your attention adequately between tasks, distribute tasks, structure things, manage groups, etc. You would make a fine secretary or a small business owner.",
+    "tier": "Uncommon",
+    "color": "#aed1d1"
+  },
+  {
+    "id": 210,
+    "title": "Adept Management",
+    "rarity": 3.7,
+    "description": "#You are skilled at management tasks, you know how to distribute tasks, handle them efficiently, handle employees or minions, multitask efficiently and deal with financial problems efficiently. You could easily run your own company or be an excelling financial advisor.",
+    "tier": "Rare",
+    "color": "#11d939"
+  },
+  {
+    "id": 211,
+    "title": "Expert Management",
+    "rarity": 4.6,
+    "description": "#You have become an expert in the art of management. Whether it is managing finances, people, assets, distributing tasks or managing your own attention and problems you can do so with brutal efficiency and expertise. You can easily run a multi-national company or a nation.",
+    "tier": "Elite",
+    "color": "#1172d9"
+  },
+  {
+    "id": 212,
+    "title": "Master Management",
+    "rarity": 5.8,
+    "description": "#You are a master of management. You can easily manage tasks, people, assets, finances, distribution of tasks, and just about anything needed to manage a large group such as a company or even a country. You can also freely split your attention between tasks seamlessly, almost like parallel processing. You can increase your mastery even further by training and experience.",
+    "tier": "Epic",
+    "color": "#6811d9"
+  },
+  {
+    "id": 213,
+    "title": "Novice Discipline",
+    "rarity": 1.2,
+    "description": "#You have basic discipline. You are able to endure slight hardship, able to force yourself to eat things you don't want to eat and study when you don't want to but your discipline is not that much greater than the average person.",
+    "tier": "Common",
+    "color": "#9c7e5a"
+  },
+  {
+    "id": 214,
+    "title": "Intermediate Discipline",
+    "rarity": 2.5,
+    "description": "#Your discipline is remarkable. You are fairly disciplined, being able to endure hardship such as discomfort and pain without audible complaints. You can force yourself to train even when you don't want to and get out of bed even when it's very comfortable, you are pretty good at maintaining focus. People would say you have an excellent work ethic.",
+    "tier": "Uncommon",
+    "color": "#aed1d1"
+  },
+  {
+    "id": 215,
+    "title": "Adept Discipline",
+    "rarity": 3.6,
+    "description": "#Your dedication and focus are admirable. You are very disciplined, being able to focus on tasks without falling to distractions, you are able to grit your teeth and get it done, even when in pain you can push on. You are able to push through discomfort, annoyance, and pain to get whatever job you need to get done. It is hard to use mental abilities on you.",
+    "tier": "Rare",
+    "color": "#11d939"
+  },
+  {
+    "id": 216,
+    "title": "Expert Discipline",
+    "rarity": 4.8,
+    "description": "#You have a mind made of iron. Your focus is sharp as a blade, if you do not want to be interrupted you won't be, if you know you need to keep going, you will. You can endure the toughest of training, even if your body starts breaking down you can force it to keep going for longer. You are very resistant to mental influences and effects.",
+    "tier": "Elite",
+    "color": "#1172d9"
+  },
+  {
+    "id": 217,
+    "title": "Master Discipline",
+    "rarity": 6.0,
+    "description": "#You are the master of your own mind, the god of your own ship. Pain has no effect on your abilities, you can endure the toughest of punishments even if you think you can't. Your focus cannot be shaken, your discipline is unmatched. Your mind cannot be shaken by those weaker than yourself, and even then they will not have a good time. You are as disciplined as Batman himself.",
+    "tier": "Legendary",
+    "color": "#f7d40a"
+  },
+  {
+    "id": 218,
+    "title": "Rokushiki",
+    "rarity": 5.0,
+    "description": "#One Piece - A special superhuman martial arts developed for only the most expert and skilled of the Marines and Cipher Pol agents. Rokushiki consists of 6 different special superhuman techniques and a secret 7th one they have achieved mastery over the others. You start with knowledge of all techniques but have to train to use them.",
+    "tier": "Epic",
+    "color": "#6811d9"
+  },
+  {
+    "id": 219,
+    "title": "Caryll Runecraft",
+    "rarity": 4.2,
+    "description": "#The Outer Ones beyond the stars whisper to you, and allow you to catch glimpses of their knowledge in the form of runes. You can memorize the runes of the Outer Gods to acquire some boons. But you will have to study to memorize the runes given to you. You can only have three runes active at a time",
+    "tier": "Elite",
+    "color": "#1172d9"
+  },
+  {
+    "id": 221,
+    "title": "Intermediate Conceptualization",
+    "rarity": 2.9,
+    "description": "#Conceptualization is your ability to understand what is beyond the mundane. You are an intermediate at comprehending the Mystical and Esoteric. You learn and master magic faster, and you are better at understanding the composition of abilities and esoteric effects.",
+    "tier": "Uncommon",
+    "color": "#aed1d1"
+  },
+  {
+    "id": 222,
+    "title": "Adept Conceptualization",
+    "rarity": 3.9,
+    "description": "#Conceptualization is your ability to understand what is beyond the mundane and inexplicable. With this level, your mind probably won't be shattered by hearing the old ones whisper. Magic and Esoteric make more sense to you when you see them, you understand, learn, and develop magic more easily and have a better time understanding the mystical side of reality.",
+    "tier": "Rare",
+    "color": "#11d939"
+  },
+  {
+    "id": 223,
+    "title": "Expert Conceptualization",
+    "rarity": 4.8,
+    "description": "#Conceptualization is your ability to understand what is beyond mundane reality into the realm of esoterics and mystical. Your mind is more easily able to comprehend arcane mysteries and esoterics. Allowing you to learn and develop things like magic far more easily and possess a great intuition towards the esoteric side of reality.",
+    "tier": "Elite",
+    "color": "#1172d9"
+  },
+  {
+    "id": 224,
+    "title": "Master Conceptualization",
+    "rarity": 6.2,
+    "description": "#Conceptualization is your ability to understand what is below the veil of base reality. You are able to comprehend and understand arcane mysteries and Outer concepts like it is second nature. You are able to understand, dissect, learn and develop magic and mystery to a level that far outstrips most mages. You could hold a conversation with the old ones and even translate their words into runes with training if you were to ever hear them or use their words to break the minds of others.",
+    "tier": "Legendary",
+    "color": "#f7d40a"
+  },
+  {
+    "id": 225,
+    "title": "Divine Conceptualization",
+    "rarity": 9.0,
+    "description": "#You have achieved true conceptualization, your mind is wired differently from those of mortals and immortals. Understanding magic and mystery is not any harder than regular math or reading words on a paper. You could instinctively use magic and due to your natural understanding of the stars, you can call upon the powers of the Outer Gods, and use their words to bend reality around with enough practice. It would not be wrong to consider you an infant Outer God.",
+    "tier": "Transcendent",
+    "color": "#ff0000"
+  }
+]
