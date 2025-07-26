@@ -1,50 +1,96 @@
-# Welcome to your Expo app 👋
+# ✨ Chaos Gacha Mobile
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Welcome to **Chaos Gacha Mobile** – a playful, customizable gacha simulator built with [Expo](https://expo.dev) and React Native. Roll for randomized items, track your history, and tweak your luck with tickets and level configs!
 
-## Get started
+---
 
-1. Install dependencies
+## 🙏 Credits
 
+- **Original Python Script & Data:**  
+  Created by [Bronzdeck](https://github.com/Bronzdeck/ChaosGacha)  
+  Support the author on [Patreon](https://www.patreon.com/BronzDeck)
+
+---
+
+## 🚀 Quick Start
+
+1. **Install dependencies**
    ```bash
    npm install
    ```
 
-2. Start the app
-
+2. **Run the app**
    ```bash
    npx expo start
    ```
 
-In the output, you'll find options to open the app in a
+3. **Open on your device**
+   - Scan the QR code with [Expo Go](https://expo.dev/go)
+   - Or launch in an [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/) / [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+---
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 🎲 Features
 
-## Get a fresh project
+- **Gacha Simulator:** Roll for random items with customizable rarity and categories.
+- **History Tracking:** View your roll history and stats.
+- **Tickets & Levels:** Use tickets to influence your luck, or fine-tune min/ave/max levels.
+- **Parallax UI:** Enjoy a smooth, animated interface with themed visuals.
+- **Cross-Platform:** Works on iOS, Android, and web.
 
-When you're ready, run:
+---
+
+## 🗂️ Project Structure
+
+```
+app/
+  (tabs)/
+    index.tsx           # Main gacha screen
+    rollHistory.tsx     # Roll history & stats
+    options.tsx         # (Coming soon)
+components/
+  gacha_interface/      # Gacha UI components
+  ui/                   # Shared UI elements
+constants/              # App constants & types
+store/                  # Zustand store
+utils/                  # Utility functions
+assets/                 # Fonts & images
+```
+
+---
+
+## 🛠️ Customization
+
+- Edit gacha data in `data/` (e.g., `abilities.json`, `familiars.json`)
+- Tweak UI in `components/`
+- Update logic in `store/` and `utils/`
+
+---
+
+## 🧹 Reset the Project
+
+Want a fresh start? Move the starter code to `app-example` and create a blank app:
 
 ```bash
 npm run reset-project
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+---
 
-## Learn more
+## 📚 Learn More
 
-To learn more about developing your project with Expo, look at the following resources:
+- [Expo Documentation](https://docs.expo.dev/)
+- [File-based Routing](https://docs.expo.dev/router/introduction/)
+- [React Native](https://reactnative.dev/)
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+---
 
-## Join the community
+## 💬 Community
 
-Join our community of developers creating universal apps.
+- [Expo on GitHub](https://github.com/expo/expo)
+- [Expo Discord](https://chat.expo.dev)
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+---
+
+> Made with ❤️ using Expo & React Native.  
+> Original idea and data by [Bronzdeck](https://github.com/Bronzdeck/ChaosGacha)
