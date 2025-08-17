@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "chaos_gacha_mobile",
-    "slug": "chaos_gacha_mobile",
+    "slug": "chaos-gacha",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/adaptive-icon.jpg",
@@ -16,7 +16,8 @@
         "foregroundImage": "./assets/images/adaptive-icon.jpg",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.chaosgacha"
     },
     "web": {
       "bundler": "metro",
@@ -37,6 +38,13 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "d60856be-558f-48b1-ae91-06ee5c9d9076"
+      }
+    },
+    "owner": "parhomenkoeduard"
   }
 }

@@ -321,9 +321,9 @@
   },
   {
     "id": 41,
-    "title": "Bajinquan",
+    "title": "Bajiquan",
     "rarity": 3.5,
-    "description": "#You are an apprentice in Bajinquan, a Chinese martial art specializing in explosive short-range attacks and aggressive forward momentum to break through enemy defences. With sufficient mastery over Bajinquan, you can enhance your strikes with your internal energy",
+    "description": "#You are an apprentice in Bajiquan, a Chinese martial art specializing in explosive short-range attacks and aggressive forward momentum to break through enemy defences. With sufficient mastery over Bajiquan, you can enhance your strikes with your internal energy",
     "tier": "Rare",
     "color": "#11d939"
   },
@@ -1603,7 +1603,7 @@
     "id": 201,
     "title": "Airbending",
     "rarity": 4.9,
-    "description": "#Avatar - You are an apprentice Airbender, being able to use your internal energy to interact with the water in the world around you, using movements to bend to your will. The more experienced and trained you are the stronger your bending.",
+    "description": "#Avatar - You are an apprentice Airbender, being able to use your internal energy to interact with the air in the world around you, using movements to bend to your will. The more experienced and trained you are the stronger your bending.",
     "tier": "Elite",
     "color": "#1172d9"
   },
@@ -1611,7 +1611,7 @@
     "id": 202,
     "title": "Earthbending",
     "rarity": 4.5,
-    "description": "#Avatar - You are an apprentice Earthbender, being able to use your internal energy to interact with the water in the world around you, using movements to bend to your will. The more experienced and trained you are the stronger your bending.",
+    "description": "#Avatar - You are an apprentice Earthbender, being able to use your internal energy to interact with the earth in the world around you, using movements to bend to your will. The more experienced and trained you are the stronger your bending.",
     "tier": "Elite",
     "color": "#1172d9"
   },
@@ -1747,9 +1747,17 @@
     "id": 219,
     "title": "Caryll Runecraft",
     "rarity": 4.2,
-    "description": "#The Outer Ones beyond the stars whisper to you, and allow you to catch glimpses of their knowledge in the form of runes. You can memorize the runes of the Outer Gods to acquire some boons. But you will have to study to memorize the runes given to you. You can only have three runes active at a time",
+    "description": "#The Outer Ones beyond the stars whisper to you, and allow you to catch glimpses of their knowledge in the form of runes. You can memorize the runes of the Outer Gods to acquire some boons. But you will have to study to memorize the runes given to you. You can only have three runes active at a time  List of Runes: https://bloodborne.wiki.fextralife.com/Caryll+Runes",
     "tier": "Elite",
     "color": "#1172d9"
+  },
+  {
+    "id": 220,
+    "title": "Novice Conceptualization",
+    "rarity": 1.9,
+    "description": "#Conceptualization is your ability to understand what shouldn't be, in essence, it is your ability to comprehend the mystical, magical and eldrich. You have an easier time comprehending, understanding and learning mystical and exotic effects but so much above the average person.",
+    "tier": "Common",
+    "color": "#9c7e5a"
   },
   {
     "id": 221,
@@ -1790,5 +1798,45 @@
     "description": "#You have achieved true conceptualization, your mind is wired differently from those of mortals and immortals. Understanding magic and mystery is not any harder than regular math or reading words on a paper. You could instinctively use magic and due to your natural understanding of the stars, you can call upon the powers of the Outer Gods, and use their words to bend reality around with enough practice. It would not be wrong to consider you an infant Outer God.",
     "tier": "Transcendent",
     "color": "#ff0000"
+  },
+  {
+    "id": 226,
+    "title": "Somas Winemaking",
+    "rarity": 5.1,
+    "description": "#Danmachi - You are as great at making wine and other alcoholic products as the god Soma. But you still need experimentation to figure out the wines you can make with the resources. Even god does not succeed every time.",
+    "tier": "Epic",
+    "color": "#6811d9"
+  },
+  {
+    "id": 227,
+    "title": "Quickening",
+    "rarity": 4.7,
+    "description": "#Bloodborne - You have mastered the Quickening Technique of the Old Hunters, allowing you to briefly dash forward with incredible speed while shrouding your form in arcane fog to obscure your movements. This can put quite a strain on the stamina and energy.",
+    "tier": "Elite",
+    "color": "#1172d9"
+  },
+  {
+    "id": 228,
+    "title": "Edna Mode",
+    "rarity": 3.8,
+    "description": "#Incredibles - You are not a simple fashionista baby, you are THE fashionista. You are a master of designing clothes and costumes; if someone needs a costume, they come to YOU. Your skill in creating costumes can be compared to a Tinker even because you are just THAT good.",
+    "tier": "Rare",
+    "color": "#11d939"
+  },
+  {
+    "id": 229,
+    "title": "Salt Distillation",
+    "rarity": 0.1,
+    "description": "#You are skilled at extracting salt from sources of water or tears.",
+    "tier": "Trash",
+    "color": "#a39589"
+  },
+  {
+    "id": 230,
+    "title": "Prana Bindu",
+    "rarity": 4.8,
+    "description": "#Dune - You are learned in the ways of Prana Bindu, allowing you to train in controlling your body beyond human levels. From controlling how your individual muscles move, to controlling individual strands and eventually, with enough training, controlling your very own nerves and bioelectrical signals.",
+    "tier": "Elite",
+    "color": "#1172d9"
   }
 ]
