@@ -112,7 +112,7 @@ export default function RollHistory() {
               onPress={() => router.push("/(tabs)/")}
             >
               <ThemedText style={styles.goHomeButtonText}>
-                Go to Home
+                Go to Gacha
               </ThemedText>
             </TouchableOpacity>
           </View>
@@ -304,6 +304,7 @@ const styles = StyleSheet.create({
   emptyIcon: {
     fontSize: 64,
     marginBottom: 16,
+    lineHeight: 96,
   },
   emptyText: {
     fontSize: 24,

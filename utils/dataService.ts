@@ -5,6 +5,7 @@ import familiarsData from "@/data/familiars.json";
 import itemsData from "@/data/items.json";
 import skillsData from "@/data/skills.json";
 import traitsData from "@/data/traits.json";
+import AsyncStorage from "@react-native-async-storage/async-storage";
 import { normalizeText } from "./normalizeText";
 
 const categoryData: Record<Category, any[]> = {
@@ -65,10 +66,47 @@ const getItemsByRarityRange = (
   });
 };
 
-export const getRandomItemFromCategory = (
+// Filter items based on user preferences
+const filterItemsByPreferences = async (items: any[]): Promise<any[]> => {
+  try {
+    const excludeCharacterDrops = await AsyncStorage.getItem(
+      "excludeCharacterDrops"
+    );
+    const excludeTechDrops = await AsyncStorage.getItem("excludeTechDrops");
+
+    const shouldExcludeCharacter = excludeCharacterDrops
+      ? JSON.parse(excludeCharacterDrops)
+      : false;
+    const shouldExcludeTech = excludeTechDrops
+      ? JSON.parse(excludeTechDrops)
+      : false;
+
+    return items.filter((item) => {
+      const description = item.description || "";
+
+      // Check for character drops exclusion
+      if (shouldExcludeCharacter && description.startsWith("#(Character)")) {
+        return false;
+      }
+
+      // Check for tech drops exclusion
+      if (shouldExcludeTech && description.startsWith("#(Tech)")) {
+        return false;
+      }
+
+      return true;
+    });
+  } catch (error) {
+    console.error("Error loading filter preferences:", error);
+    // If there's an error loading preferences, return all items
+    return items;
+  }
+};
+
+export const getRandomItemFromCategory = async (
   selectedCategory: Category,
   levels: Levels
-): { item: Item | null; actualRarity: number } => {
+): Promise<{ item: Item | null; actualRarity: number }> => {
   let dataSource: any[] = [];
 
   if (selectedCategory === "random") {
@@ -88,6 +126,15 @@ export const getRandomItemFromCategory = (
     return { item: null, actualRarity: 0 };
   }
 
+  // Apply user preference filters
+  dataSource = await filterItemsByPreferences(dataSource);
+
+  // If all items are filtered out, return fallback
+  if (dataSource.length === 0) {
+    console.warn("All items filtered out by user preferences, using fallback");
+    return await generateFallbackItem(levels);
+  }
+
   // Generate rarity based on levels
   const targetRarity = generateRarity(levels.min, levels.max, levels.ave);
 
@@ -99,7 +146,7 @@ export const getRandomItemFromCategory = (
     filteredItems = getItemsByRarityRange(dataSource, targetRarity, 1.0);
   }
 
-  // If still no items, use all items
+  // If still no items, use all remaining items
   if (filteredItems.length === 0) {
     filteredItems = dataSource;
   }
@@ -132,13 +179,14 @@ export const getRandomItemFromCategory = (
   return { item: processedItem, actualRarity: targetRarity };
 };
 
-export const generateFallbackItem = (
+export const generateFallbackItem = async (
   levels: Levels
-): { item: Item; actualRarity: number } => {
+): Promise<{ item: Item; actualRarity: number }> => {
   const fallbackItem: Item = {
     title: "Fallback Item",
     rarity: generateRarity(levels.min, levels.max, levels.ave),
-    description: "This is a fallback item generated due to lack of data.",
+    description:
+      "This is a fallback item generated due to lack of available data.",
     tier: "N/A",
     category: "random",
   };
@@ -150,4 +198,34 @@ export const generateFallbackItem = (
         ? fallbackItem.rarity
         : parseFloat(fallbackItem.rarity),
   };
+};
+
+// Utility function to get filter status for UI display
+export const getFilterStatus = async (): Promise<{
+  excludeCharacterDrops: boolean;
+  excludeTechDrops: boolean;
+  isDarkTheme: boolean;
+}> => {
+  try {
+    const [characterDrops, techDrops, theme] = await AsyncStorage.multiGet([
+      "excludeCharacterDrops",
+      "excludeTechDrops",
+      "isDarkTheme",
+    ]);
+
+    return {
+      excludeCharacterDrops: characterDrops[1]
+        ? JSON.parse(characterDrops[1])
+        : false,
+      excludeTechDrops: techDrops[1] ? JSON.parse(techDrops[1]) : false,
+      isDarkTheme: theme[1] ? JSON.parse(theme[1]) : true,
+    };
+  } catch (error) {
+    console.error("Error getting filter status:", error);
+    return {
+      excludeCharacterDrops: false,
+      excludeTechDrops: false,
+      isDarkTheme: true,
+    };
+  }
 };

@@ -26,10 +26,10 @@ export type Category = (typeof categories)[number];
 
 export const rarityTicketColors: Record<string, string> = {
   bronze: "#8D5524",
-  silver: "#C0C0C0",
+  silver: "#c2bfb8",
   golden: "#FFD700",
-  platinum: "#E5E4E2",
-  diamond: "#B9F2FF",
+  platinum: "#77cfbc",
+  diamond: "#73e4fe",
   legendary: "#e36131",
   mythical: "#9400D3",
   divine: "#ff0019",

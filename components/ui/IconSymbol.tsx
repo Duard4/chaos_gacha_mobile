@@ -8,12 +8,21 @@ import { OpaqueColorValue, type StyleProp, type TextStyle } from "react-native";
 type IconMapping = {
   [K in string]: ComponentProps<typeof MaterialIcons>["name"];
 };
+
 const MAPPING = {
   book: "book",
-  // "clock.badge.questionmark": "schedule",
   "hammer.fill": "build",
   "inbox.right": "inbox",
+  // Options screen icons
+  "paintbrush.fill": "palette",
+  "person.fill": "person",
+  "gear.fill": "settings",
+  "arrow.clockwise": "refresh",
+  "line.horizontal.3.decrease.circle": "filter-list",
+  "chevron.right": "chevron-right",
+  "chevron.left": "chevron-left",
 } as const;
+
 type IconSymbolName = keyof typeof MAPPING;
 
 /**
@@ -26,6 +35,7 @@ export function IconSymbol({
   size = 24,
   color,
   style,
+  weight,
 }: {
   name: IconSymbolName;
   size?: number;
@@ -41,7 +51,4 @@ export function IconSymbol({
       style={style}
     />
   );
-}
-{
-  /* <Ionicons name="settings-outline" size={24} color="black" /> */
 }
